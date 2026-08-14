@@ -154,7 +154,7 @@
             "last_commit": "2026-03-25T12:35:22Z",
             "owner": "srigas",
             "repo": "jaxKAN",
-            "stars": 110
+            "stars": 111
           }
         },
         {
@@ -453,20 +453,6 @@
         },
         {
           "node_type": "item",
-          "title": "Kolmogorov-Arnold Network for Online Reinforcement Learning",
-          "description": "code |",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2024-08-19T17:38:10Z",
-            "owner": "victorkich",
-            "repo": "Kolmogorov-PPO",
-            "stars": 17
-          }
-        },
-        {
-          "node_type": "item",
           "title": "Learnable polynomial, trigonometric, and tropical activations",
           "description": "We introduce a novel variance-preserving initialization for learnable activations by using orthogonal functions, simplifying the computation of 2nd-order moments, and demonstrate improved performance in ImageNet classification with ConvNeXt and next-token prediction with GPT-2 on OpenWebText.| code",
           "children": [],
@@ -476,6 +462,20 @@
             "last_commit": "2026-02-23T11:16:58Z",
             "owner": "K-H-Ismail",
             "repo": "torchortho",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kolmogorov-Arnold Network for Online Reinforcement Learning",
+          "description": "code |",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-08-19T17:38:10Z",
+            "owner": "victorkich",
+            "repo": "Kolmogorov-PPO",
             "stars": 17
           }
         },
@@ -734,7 +734,7 @@
             "last_commit": "2025-01-19T18:49:39Z",
             "owner": "KindXiaoming",
             "repo": "pykan",
-            "stars": 16334
+            "stars": 16333
           }
         },
         {
@@ -762,7 +762,7 @@
             "last_commit": "2024-05-24T07:00:57Z",
             "owner": "GistNoesis",
             "repo": "FourierKAN",
-            "stars": 754
+            "stars": 753
           }
         },
         {
@@ -804,7 +804,7 @@
             "last_commit": "2024-05-03T05:32:04Z",
             "owner": "WillHua127",
             "repo": "GraphKAN-Graph-Kolmogorov-Arnold-Networks",
-            "stars": 352
+            "stars": 351
           }
         },
         {
@@ -818,7 +818,7 @@
             "last_commit": "2024-05-03T05:32:04Z",
             "owner": "WillHua127",
             "repo": "GraphKAN-Graph-Kolmogorov-Arnold-Networks",
-            "stars": 352
+            "stars": 351
           }
         },
         {
@@ -1286,7 +1286,7 @@
             "last_commit": "2026-03-25T12:35:22Z",
             "owner": "srigas",
             "repo": "jaxKAN",
-            "stars": 110
+            "stars": 111
           }
         },
         {
@@ -1880,7 +1880,7 @@
             "last_commit": "2025-01-19T18:49:39Z",
             "owner": "KindXiaoming",
             "repo": "pykan",
-            "stars": 16334
+            "stars": 16333
           }
         },
         {
@@ -2024,7 +2024,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:00:11.778Z",
+    "last_updated": "2026-08-14T04:56:34.763Z",
     "original_repository": "mintisan/awesome-kan",
     "original_repository_sha": "107dc43089a628ba3b50715b71710e04a176c4c4",
     "enhanced_repository": "enhansome/enhansome-kan",
