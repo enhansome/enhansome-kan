@@ -14,7 +14,7 @@
             "last_commit": "2026-08-05T16:33:50Z",
             "owner": "pnnl",
             "repo": "neuromancer",
-            "stars": 1364
+            "stars": 1365
           }
         },
         {
@@ -734,7 +734,7 @@
             "last_commit": "2025-01-19T18:49:39Z",
             "owner": "KindXiaoming",
             "repo": "pykan",
-            "stars": 16334
+            "stars": 16333
           }
         },
         {
@@ -1588,7 +1588,7 @@
             "last_commit": "2026-08-05T16:33:50Z",
             "owner": "pnnl",
             "repo": "neuromancer",
-            "stars": 1364
+            "stars": 1365
           }
         },
         {
@@ -1880,7 +1880,7 @@
             "last_commit": "2025-01-19T18:49:39Z",
             "owner": "KindXiaoming",
             "repo": "pykan",
-            "stars": 16334
+            "stars": 16333
           }
         },
         {
@@ -1894,7 +1894,7 @@
             "last_commit": "2026-08-05T16:33:50Z",
             "owner": "pnnl",
             "repo": "neuromancer",
-            "stars": 1364
+            "stars": 1365
           }
         },
         {
@@ -2024,7 +2024,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T03:47:29.403Z",
+    "last_updated": "2026-08-16T03:54:11.940Z",
     "original_repository": "mintisan/awesome-kan",
     "original_repository_sha": "107dc43089a628ba3b50715b71710e04a176c4c4",
     "enhanced_repository": "enhansome/enhansome-kan",
