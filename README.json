@@ -734,7 +734,7 @@
             "last_commit": "2025-01-19T18:49:39Z",
             "owner": "KindXiaoming",
             "repo": "pykan",
-            "stars": 16333
+            "stars": 16334
           }
         },
         {
@@ -748,7 +748,7 @@
             "last_commit": "2024-08-01T12:21:05Z",
             "owner": "Blealtan",
             "repo": "efficient-kan",
-            "stars": 4655
+            "stars": 4656
           }
         },
         {
@@ -1880,7 +1880,7 @@
             "last_commit": "2025-01-19T18:49:39Z",
             "owner": "KindXiaoming",
             "repo": "pykan",
-            "stars": 16333
+            "stars": 16334
           }
         },
         {
@@ -2024,9 +2024,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T03:54:11.940Z",
+    "last_updated": "2026-08-17T03:56:31.416Z",
     "original_repository": "mintisan/awesome-kan",
-    "original_repository_sha": "107dc43089a628ba3b50715b71710e04a176c4c4",
+    "original_repository_sha": "795e8f7d696a50b75bf55c6fc41b1f50e68a97f3",
     "enhanced_repository": "enhansome/enhansome-kan",
     "enhanced_repository_description": null,
     "title": "Awesome KAN(Kolmogorov-Arnold Network) with stars"

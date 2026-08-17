@@ -1,6 +1,6 @@
 # Awesome KAN(Kolmogorov-Arnold Network) with stars
 
-![Awesome](https://awesome.re/badge.svg) [![Contributions](https://img.shields.io/github/issues-pr-closed-raw/mintisan/awesome-kan.svg?label=contributions)](https://github.com/mintisan/awesome-kan/pulls) ⭐ 3,291 | 🐛 6 | 📅 2026-08-08 [![Commits](https://img.shields.io/github/last-commit/mintisan/awesome-kan.svg?label=last%20contribution)](https://github.com/gigwegbe/tinyml-papers-and-projects/commits/main) ⭐ 1,031 | 🐛 3 | 📅 2025-12-08 ![GitHub stars](https://img.shields.io/github/stars/mintisan/awesome-kan.svg?style=social)
+![Awesome](https://awesome.re/badge.svg) [![Contributions](https://img.shields.io/github/issues-pr-closed-raw/mintisan/awesome-kan.svg?label=contributions)](https://github.com/mintisan/awesome-kan/pulls) ⭐ 3,291 | 🐛 6 | 📅 2026-08-17 [![Commits](https://img.shields.io/github/last-commit/mintisan/awesome-kan.svg?label=last%20contribution)](https://github.com/gigwegbe/tinyml-papers-and-projects/commits/main) ⭐ 1,031 | 🐛 3 | 📅 2025-12-08 ![GitHub stars](https://img.shields.io/github/stars/mintisan/awesome-kan.svg?style=social)
 
 A curated list of awesome libraries, projects, tutorials, papers, and other resources related to Kolmogorov-Arnold Network (KAN). This repository aims to be a comprehensive and organized collection that will help researchers and developers in the world of KAN!
 
@@ -118,8 +118,8 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 
 ## Library
 
-* [pykan](https://github.com/KindXiaoming/pykan) ⭐ 16,333 | 🐛 266 | 🌐 Jupyter Notebook | 📅 2025-01-19 : Offical implementation for Kolmogorov Arnold Networks ｜ ![Github stars](https://img.shields.io/github/stars/KindXiaoming/pykan.svg)
-* [efficient-kan](https://github.com/Blealtan/efficient-kan) ⭐ 4,655 | 🐛 38 | 🌐 Python | 📅 2024-08-01 : An efficient pure-PyTorch implementation of Kolmogorov-Arnold Network (KAN). ｜ ![Github stars](https://img.shields.io/github/stars/Blealtan/efficient-kan.svg)
+* [pykan](https://github.com/KindXiaoming/pykan) ⭐ 16,334 | 🐛 266 | 🌐 Jupyter Notebook | 📅 2025-01-19 : Offical implementation for Kolmogorov Arnold Networks ｜ ![Github stars](https://img.shields.io/github/stars/KindXiaoming/pykan.svg)
+* [efficient-kan](https://github.com/Blealtan/efficient-kan) ⭐ 4,656 | 🐛 38 | 🌐 Python | 📅 2024-08-01 : An efficient pure-PyTorch implementation of Kolmogorov-Arnold Network (KAN). ｜ ![Github stars](https://img.shields.io/github/stars/Blealtan/efficient-kan.svg)
 * [FourierKAN](https://github.com/GistNoesis/FourierKAN/) ⭐ 753 | 🐛 3 | 🌐 Python | 📅 2024-05-24 : Pytorch Layer for FourierKAN. It is a layer intended to be a substitution for Linear + non-linear activation |  ![Github stars](https://img.shields.io/github/stars/GistNoesis/FourierKAN.svg)
 * [FastKAN](https://github.com/ZiyaoLi/fast-kan) ⭐ 490 | 🐛 7 | 🌐 Jupyter Notebook | 📅 2024-06-20 : Very Fast Calculation of Kolmogorov-Arnold Networks (KAN)  ｜ ![Github stars](https://img.shields.io/github/stars/ZiyaoLi/fast-kan.svg)
 * [ChebyKAN](https://github.com/SynodicMonth/ChebyKAN) ⭐ 417 | 🐛 11 | 🌐 Jupyter Notebook | 📅 2024-05-13 : Kolmogorov-Arnold Networks (KAN) using Chebyshev polynomials instead of B-splines. ｜ ![Github stars](https://img.shields.io/github/stars/SynodicMonth/ChebyKAN.svg)
@@ -176,7 +176,7 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 * [convkan](https://github.com/StarostinV/convkan) ⭐ 121 | 🐛 4 | 🌐 Python | 📅 2025-03-25 : Implementation of convolutional layer version of KAN (drop-in replacement of Conv2d) ｜ ![Github stars](https://img.shields.io/github/stars/StarostinV/convkan.svg)
 * [CNN-KAN](https://github.com/jakariaemon/CNN-KAN) ⭐ 82 | 🐛 3 | 🌐 Python | 📅 2024-05-23 : A modified CNN architecture using Kolmogorov-Arnold Networks | ![Github stars](https://img.shields.io/github/stars/jakariaemon/CNN-KAN.svg)
 * [KA-Conv](https://github.com/XiangboGaoBarry/KA-Conv) ⭐ 68 | 🐛 2 | 🌐 Python | 📅 2024-05-15 : Kolmogorov-Arnold Convolutional Networks with Various Basis Functions (Optimization for Efficiency and GPU memory usage) | ![Github stars](https://img.shields.io/github/stars/XiangboGaoBarry/KA-Conv.svg)
-* [KAN-Conv2D](https://github.com/omarrayyann/KAN-Conv2D) ⭐ 19 | 🐛 0 | 🌐 Python | 📅 2024-05-23 : Drop-in Convolutional KAN built on multiple implementations ([Original pykan](https://github.com/KindXiaoming/pykan) ⭐ 16,333 | 🐛 266 | 🌐 Jupyter Notebook | 📅 2025-01-19 / [efficient-kan](https://github.com/Blealtan/efficient-kan) ⭐ 4,655 | 🐛 38 | 🌐 Python | 📅 2024-08-01 / [FastKAN](https://github.com/ZiyaoLi/fast-kan) ⭐ 490 | 🐛 7 | 🌐 Jupyter Notebook | 📅 2024-06-20) to support the original paper hyperparameters. | ![Github stars](https://img.shields.io/github/stars/omarrayyann/KAN-Conv2D.svg)
+* [KAN-Conv2D](https://github.com/omarrayyann/KAN-Conv2D) ⭐ 19 | 🐛 0 | 🌐 Python | 📅 2024-05-23 : Drop-in Convolutional KAN built on multiple implementations ([Original pykan](https://github.com/KindXiaoming/pykan) ⭐ 16,334 | 🐛 266 | 🌐 Jupyter Notebook | 📅 2025-01-19 / [efficient-kan](https://github.com/Blealtan/efficient-kan) ⭐ 4,656 | 🐛 38 | 🌐 Python | 📅 2024-08-01 / [FastKAN](https://github.com/ZiyaoLi/fast-kan) ⭐ 490 | 🐛 7 | 🌐 Jupyter Notebook | 📅 2024-06-20) to support the original paper hyperparameters. | ![Github stars](https://img.shields.io/github/stars/omarrayyann/KAN-Conv2D.svg)
 * [ConvKAN3D](https://github.com/FirasBDarwish/ConvKAN3D) ⭐ 14 | 🐛 1 | 🌐 Python | 📅 2024-05-25 : 3D Convolutional Layer built on top of the efficient-kan implementation (importable Python package from PyPi), drop-in replacement of Conv3d.
 
 ### Benchmark
@@ -238,7 +238,7 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 
 ## Tutorial
 
-* [Official Tutorial Notebooks](https://github.com/KindXiaoming/pykan/tree/master/tutorials) ⭐ 16,333 | 🐛 266 | 🌐 Jupyter Notebook | 📅 2025-01-19
+* [Official Tutorial Notebooks](https://github.com/KindXiaoming/pykan/tree/master/tutorials) ⭐ 16,334 | 🐛 266 | 🌐 Jupyter Notebook | 📅 2025-01-19
 * [Neuromancer FBKAN tutorials](https://github.com/pnnl/neuromancer/tree/feature/fbkans/examples/KANs) ⭐ 1,365 | 🐛 17 | 🌐 Python | 📅 2026-08-05: Examples of usage of finite basis KANs, easily accessible via Google Colab notebooks.
 * [team-daniel/KAN](https://github.com/team-daniel/KAN) ⭐ 261 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-09-05 : Implementation on how to use Kolmogorov-Arnold Networks (KANs) for classification and regression tasks.｜ ![Github stars](https://img.shields.io/github/stars/team-daniel/KAN.svg)
 * [pg2455/KAN-Tutorial](https://github.com/pg2455/KAN-Tutorial) ⭐ 207 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2025-05-26  ｜ ![Github stars](https://img.shields.io/github/stars/pg2455/KAN-Tutorial.svg)
@@ -294,8 +294,8 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=mintisan/awesome-kan)](https://star-history.com/#mintisan/awesome-kan\&Date)
+[![Star History Chart](https://star-history.dera.page/svg?repos=mintisan/awesome-kan)](https://star-history.dera.page/#mintisan/awesome-kan\&Date)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
