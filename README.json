@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 304116981,
             "language": "Python",
             "last_commit": "2026-08-05T16:33:50Z",
             "owner": "pnnl",
             "repo": "neuromancer",
-            "stars": 1365
+            "stars": 1366
           }
         },
         {
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 797008340,
             "language": "Jupyter Notebook",
             "last_commit": "2025-04-08T15:20:20Z",
             "owner": "AntonioTepsich",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 852897652,
             "language": "Python",
             "last_commit": "2025-03-23T06:35:19Z",
             "owner": "Adamdad",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 810097823,
             "language": "Python",
             "last_commit": "2025-06-23T16:35:29Z",
             "owner": "CUHK-AIM-Group",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 799845479,
             "language": "Python",
             "last_commit": "2026-08-17T06:53:20Z",
             "owner": "IvanDrokin",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 851942570,
             "language": "Python",
             "last_commit": "2025-10-28T18:27:24Z",
             "owner": "withray",
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 798338225,
             "language": "Python",
             "last_commit": "2024-12-16T22:11:35Z",
             "owner": "remigenet",
@@ -108,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 480727972,
             "language": "Python",
             "last_commit": "2026-02-07T07:03:51Z",
             "owner": "yizheng-wang",
@@ -122,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 825567698,
             "language": "Jupyter Notebook",
             "last_commit": "2024-08-17T15:06:10Z",
             "owner": "yu-rp",
@@ -136,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 844820558,
             "language": "Python",
             "last_commit": "2026-05-14T01:08:27Z",
             "owner": "smilehanCN",
@@ -150,6 +160,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 799120828,
             "language": "Python",
             "last_commit": "2026-03-25T12:35:22Z",
             "owner": "srigas",
@@ -164,6 +175,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 809597549,
             "language": "Python",
             "last_commit": "2024-06-05T01:05:40Z",
             "owner": "quiqi",
@@ -178,6 +190,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 809767791,
             "language": "Jupyter Notebook",
             "last_commit": "2024-12-27T11:14:23Z",
             "owner": "remigenet",
@@ -192,6 +205,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 807565208,
             "language": "Python",
             "last_commit": "2024-06-04T12:47:02Z",
             "owner": "Ryanfzhang",
@@ -206,6 +220,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 815497475,
             "language": "Python",
             "last_commit": "2024-11-24T17:48:12Z",
             "owner": "remigenet",
@@ -220,6 +235,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 808046100,
             "language": "Python",
             "last_commit": "2025-12-02T06:38:14Z",
             "owner": "Jinfeng-Xu",
@@ -234,6 +250,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 808476977,
             "language": "Python",
             "last_commit": "2024-11-30T10:36:05Z",
             "owner": "f-neumann77",
@@ -248,6 +265,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 844461570,
             "language": "Jupyter Notebook",
             "last_commit": "2025-09-20T16:15:53Z",
             "owner": "knottwill",
@@ -262,6 +280,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 848273708,
             "language": "Python",
             "last_commit": "2026-05-07T06:46:10Z",
             "owner": "hoangthangta",
@@ -276,6 +295,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 900232849,
             "language": "Python",
             "last_commit": "2026-08-06T08:03:21Z",
             "owner": "hoangthangta",
@@ -290,6 +310,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 900232849,
             "language": "Python",
             "last_commit": "2026-08-06T08:03:21Z",
             "owner": "hoangthangta",
@@ -304,6 +325,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 813781750,
             "language": "Python",
             "last_commit": "2025-01-17T19:14:04Z",
             "owner": "alirezaafzalaghaei",
@@ -318,6 +340,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 803307114,
             "language": "Python",
             "last_commit": "2025-05-28T04:27:31Z",
             "owner": "jindeok",
@@ -332,6 +355,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 811308705,
             "language": "Python",
             "last_commit": "2025-11-30T20:38:10Z",
             "owner": "hoangthangta",
@@ -346,6 +370,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 925171741,
             "language": "Jupyter Notebook",
             "last_commit": "2025-02-19T13:20:05Z",
             "owner": "kolmogorovArnoldFourierNetwork",
@@ -360,6 +385,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 831461585,
             "language": "Python",
             "last_commit": "2024-08-18T04:11:53Z",
             "owner": "lcbkmm",
@@ -374,6 +400,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 817589477,
             "language": "Python",
             "last_commit": "2024-06-28T17:21:37Z",
             "owner": "alirezaafzalaghaei",
@@ -388,6 +415,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 906901634,
             "language": "Jupyter Notebook",
             "last_commit": "2024-12-22T21:36:49Z",
             "owner": "Ali-Meh619",
@@ -402,6 +430,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 805424769,
             "language": "Python",
             "last_commit": "2024-05-28T02:51:06Z",
             "owner": "hhyqhh",
@@ -416,6 +445,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 819483401,
             "language": "Python",
             "last_commit": "2025-01-09T19:05:49Z",
             "owner": "Aqasch",
@@ -430,6 +460,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 832089748,
             "language": "Python",
             "last_commit": "2025-06-23T13:57:19Z",
             "owner": "Ghaith81",
@@ -444,6 +475,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 832089748,
             "language": "Python",
             "last_commit": "2025-06-23T13:57:19Z",
             "owner": "Ghaith81",
@@ -458,6 +490,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 864142924,
             "language": "Jupyter Notebook",
             "last_commit": "2026-02-23T11:16:58Z",
             "owner": "K-H-Ismail",
@@ -472,6 +505,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 822439080,
             "language": "Jupyter Notebook",
             "last_commit": "2024-08-19T17:38:10Z",
             "owner": "victorkich",
@@ -486,6 +520,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1173474206,
             "language": "Jupyter Notebook",
             "last_commit": "2026-05-13T23:10:55Z",
             "owner": "Center-For-Complex-Systems-Science",
@@ -500,6 +535,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 986628430,
             "language": "Python",
             "last_commit": "2025-06-06T16:07:47Z",
             "owner": "OSU-STARLAB",
@@ -514,6 +550,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 924421067,
             "language": "Jupyter Notebook",
             "last_commit": "2025-02-03T12:03:22Z",
             "owner": "rodakt",
@@ -528,6 +565,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 818122247,
             "language": "Jupyter Notebook",
             "last_commit": "2024-06-29T12:24:57Z",
             "owner": "jmj2316",
@@ -542,6 +580,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 832881089,
             "language": "Python",
             "last_commit": "2025-03-01T19:25:45Z",
             "owner": "OSU-STARLAB",
@@ -556,6 +595,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 928277853,
             "language": "Python",
             "last_commit": "2026-05-11T19:21:55Z",
             "owner": "M-Wolff",
@@ -570,6 +610,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 984494188,
             "language": "Python",
             "last_commit": "2025-09-17T05:02:07Z",
             "owner": "Murphyzc",
@@ -584,6 +625,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 830399041,
             "language": "Jupyter Notebook",
             "last_commit": "2024-11-01T14:14:50Z",
             "owner": "remigenet",
@@ -598,6 +640,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 796353983,
             "language": "Jupyter Notebook",
             "last_commit": "2024-10-19T19:26:30Z",
             "owner": "abdalimran",
@@ -612,6 +655,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 826482885,
             "language": "Jupyter Notebook",
             "last_commit": "2024-08-07T04:29:51Z",
             "owner": "wtroy2",
@@ -626,6 +670,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1137386733,
             "language": "Python",
             "last_commit": "2026-02-16T12:24:01Z",
             "owner": "aristotelisxs",
@@ -640,6 +685,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1050798110,
             "language": "Python",
             "last_commit": "2026-05-10T04:13:18Z",
             "owner": "baboonaaaa",
@@ -654,6 +700,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1064553691,
             "language": "Python",
             "last_commit": "2026-07-20T08:30:04Z",
             "owner": "baboonaaaa",
@@ -668,6 +715,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1025374887,
             "language": "Python",
             "last_commit": "2026-06-29T04:50:03Z",
             "owner": "julianhoever",
@@ -682,6 +730,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1106286644,
             "language": "Python",
             "last_commit": "2025-11-29T00:44:39Z",
             "owner": "jmj2316",
@@ -696,6 +745,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1121227866,
             "language": "Python",
             "last_commit": "2026-06-24T04:32:35Z",
             "owner": "alibayeh",
@@ -710,6 +760,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1249715399,
             "language": "Python",
             "last_commit": "2026-05-26T01:43:58Z",
             "owner": "alibayeh",
@@ -721,7 +772,7 @@
       "title": "Papers"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -730,6 +781,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 792896859,
             "language": "Jupyter Notebook",
             "last_commit": "2025-01-19T18:49:39Z",
             "owner": "KindXiaoming",
@@ -744,6 +796,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 795068880,
             "language": "Python",
             "last_commit": "2024-08-01T12:21:05Z",
             "owner": "Blealtan",
@@ -758,6 +811,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 794527798,
             "language": "Python",
             "last_commit": "2024-05-24T07:00:57Z",
             "owner": "GistNoesis",
@@ -772,6 +826,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 798218910,
             "language": "Jupyter Notebook",
             "last_commit": "2024-06-20T09:56:42Z",
             "owner": "ZiyaoLi",
@@ -786,6 +841,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 797283557,
             "language": "Jupyter Notebook",
             "last_commit": "2024-05-13T17:22:55Z",
             "owner": "SynodicMonth",
@@ -800,6 +856,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 795349395,
             "language": "Python",
             "last_commit": "2024-05-03T05:32:04Z",
             "owner": "WillHua127",
@@ -814,6 +871,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 795349395,
             "language": "Python",
             "last_commit": "2024-05-03T05:32:04Z",
             "owner": "WillHua127",
@@ -828,6 +886,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 800370417,
             "language": "Python",
             "last_commit": "2024-10-07T15:15:41Z",
             "owner": "chenziwenhaoshuai",
@@ -842,6 +901,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 798338225,
             "language": "Python",
             "last_commit": "2024-12-16T22:11:35Z",
             "owner": "remigenet",
@@ -856,6 +916,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 798353586,
             "language": "Python",
             "last_commit": "2024-06-30T02:00:12Z",
             "owner": "lif314",
@@ -870,6 +931,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 803622638,
             "language": "Python",
             "last_commit": "2025-06-10T04:08:55Z",
             "owner": "zavareh1",
@@ -884,6 +946,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 796324281,
             "language": "Jupyter Notebook",
             "last_commit": "2024-05-08T02:14:18Z",
             "owner": "akaashdash",
@@ -898,6 +961,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 795998079,
             "language": "Python",
             "last_commit": "2024-05-15T21:33:31Z",
             "owner": "Indoxer",
@@ -912,6 +976,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 797005480,
             "language": "Python",
             "last_commit": "2025-10-04T04:20:57Z",
             "owner": "Zhangyanbo",
@@ -926,6 +991,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 798782669,
             "language": "Python",
             "last_commit": "2024-05-26T07:33:52Z",
             "owner": "AthanasiosDelis",
@@ -940,6 +1006,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 809767791,
             "language": "Jupyter Notebook",
             "last_commit": "2024-12-27T11:14:23Z",
             "owner": "remigenet",
@@ -954,6 +1021,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 799668577,
             "language": "Julia",
             "last_commit": "2026-07-06T00:03:20Z",
             "owner": "vpuri3",
@@ -968,6 +1036,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 989577719,
             "language": "Python",
             "last_commit": "2026-07-10T20:45:54Z",
             "owner": "alexshtf",
@@ -982,6 +1051,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 815497475,
             "language": "Python",
             "last_commit": "2024-11-24T17:48:12Z",
             "owner": "remigenet",
@@ -996,6 +1066,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 798109858,
             "language": "Jupyter Notebook",
             "last_commit": "2024-11-21T15:47:01Z",
             "owner": "Boris-73-TA",
@@ -1010,6 +1081,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 798336072,
             "language": "Jupyter Notebook",
             "last_commit": "2024-05-09T16:18:01Z",
             "owner": "SpaceLearner",
@@ -1024,6 +1096,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 795826428,
             "language": "Python",
             "last_commit": "2026-07-09T07:55:51Z",
             "owner": "Mattral",
@@ -1038,6 +1111,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 813781750,
             "language": "Python",
             "last_commit": "2025-01-17T19:14:04Z",
             "owner": "alirezaafzalaghaei",
@@ -1052,6 +1126,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 811308705,
             "language": "Python",
             "last_commit": "2025-11-30T20:38:10Z",
             "owner": "hoangthangta",
@@ -1066,6 +1141,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 801102544,
             "language": "Jupyter Notebook",
             "last_commit": "2024-06-09T06:53:30Z",
             "owner": "Sid2690",
@@ -1080,6 +1156,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 817589477,
             "language": "Python",
             "last_commit": "2024-06-28T17:21:37Z",
             "owner": "alirezaafzalaghaei",
@@ -1094,6 +1171,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1027399525,
             "language": "Python",
             "last_commit": "2025-11-12T19:07:41Z",
             "owner": "catswe",
@@ -1108,6 +1186,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 821368613,
             "language": "Python",
             "last_commit": "2024-08-03T14:38:23Z",
             "owner": "hoangthangta",
@@ -1122,6 +1201,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 802680644,
             "language": "Python",
             "last_commit": "2024-05-20T02:18:15Z",
             "owner": "stergiosba",
@@ -1136,6 +1216,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 931715095,
             "language": "Jupyter Notebook",
             "last_commit": "2025-10-13T19:42:33Z",
             "owner": "silvermete0r",
@@ -1150,6 +1231,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 811220606,
             "language": "Jupyter Notebook",
             "last_commit": "2025-05-27T15:01:41Z",
             "owner": "Muyuzhierchengse",
@@ -1164,6 +1246,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 801103642,
             "language": "Jupyter Notebook",
             "last_commit": "2024-06-02T07:03:42Z",
             "owner": "Sid2690",
@@ -1178,6 +1261,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 832881089,
             "language": "Python",
             "last_commit": "2025-03-01T19:25:45Z",
             "owner": "OSU-STARLAB",
@@ -1192,6 +1276,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 940757072,
             "language": "Python",
             "last_commit": "2025-04-16T08:27:35Z",
             "owner": "SamerMakni",
@@ -1206,6 +1291,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 808924273,
             "language": "Python",
             "last_commit": "2024-06-15T05:34:57Z",
             "owner": "dinesh110598",
@@ -1220,6 +1306,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 975355956,
             "language": "Python",
             "last_commit": "2025-07-18T10:34:30Z",
             "owner": "Xkzysheng",
@@ -1234,6 +1321,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1025374887,
             "language": "Python",
             "last_commit": "2026-06-29T04:50:03Z",
             "owner": "julianhoever",
@@ -1248,334 +1336,347 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1121227866,
             "language": "Python",
             "last_commit": "2026-06-24T04:32:35Z",
             "owner": "alibayeh",
             "repo": "trukan",
             "stars": 1
           }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "TorchKAN",
+              "description": "Simplified KAN Model Using Legendre approximations and Monomial basis functions for Image Classification for MNIST. Achieves 99.5% on MNIST using Conv+LegendreKAN. ｜",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 798283938,
+                "language": "Python",
+                "last_commit": "2026-07-13T09:46:19Z",
+                "owner": "1ssb",
+                "repo": "torchkan",
+                "stars": 190
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "jaxKAN",
+              "description": "Adaptation of the original KAN (with full regularization) in JAX + Flax |",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 799120828,
+                "language": "Python",
+                "last_commit": "2026-03-25T12:35:22Z",
+                "owner": "srigas",
+                "repo": "jaxKAN",
+                "stars": 111
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "KAN: Kolmogorov–Arnold Networks in MLX for Apple silicon",
+              "description": "KAN (Kolmogorov–Arnold Networks) in the MLX framework|",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 833306812,
+                "language": "Python",
+                "last_commit": "2025-06-18T11:40:38Z",
+                "owner": "Goekdeniz-Guelmez",
+                "repo": "mlx-kan",
+                "stars": 32
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "cuda-Wavelet-KAN",
+              "description": "CUDA implementation of Wavelet KAN. |",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 807473284,
+                "language": "Cuda",
+                "last_commit": "2024-06-08T05:33:13Z",
+                "owner": "Da1sypetals",
+                "repo": "cuda-Wavelet-KAN",
+                "stars": 17
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "keras_efficient_kan",
+              "description": "A full keras implementation of efficient_kan tested with tensorflow, pytorch and jax backend |",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 832340587,
+                "language": "Python",
+                "last_commit": "2024-12-04T14:01:24Z",
+                "owner": "remigenet",
+                "repo": "keras_efficient_kan",
+                "stars": 12
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Quantum KAN",
+              "description": "KANs optimizable through quantum annealing |",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 826482885,
+                "language": "Jupyter Notebook",
+                "last_commit": "2024-08-07T04:29:51Z",
+                "owner": "wtroy2",
+                "repo": "Quantum-KAN",
+                "stars": 4
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Library-based"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Convolutional-KANs",
+              "description": "This project extends the idea of the innovative architecture of Kolmogorov-Arnold Networks (KAN) to the Convolutional Layers, changing the classic linear transformation of the convolution to non linear activations in each pixel. ｜",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 797008340,
+                "language": "Jupyter Notebook",
+                "last_commit": "2025-04-08T15:20:20Z",
+                "owner": "AntonioTepsich",
+                "repo": "Convolutional-KANs",
+                "stars": 921
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Torch Conv KAN",
+              "description": "This repository implements Convolutional Kolmogorov-Arnold Layers with various basis functions. The repository includes implementations of 1D, 2D, and 3D convolutions with different kernels, ResNet-like, Unet-like, and DenseNet-like models, training code based on accelerate/PyTorch, and scripts for experiments with CIFAR-10/100, Tiny ImageNet and ImageNet1k. Pretrained weights on ImageNet1k are also available ｜",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 799845479,
+                "language": "Python",
+                "last_commit": "2026-08-17T06:53:20Z",
+                "owner": "IvanDrokin",
+                "repo": "torch-conv-kan",
+                "stars": 530
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "convkan",
+              "description": "Implementation of convolutional layer version of KAN (drop-in replacement of Conv2d) ｜",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 798437228,
+                "language": "Python",
+                "last_commit": "2025-03-25T12:22:18Z",
+                "owner": "StarostinV",
+                "repo": "convkan",
+                "stars": 121
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CNN-KAN",
+              "description": "A modified CNN architecture using Kolmogorov-Arnold Networks |",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 797526586,
+                "language": "Python",
+                "last_commit": "2024-05-23T06:48:38Z",
+                "owner": "jakariaemon",
+                "repo": "CNN-KAN",
+                "stars": 82
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "KA-Conv",
+              "description": "Kolmogorov-Arnold Convolutional Networks with Various Basis Functions (Optimization for Efficiency and GPU memory usage) |",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 801063096,
+                "language": "Python",
+                "last_commit": "2024-05-15T19:50:23Z",
+                "owner": "XiangboGaoBarry",
+                "repo": "KA-Conv",
+                "stars": 68
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "KAN-Conv2D",
+              "description": "Drop-in Convolutional KAN built on multiple implementations (Original pykan / efficient-kan / FastKAN) to support the original paper hyperparameters. |",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 803050273,
+                "language": "Python",
+                "last_commit": "2024-05-23T05:31:04Z",
+                "owner": "omarrayyann",
+                "repo": "KAN-Conv2D",
+                "stars": 19
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ConvKAN3D",
+              "description": "3D Convolutional Layer built on top of the efficient-kan implementation (importable Python package from PyPi), drop-in replacement of Conv3d.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 805204916,
+                "language": "Python",
+                "last_commit": "2024-05-25T12:30:36Z",
+                "owner": "FirasBDarwish",
+                "repo": "ConvKAN3D",
+                "stars": 14
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "ConvKANs"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "KAN-benchmarking",
+              "description": "Benchmark for efficiency in memory and time of different KAN implementations. |",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 797149093,
+                "language": "Python",
+                "last_commit": "2024-08-26T14:58:17Z",
+                "owner": "Jerry-Master",
+                "repo": "KAN-benchmarking",
+                "stars": 140
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "seydi1370/Basis_Functions",
+              "description": "This packaege investigates the performance of 18 different polynomial basis functions, grouped into several categories based on their mathematical properties and areas of application. The study evaluates the effectiveness of these polynomial-based KANs on the MNIST dataset for handwritten digit classification. |",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 808315045,
+                "language": "Jupyter Notebook",
+                "last_commit": "2024-06-12T17:12:51Z",
+                "owner": "seydi1370",
+                "repo": "Basis_Functions",
+                "stars": 17
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Benchmark"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "KolmogorovArnold.jl",
+              "description": "Very fast Julia implementation of KANs with RBF and RSWAF basis. Extra speedup is gained by writing custom gradients to share work between forward and backward pass. ｜",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 799668577,
+                "language": "Julia",
+                "last_commit": "2026-07-06T00:03:20Z",
+                "owner": "vpuri3",
+                "repo": "KolmogorovArnold.jl",
+                "stars": 87
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "kan-polar",
+              "description": "Kolmogorov-Arnold Networks in MATLAB ｜",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 796824444,
+                "language": "MATLAB",
+                "last_commit": "2026-04-16T22:38:22Z",
+                "owner": "mpoluektov",
+                "repo": "kan-polar",
+                "stars": 62
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "FluxKAN.jl",
+              "description": "An easy to use Flux implementation of the Kolmogorov Arnold Network. This is a Julia version of TorchKAN.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 805276810,
+                "language": "Julia",
+                "last_commit": "2025-11-24T19:16:04Z",
+                "owner": "cometscome",
+                "repo": "FluxKAN.jl",
+                "stars": 35
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "kamo",
+              "description": "Kolmogorov-Arnold Networks in Mojo ｜",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 809253843,
+                "language": "Mojo",
+                "last_commit": "2025-08-07T07:11:40Z",
+                "owner": "dorjeduck",
+                "repo": "kamo",
+                "stars": 19
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ikant",
+              "description": "A simple C++ implementation and visualization of Kolmogorov-Arnold Networks.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 825012126,
+                "language": "C++",
+                "last_commit": "2024-12-31T15:17:19Z",
+                "owner": "huytrinhm",
+                "repo": "ikant",
+                "stars": 5
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Non-Python"
         }
       ],
       "title": "Library"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "TorchKAN",
-          "description": "Simplified KAN Model Using Legendre approximations and Monomial basis functions for Image Classification for MNIST. Achieves 99.5% on MNIST using Conv+LegendreKAN. ｜",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-13T09:46:19Z",
-            "owner": "1ssb",
-            "repo": "torchkan",
-            "stars": 190
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "jaxKAN",
-          "description": "Adaptation of the original KAN (with full regularization) in JAX + Flax |",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-03-25T12:35:22Z",
-            "owner": "srigas",
-            "repo": "jaxKAN",
-            "stars": 111
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "KAN: Kolmogorov–Arnold Networks in MLX for Apple silicon",
-          "description": "KAN (Kolmogorov–Arnold Networks) in the MLX framework|",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-06-18T11:40:38Z",
-            "owner": "Goekdeniz-Guelmez",
-            "repo": "mlx-kan",
-            "stars": 32
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "cuda-Wavelet-KAN",
-          "description": "CUDA implementation of Wavelet KAN. |",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Cuda",
-            "last_commit": "2024-06-08T05:33:13Z",
-            "owner": "Da1sypetals",
-            "repo": "cuda-Wavelet-KAN",
-            "stars": 17
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "keras_efficient_kan",
-          "description": "A full keras implementation of efficient_kan tested with tensorflow, pytorch and jax backend |",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-12-04T14:01:24Z",
-            "owner": "remigenet",
-            "repo": "keras_efficient_kan",
-            "stars": 12
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Quantum KAN",
-          "description": "KANs optimizable through quantum annealing |",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2024-08-07T04:29:51Z",
-            "owner": "wtroy2",
-            "repo": "Quantum-KAN",
-            "stars": 4
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "efficient-kan-jax",
-          "description": "JAX port of efficient-kan |",
-          "children": []
-        }
-      ],
-      "title": "Library-based"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Convolutional-KANs",
-          "description": "This project extends the idea of the innovative architecture of Kolmogorov-Arnold Networks (KAN) to the Convolutional Layers, changing the classic linear transformation of the convolution to non linear activations in each pixel. ｜",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2025-04-08T15:20:20Z",
-            "owner": "AntonioTepsich",
-            "repo": "Convolutional-KANs",
-            "stars": 921
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Torch Conv KAN",
-          "description": "This repository implements Convolutional Kolmogorov-Arnold Layers with various basis functions. The repository includes implementations of 1D, 2D, and 3D convolutions with different kernels, ResNet-like, Unet-like, and DenseNet-like models, training code based on accelerate/PyTorch, and scripts for experiments with CIFAR-10/100, Tiny ImageNet and ImageNet1k. Pretrained weights on ImageNet1k are also available ｜",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-17T06:53:20Z",
-            "owner": "IvanDrokin",
-            "repo": "torch-conv-kan",
-            "stars": 530
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "convkan",
-          "description": "Implementation of convolutional layer version of KAN (drop-in replacement of Conv2d) ｜",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-03-25T12:22:18Z",
-            "owner": "StarostinV",
-            "repo": "convkan",
-            "stars": 121
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "CNN-KAN",
-          "description": "A modified CNN architecture using Kolmogorov-Arnold Networks |",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-05-23T06:48:38Z",
-            "owner": "jakariaemon",
-            "repo": "CNN-KAN",
-            "stars": 82
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "KA-Conv",
-          "description": "Kolmogorov-Arnold Convolutional Networks with Various Basis Functions (Optimization for Efficiency and GPU memory usage) |",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-05-15T19:50:23Z",
-            "owner": "XiangboGaoBarry",
-            "repo": "KA-Conv",
-            "stars": 68
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "KAN-Conv2D",
-          "description": "Drop-in Convolutional KAN built on multiple implementations (Original pykan / efficient-kan / FastKAN) to support the original paper hyperparameters. |",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-05-23T05:31:04Z",
-            "owner": "omarrayyann",
-            "repo": "KAN-Conv2D",
-            "stars": 19
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ConvKAN3D",
-          "description": "3D Convolutional Layer built on top of the efficient-kan implementation (importable Python package from PyPi), drop-in replacement of Conv3d.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-05-25T12:30:36Z",
-            "owner": "FirasBDarwish",
-            "repo": "ConvKAN3D",
-            "stars": 14
-          }
-        }
-      ],
-      "title": "ConvKANs"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "KAN-benchmarking",
-          "description": "Benchmark for efficiency in memory and time of different KAN implementations. |",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-08-26T14:58:17Z",
-            "owner": "Jerry-Master",
-            "repo": "KAN-benchmarking",
-            "stars": 140
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "seydi1370/Basis_Functions",
-          "description": "This packaege investigates the performance of 18 different polynomial basis functions, grouped into several categories based on their mathematical properties and areas of application. The study evaluates the effectiveness of these polynomial-based KANs on the MNIST dataset for handwritten digit classification. |",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2024-06-12T17:12:51Z",
-            "owner": "seydi1370",
-            "repo": "Basis_Functions",
-            "stars": 17
-          }
-        }
-      ],
-      "title": "Benchmark"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "KolmogorovArnold.jl",
-          "description": "Very fast Julia implementation of KANs with RBF and RSWAF basis. Extra speedup is gained by writing custom gradients to share work between forward and backward pass. ｜",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Julia",
-            "last_commit": "2026-07-06T00:03:20Z",
-            "owner": "vpuri3",
-            "repo": "KolmogorovArnold.jl",
-            "stars": 87
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "kan-polar",
-          "description": "Kolmogorov-Arnold Networks in MATLAB ｜",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "MATLAB",
-            "last_commit": "2026-04-16T22:38:22Z",
-            "owner": "mpoluektov",
-            "repo": "kan-polar",
-            "stars": 62
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "FluxKAN.jl",
-          "description": "An easy to use Flux implementation of the Kolmogorov Arnold Network. This is a Julia version of TorchKAN.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Julia",
-            "last_commit": "2025-11-24T19:16:04Z",
-            "owner": "cometscome",
-            "repo": "FluxKAN.jl",
-            "stars": 35
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "kamo",
-          "description": "Kolmogorov-Arnold Networks in Mojo ｜",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Mojo",
-            "last_commit": "2025-08-07T07:11:40Z",
-            "owner": "dorjeduck",
-            "repo": "kamo",
-            "stars": 19
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ikant",
-          "description": "A simple C++ implementation and visualization of Kolmogorov-Arnold Networks.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2024-12-31T15:17:19Z",
-            "owner": "huytrinhm",
-            "repo": "ikant",
-            "stars": 5
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Julia-Wav-KAN",
-          "description": "A Julia implementation of Wavelet Kolmogorov-Arnold Networks. ｜",
-          "children": []
-        }
-      ],
-      "title": "Non-Python"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1584,11 +1685,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 304116981,
             "language": "Python",
             "last_commit": "2026-08-05T16:33:50Z",
             "owner": "pnnl",
             "repo": "neuromancer",
-            "stars": 1365
+            "stars": 1366
           }
         },
         {
@@ -1598,6 +1700,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 795106410,
             "language": "Python",
             "last_commit": "2024-11-25T00:23:32Z",
             "owner": "AdityaNG",
@@ -1612,6 +1715,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 794901954,
             "language": "Python",
             "last_commit": "2025-04-09T17:02:58Z",
             "owner": "riiswa",
@@ -1626,6 +1730,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 800370417,
             "language": "Python",
             "last_commit": "2024-10-07T15:15:41Z",
             "owner": "chenziwenhaoshuai",
@@ -1640,6 +1745,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 798353586,
             "language": "Python",
             "last_commit": "2024-06-30T02:00:12Z",
             "owner": "lif314",
@@ -1654,6 +1760,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 795574659,
             "language": "Python",
             "last_commit": "2024-11-29T06:57:04Z",
             "owner": "Tavish9",
@@ -1668,6 +1775,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 796914585,
             "language": "Python",
             "last_commit": "2024-05-25T22:12:59Z",
             "owner": "CG80499",
@@ -1682,6 +1790,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 796024914,
             "language": "Python",
             "last_commit": "2024-08-17T17:51:34Z",
             "owner": "MSD-IRIMAS",
@@ -1696,6 +1805,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 798828574,
             "language": "Python",
             "last_commit": "2024-10-14T12:12:21Z",
             "owner": "yueliu1999",
@@ -1710,6 +1820,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 802115557,
             "language": "Jupyter Notebook",
             "last_commit": "2025-08-26T10:13:11Z",
             "owner": "JaouadT",
@@ -1724,6 +1835,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 798873280,
             "language": "Jupyter Notebook",
             "last_commit": "2024-05-10T16:46:37Z",
             "owner": "kabachuha",
@@ -1738,6 +1850,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 797582345,
             "language": "Jupyter Notebook",
             "last_commit": "2024-05-23T08:31:25Z",
             "owner": "SekiroRong",
@@ -1752,6 +1865,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 799468641,
             "language": "Python",
             "last_commit": "2024-07-12T06:19:25Z",
             "owner": "JianpanHuang",
@@ -1766,6 +1880,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 803307114,
             "language": "Python",
             "last_commit": "2025-05-28T04:27:31Z",
             "owner": "jindeok",
@@ -1780,6 +1895,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 798740564,
             "language": "Python",
             "last_commit": "2024-05-15T02:52:46Z",
             "owner": "TianyuanYang",
@@ -1794,6 +1910,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 825275037,
             "language": "Python",
             "last_commit": "2024-08-06T03:12:28Z",
             "owner": "andythetechnerd03",
@@ -1808,6 +1925,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 798812863,
             "language": "Jupyter Notebook",
             "last_commit": "2024-05-16T17:47:12Z",
             "owner": "belkakari",
@@ -1822,6 +1940,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 801238902,
             "language": "Jupyter Notebook",
             "last_commit": "2024-05-23T15:31:38Z",
             "owner": "ChrisD-7",
@@ -1836,6 +1955,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 797032226,
             "language": "Python",
             "last_commit": "2024-07-27T16:20:26Z",
             "owner": "hoangthangta",
@@ -1850,24 +1970,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1014716404,
             "language": "Python",
             "last_commit": "2025-07-11T07:37:11Z",
             "owner": "antoniogrs",
             "repo": "kan_parametric_reconstruction",
             "stars": 0
           }
-        },
-        {
-          "node_type": "item",
-          "title": "CL-KAN-ViT",
-          "description": "Kolmogorov-Arnold Network (KAN) based vision transformer for class-based continual learning to mitigate catastrophic forgetting |",
-          "children": []
         }
       ],
       "title": "Project"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1876,6 +1991,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 792896859,
             "language": "Jupyter Notebook",
             "last_commit": "2025-01-19T18:49:39Z",
             "owner": "KindXiaoming",
@@ -1890,11 +2006,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 304116981,
             "language": "Python",
             "last_commit": "2026-08-05T16:33:50Z",
             "owner": "pnnl",
             "repo": "neuromancer",
-            "stars": 1365
+            "stars": 1366
           }
         },
         {
@@ -1904,6 +2021,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 798319229,
             "language": "Jupyter Notebook",
             "last_commit": "2024-09-05T14:52:28Z",
             "owner": "team-daniel",
@@ -1918,6 +2036,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 807286647,
             "language": "Jupyter Notebook",
             "last_commit": "2025-05-26T19:24:52Z",
             "owner": "pg2455",
@@ -1932,6 +2051,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 807286647,
             "language": "Jupyter Notebook",
             "last_commit": "2025-05-26T19:24:52Z",
             "owner": "pg2455",
@@ -1946,6 +2066,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 545752139,
             "language": "Python",
             "last_commit": "2026-04-22T13:57:25Z",
             "owner": "csinva",
@@ -1960,6 +2081,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 810812040,
             "language": "Jupyter Notebook",
             "last_commit": "2025-02-25T17:17:34Z",
             "owner": "MrPio",
@@ -1974,6 +2096,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 799911506,
             "language": "Jupyter Notebook",
             "last_commit": "2024-05-15T18:49:38Z",
             "owner": "lollodealma",
@@ -1988,6 +2111,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 799131499,
             "language": "Jupyter Notebook",
             "last_commit": "2024-05-11T09:08:25Z",
             "owner": "vincenzodentamaro",
@@ -2002,6 +2126,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 893140535,
             "language": null,
             "last_commit": "2025-12-18T18:48:41Z",
             "owner": "SalvatoreRa",
@@ -2011,21 +2136,12 @@
         }
       ],
       "title": "Tutorial"
-    },
-    {
-      "description": "This work is licensed under a Creative Commons Attribution 4.0 International License.",
-      "items": [],
-      "title": "License"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Star History"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T03:52:34.059Z",
+    "last_updated": "2026-08-19T12:39:52.394Z",
     "original_repository": "mintisan/awesome-kan",
+    "original_repository_id": 797540256,
     "original_repository_sha": "795e8f7d696a50b75bf55c6fc41b1f50e68a97f3",
     "enhanced_repository": "enhansome/enhansome-kan",
     "enhanced_repository_description": null,
