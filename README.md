@@ -28,7 +28,7 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 
 ## Papers
 
-* [Finite basis Kolmogorov-Arnold networks: domain decomposition for data-driven and physics-informed problems](https://arxiv.org/abs/2406.19662) | [code](https://github.com/pnnl/neuromancer/tree/feature/fbkans/examples/KANs) ⭐ 1,366 | 🐛 17 | 🌐 Python | 📅 2026-08-05 | ![Github stars](https://img.shields.io/github/stars/pnnl/neuromancer.svg)
+* [Finite basis Kolmogorov-Arnold networks: domain decomposition for data-driven and physics-informed problems](https://arxiv.org/abs/2406.19662) | [code](https://github.com/pnnl/neuromancer/tree/feature/fbkans/examples/KANs) ⭐ 1,367 | 🐛 17 | 🌐 Python | 📅 2026-08-05 | ![Github stars](https://img.shields.io/github/stars/pnnl/neuromancer.svg)
 * [Convolutional Kolmogorov-Arnold Networks](https://arxiv.org/abs/2406.13155) | [code](https://github.com/AntonioTepsich/Convolutional-KANs) ⭐ 921 | 🐛 13 | 🌐 Jupyter Notebook | 📅 2025-04-08 ｜ ![Github stars](https://img.shields.io/github/stars/AntonioTepsich/Convolutional-KANs.svg)
 * [Kolmogorov-Arnold Transformer](https://arxiv.org/abs/2409.10594) KAN was strong but faced scalability issues. KAT tackle this with 3 simple tricks. By combining KAN with Transformers, we've built a much stronger and more scalable model. | [code](https://github.com/Adamdad/kat) ⭐ 845 | 🐛 16 | 🌐 Python | 📅 2025-03-23 ![Github starts](https://img.shields.io/github/stars/adamdad/kat.svg)
 * [U-KAN Makes Strong Backbone for Medical Image Segmentation and Generation](https://arxiv.org/abs/2406.02918)｜ [code](https://github.com/CUHK-AIM-Group/U-KAN) ⭐ 552 | 🐛 40 | 🌐 Python | 📅 2025-06-23 ｜ ![Github stars](https://img.shields.io/github/stars/CUHK-AIM-Group/U-KAN.svg)
@@ -202,7 +202,7 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 
 ## Project
 
-* [Neuromancer](https://github.com/pnnl/neuromancer) ⭐ 1,366 | 🐛 17 | 🌐 Python | 📅 2026-08-05 : Neural Modules with Adaptive Nonlinear Constraints and Efficient Regularizations (NeuroMANCER) is an open-source differentiable programming (DP) library for solving parametric constrained optimization problems, physics-informed system identification, and parametric model-based optimal control. It includes, among other architectures, KANs and finite basis KANs (FBKANs). | ![Github stars](https://img.shields.io/github/stars/pnnl/neuromancer.svg)
+* [Neuromancer](https://github.com/pnnl/neuromancer) ⭐ 1,367 | 🐛 17 | 🌐 Python | 📅 2026-08-05 : Neural Modules with Adaptive Nonlinear Constraints and Efficient Regularizations (NeuroMANCER) is an open-source differentiable programming (DP) library for solving parametric constrained optimization problems, physics-informed system identification, and parametric model-based optimal control. It includes, among other architectures, KANs and finite basis KANs (FBKANs). | ![Github stars](https://img.shields.io/github/stars/pnnl/neuromancer.svg)
 * [KAN-GPT](https://github.com/AdityaNG/kan-gpt) ⭐ 725 | 🐛 6 | 🌐 Python | 📅 2024-11-25 : The PyTorch implementation of Generative Pre-trained Transformers (GPTs) using Kolmogorov-Arnold Networks (KANs) for language modeling ｜ ![Github stars](https://img.shields.io/github/stars/AdityaNG/kan-gpt.svg)
 * [kanrl](https://github.com/riiswa/kanrl) ⭐ 296 | 🐛 8 | 🌐 Python | 📅 2025-04-09 : Kolmogorov-Arnold Network for Reinforcement Leaning, initial experiments ｜ ![Github stars](https://img.shields.io/github/stars/riiswa/kanrl.svg)
 * [Vision-KAN](https://github.com/chenziwenhaoshuai/Vision-KAN) ⭐ 256 | 🐛 11 | 🌐 Python | 📅 2024-10-07 : KAN for Vision Transformer ｜ ![Github stars](https://img.shields.io/github/stars/chenziwenhaoshuai/Vision-KAN.svg)
@@ -239,7 +239,7 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 ## Tutorial
 
 * [Official Tutorial Notebooks](https://github.com/KindXiaoming/pykan/tree/master/tutorials) ⭐ 16,333 | 🐛 266 | 🌐 Jupyter Notebook | 📅 2025-01-19
-* [Neuromancer FBKAN tutorials](https://github.com/pnnl/neuromancer/tree/feature/fbkans/examples/KANs) ⭐ 1,366 | 🐛 17 | 🌐 Python | 📅 2026-08-05: Examples of usage of finite basis KANs, easily accessible via Google Colab notebooks.
+* [Neuromancer FBKAN tutorials](https://github.com/pnnl/neuromancer/tree/feature/fbkans/examples/KANs) ⭐ 1,367 | 🐛 17 | 🌐 Python | 📅 2026-08-05: Examples of usage of finite basis KANs, easily accessible via Google Colab notebooks.
 * [team-daniel/KAN](https://github.com/team-daniel/KAN) ⭐ 261 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-09-05 : Implementation on how to use Kolmogorov-Arnold Networks (KANs) for classification and regression tasks.｜ ![Github stars](https://img.shields.io/github/stars/team-daniel/KAN.svg)
 * [pg2455/KAN-Tutorial](https://github.com/pg2455/KAN-Tutorial) ⭐ 207 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2025-05-26  ｜ ![Github stars](https://img.shields.io/github/stars/pg2455/KAN-Tutorial.svg)
 * [KAN-Tutorial](https://github.com/pg2455/KAN-Tutorial/) ⭐ 207 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2025-05-26: Understanding Kolmogorov-Arnold Networks: A Tutorial Series on KAN using Toy Examples
@@ -298,4 +298,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
