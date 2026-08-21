@@ -15,7 +15,7 @@
             "last_commit": "2026-08-05T16:33:50Z",
             "owner": "pnnl",
             "repo": "neuromancer",
-            "stars": 1367
+            "stars": 1368
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2025-06-23T16:35:29Z",
             "owner": "CUHK-AIM-Group",
             "repo": "U-KAN",
-            "stars": 552
+            "stars": 553
           }
         },
         {
@@ -72,7 +72,7 @@
             "archived": false,
             "id": 799845479,
             "language": "Python",
-            "last_commit": "2026-08-17T06:53:20Z",
+            "last_commit": "2026-08-20T17:28:46Z",
             "owner": "IvanDrokin",
             "repo": "torch-conv-kan",
             "stars": 530
@@ -165,7 +165,7 @@
             "last_commit": "2026-03-25T12:35:22Z",
             "owner": "srigas",
             "repo": "jaxKAN",
-            "stars": 111
+            "stars": 112
           }
         },
         {
@@ -786,7 +786,7 @@
             "last_commit": "2025-01-19T18:49:39Z",
             "owner": "KindXiaoming",
             "repo": "pykan",
-            "stars": 16333
+            "stars": 16332
           }
         },
         {
@@ -801,7 +801,7 @@
             "last_commit": "2024-08-01T12:21:05Z",
             "owner": "Blealtan",
             "repo": "efficient-kan",
-            "stars": 4655
+            "stars": 4656
           }
         },
         {
@@ -831,7 +831,7 @@
             "last_commit": "2024-06-20T09:56:42Z",
             "owner": "ZiyaoLi",
             "repo": "fast-kan",
-            "stars": 490
+            "stars": 491
           }
         },
         {
@@ -921,7 +921,7 @@
             "last_commit": "2024-06-30T02:00:12Z",
             "owner": "lif314",
             "repo": "X-KANeRF",
-            "stars": 180
+            "stars": 179
           }
         },
         {
@@ -1373,7 +1373,7 @@
                 "last_commit": "2026-03-25T12:35:22Z",
                 "owner": "srigas",
                 "repo": "jaxKAN",
-                "stars": 111
+                "stars": 112
               }
             },
             {
@@ -1467,7 +1467,7 @@
                 "archived": false,
                 "id": 799845479,
                 "language": "Python",
-                "last_commit": "2026-08-17T06:53:20Z",
+                "last_commit": "2026-08-20T17:28:46Z",
                 "owner": "IvanDrokin",
                 "repo": "torch-conv-kan",
                 "stars": 530
@@ -1690,7 +1690,7 @@
             "last_commit": "2026-08-05T16:33:50Z",
             "owner": "pnnl",
             "repo": "neuromancer",
-            "stars": 1367
+            "stars": 1368
           }
         },
         {
@@ -1750,7 +1750,7 @@
             "last_commit": "2024-06-30T02:00:12Z",
             "owner": "lif314",
             "repo": "X-KANeRF",
-            "stars": 180
+            "stars": 179
           }
         },
         {
@@ -1765,7 +1765,7 @@
             "last_commit": "2024-11-29T06:57:04Z",
             "owner": "Tavish9",
             "repo": "KANeRF",
-            "stars": 153
+            "stars": 152
           }
         },
         {
@@ -1996,7 +1996,7 @@
             "last_commit": "2025-01-19T18:49:39Z",
             "owner": "KindXiaoming",
             "repo": "pykan",
-            "stars": 16333
+            "stars": 16332
           }
         },
         {
@@ -2011,7 +2011,7 @@
             "last_commit": "2026-08-05T16:33:50Z",
             "owner": "pnnl",
             "repo": "neuromancer",
-            "stars": 1367
+            "stars": 1368
           }
         },
         {
@@ -2139,7 +2139,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T03:52:23.146Z",
+    "last_updated": "2026-08-21T03:55:58.835Z",
     "original_repository": "mintisan/awesome-kan",
     "original_repository_id": 797540256,
     "original_repository_sha": "795e8f7d696a50b75bf55c6fc41b1f50e68a97f3",
