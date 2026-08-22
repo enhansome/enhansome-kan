@@ -1001,6 +1001,21 @@
         },
         {
           "node_type": "item",
+          "title": "KolmogorovArnold.jl",
+          "description": "Very fast Julia implementation of KANs with RBF and RSWAF basis. Extra speedup is gained by writing custom gradients to share work between forward and backward pass. ｜",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 799668577,
+            "language": "Julia",
+            "last_commit": "2026-07-06T00:03:20Z",
+            "owner": "vpuri3",
+            "repo": "KolmogorovArnold.jl",
+            "stars": 88
+          }
+        },
+        {
+          "node_type": "item",
           "title": "TKAT",
           "description": "Temporal Kolmogorov-Arnold Transformer Tensorflow 2.x model implementation |",
           "children": [],
@@ -1012,21 +1027,6 @@
             "owner": "remigenet",
             "repo": "TKAT",
             "stars": 88
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "KolmogorovArnold.jl",
-          "description": "Very fast Julia implementation of KANs with RBF and RSWAF basis. Extra speedup is gained by writing custom gradients to share work between forward and backward pass. ｜",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 799668577,
-            "language": "Julia",
-            "last_commit": "2026-07-06T00:03:20Z",
-            "owner": "vpuri3",
-            "repo": "KolmogorovArnold.jl",
-            "stars": 87
           }
         },
         {
@@ -1604,7 +1604,7 @@
                 "last_commit": "2026-07-06T00:03:20Z",
                 "owner": "vpuri3",
                 "repo": "KolmogorovArnold.jl",
-                "stars": 87
+                "stars": 88
               }
             },
             {
@@ -2139,7 +2139,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T03:55:58.835Z",
+    "last_updated": "2026-08-22T03:48:34.735Z",
     "original_repository": "mintisan/awesome-kan",
     "original_repository_id": 797540256,
     "original_repository_sha": "795e8f7d696a50b75bf55c6fc41b1f50e68a97f3",
