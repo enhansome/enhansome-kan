@@ -1646,7 +1646,7 @@
                 "archived": false,
                 "id": 809253843,
                 "language": "Mojo",
-                "last_commit": "2025-08-07T07:11:40Z",
+                "last_commit": "2026-08-22T20:21:30Z",
                 "owner": "dorjeduck",
                 "repo": "kamo",
                 "stars": 19
@@ -2139,7 +2139,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T03:48:34.735Z",
+    "last_updated": "2026-08-23T03:56:18.301Z",
     "original_repository": "mintisan/awesome-kan",
     "original_repository_id": 797540256,
     "original_repository_sha": "795e8f7d696a50b75bf55c6fc41b1f50e68a97f3",
