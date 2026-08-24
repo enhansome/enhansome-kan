@@ -139,14 +139,14 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 * [SigKAN](https://github.com/remigenet/SigKAN) ⭐ 49 | 🐛 0 | 🌐 Python | 📅 2024-11-24: Path Signature-Weighted Kolmogorov-Arnold Networks tensorflow 2.x layer implementations, based on iisignature | ![Github stars](https://img.shields.io/github/stars/remigenet/sigkan.svg)
 * [OrthogPolyKAN](https://github.com/Boris-73-TA/OrthogPolyKANs) ⭐ 40 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-11-21 : Kolmogorov-Arnold Networks (KAN) using orthogonal polynomials instead of B-splines. ｜ ![Github stars](https://img.shields.io/github/stars/Boris-73-TA/OrthogPolyKANs.svg)
 * [JacobiKAN](https://github.com/SpaceLearner/JacobiKAN) ⭐ 39 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-05-09 : Kolmogorov-Arnold Networks (KAN) using Jacobi polynomials instead of B-splines. ｜ ![Github stars](https://img.shields.io/github/stars/SpaceLearner/JacobiKAN.svg)
-* [KANX (Mattral)](https://github.com/Mattral/KANX) ⭐ 33 | 🐛 1 | 🌐 Python | 📅 2026-07-09 : Production-grade Kolmogorov-Arnold Network library supporting TensorFlow + PyTorch backends with ONNX export, FastAPI REST service, and Docker/Kubernetes deployment. | ![Github stars](https://img.shields.io/github/stars/Mattral/KANX.svg)
+* [KANX (Mattral)](https://github.com/Mattral/KANX) ⭐ 34 | 🐛 1 | 🌐 Python | 📅 2026-07-09 : Production-grade Kolmogorov-Arnold Network library supporting TensorFlow + PyTorch backends with ONNX export, FastAPI REST service, and Docker/Kubernetes deployment. | ![Github stars](https://img.shields.io/github/stars/Mattral/KANX.svg)
 * [fKAN](https://github.com/alirezaafzalaghaei/fKAN/) ⭐ 32 | 🐛 0 | 🌐 Python | 📅 2025-01-17: fKAN: Fractional Kolmogorov-Arnold Networks with trainable Jacobi basis functions | ![Github stars](https://img.shields.io/github/stars/alirezaafzalaghaei/fKAN.svg)
 * [BSRBF\_KAN](https://github.com/hoangthangta/BSRBF_KAN/) ⭐ 31 | 🐛 0 | 🌐 Python | 📅 2025-11-30: Combine B-Spline (BS) and Radial Basic Function (RBF) in Kolmogorov-Arnold Networks (KANs) | ![Github stars](https://img.shields.io/github/stars/hoangthangta/BSRBF_KAN.svg)
 * [Deep-KAN](https://github.com/Sid2690/Deep-KAN) ⭐ 26 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2024-06-09: Better implementation of Kolmogorov Arnold Network  | ![Github stars](https://img.shields.io/github/stars/Sid2690/Deep-KAN.svg)
 * [rKAN](https://github.com/alirezaafzalaghaei/rKAN/) ⭐ 21 | 🐛 1 | 🌐 Python | 📅 2024-06-28: rKAN: Rational Kolmogorov-Arnold Networks | ![Github stars](https://img.shields.io/github/stars/alirezaafzalaghaei/rKAN.svg)
 * [LinearKAN](https://github.com/catswe/LinearKAN) ⭐ 20 | 🐛 0 | 🌐 Python | 📅 2025-11-12: LinearKAN: A very fast implementation of Kolmogorov-Arnold Networks via Dynamic Input-Indexed Matrix Multiplication | ![Github stars](https://img.shields.io/github/stars/catswe/LinearKAN.svg)
 * [KAN-SGAN](https://github.com/hoangthangta/KAN-SGAN/) ⭐ 18 | 🐛 0 | 🌐 Python | 📅 2024-08-03: Semi-supervised learning with Generative Adversarial Networks (GANs) using Kolmogorov-Arnold Network Layers (KANLs) | ![Github stars](https://img.shields.io/github/stars/hoangthangta/KAN-SGAN.svg)
-* [KANX](https://github.com/stergiosba/kanx) ⭐ 17 | 🐛 0 | 🌐 Python | 📅 2024-05-20 : Fast Implementation (Approximation) of Kolmogorov-Arnold Network in JAX  | ![Github stars](https://img.shields.io/github/stars/stergiosba/kanx.svg)
+* [KANX](https://github.com/stergiosba/kanx) ⭐ 16 | 🐛 0 | 🌐 Python | 📅 2024-05-20 : Fast Implementation (Approximation) of Kolmogorov-Arnold Network in JAX  | ![Github stars](https://img.shields.io/github/stars/stergiosba/kanx.svg)
 * [OIKAN](https://github.com/silvermete0r/oikan) ⭐ 16 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2025-10-13: Neuro-Symbolic ML for Scientific Discovery (not a direct implementation of KANs but a KART-inspired alternative to make more efficient and accurate Neuro-Symbolic ML) | ![Github stars](https://img.shields.io/github/stars/silvermete0r/oikan.svg)
 * [TaylorKAN](https://github.com/Muyuzhierchengse/TaylorKAN/) ⭐ 13 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2025-05-27: Kolmogorov-Arnold Networks (KAN) using Taylor series instead of Fourier | ![Github stars](https://img.shields.io/github/stars/Muyuzhierchengse/TaylorKAN.svg)
 * [RBF-KAN](https://github.com/Sid2690/RBF-KAN) ⭐ 12 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-06-02: RBF-KAN is a PyTorch module that implements a Radial Basis Function Kolmogorov-Arnold Network  | ![Github stars](https://img.shields.io/github/stars/Sid2690/RBF-KAN.svg)
@@ -264,6 +264,7 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 
 ### YouTube
 
+* [用KAN拟合环境光渲染的查找表](https://www.youtube.com/watch?v=xZ2TyGAYefQ\&ab_channel=MinminGong) | [code](https://github.com/gongminmin/KlayGE/tree/develop/KlayGE/Samples/src/EnvLighting) ⭐ 2,174 | 🐛 41 | 🌐 C++ | 📅 2026-07-17
 * [**KAN: Kolmogorov-Arnold Networks | Ziming Liu(KAN Author)**](https://www.youtube.com/watch?v=AUDHb-tnlB0\&ab_channel=ValenceLabs)
 * [**Deep Dive on Kolmogorov–Arnold Neural Networks | Ziming Liu(KAN Author)**](https://youtu.be/95pVYknTAv0?si=BRc5P5FRCw1Y4Q1i\&t=1)
 * [Why the world NEEDS Kolmogorov Arnold Networks](https://www.youtube.com/watch?v=vzUkThsQa9E\&ab_channel=ThatMathThing)
@@ -274,7 +275,6 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 * [KAN: Kolmogorov-Arnold Networks Explained](https://www.youtube.com/watch?v=CkCijaXqAOM)
 * [Kolmogorov-Arnold Networks (KANs) and Lennard Jones](https://www.youtube.com/watch?v=_0q7scVScBI\&ab_channel=JohnKitchin)
 * [Simply explained! KAN: Kolmogorov–Arnold Networks is interpretable! Mathematics and Physics](https://www.youtube.com/watch?v=q8qFYMycNKE)
-* [用KAN拟合环境光渲染的查找表](https://www.youtube.com/watch?v=xZ2TyGAYefQ\&ab_channel=MinminGong) | [code](https://github.com/gongminmin/KlayGE/tree/develop/KlayGE/Samples/src/EnvLighting) ⭐ 2,174 | 🐛 41 | 🌐 C++ | 📅 2026-07-17
 * [Video with alternative approach to training process](https://www.youtube.com/watch?v=eS_k6L638k0)
 
 ## Contributing

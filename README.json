@@ -1101,7 +1101,7 @@
             "last_commit": "2026-07-09T07:55:51Z",
             "owner": "Mattral",
             "repo": "KANX",
-            "stars": 33
+            "stars": 34
           }
         },
         {
@@ -1206,7 +1206,7 @@
             "last_commit": "2024-05-20T02:18:15Z",
             "owner": "stergiosba",
             "repo": "kanx",
-            "stars": 17
+            "stars": 16
           }
         },
         {
@@ -1671,6 +1671,28 @@
           "description": null,
           "node_type": "group",
           "title": "Non-Python"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "high-order-layers-torch",
+              "description": "High order piecewise polynomial neural networks using Chebyshev polynomials at Gauss Lobatto nodes (lagrange polynomials). Includes convolutional layers as well HP refinement for non convolutional layers, linear initialization and various applications in the linked repos with varrying levels of success. Euler equations of fluid dynamics, nlp, implicit representation and more |",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 241753889,
+                "language": "Python",
+                "last_commit": "2024-06-24T04:06:08Z",
+                "owner": "jloveric",
+                "repo": "high-order-layers-torch",
+                "stars": 44
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Alternative"
         }
       ],
       "title": "Library"
@@ -2133,13 +2155,35 @@
             "repo": "artificial-intelligence-articles",
             "stars": 3
           }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "用KAN拟合环境光渲染的查找表",
+              "description": "code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 32620049,
+                "language": "C++",
+                "last_commit": "2026-07-17T23:08:59Z",
+                "owner": "gongminmin",
+                "repo": "KlayGE",
+                "stars": 2174
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "YouTube"
         }
       ],
       "title": "Tutorial"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T04:00:23.096Z",
+    "last_updated": "2026-08-24T13:59:13.020Z",
     "original_repository": "mintisan/awesome-kan",
     "original_repository_id": 797540256,
     "original_repository_sha": "795e8f7d696a50b75bf55c6fc41b1f50e68a97f3",
