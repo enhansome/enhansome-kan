@@ -15,7 +15,7 @@
             "last_commit": "2026-08-05T16:33:50Z",
             "owner": "pnnl",
             "repo": "neuromancer",
-            "stars": 1368
+            "stars": 1369
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2025-06-23T16:35:29Z",
             "owner": "CUHK-AIM-Group",
             "repo": "U-KAN",
-            "stars": 553
+            "stars": 552
           }
         },
         {
@@ -120,7 +120,7 @@
             "last_commit": "2026-02-07T07:03:51Z",
             "owner": "yizheng-wang",
             "repo": "Research-on-Solving-Partial-Differential-Equations-of-Solid-Mechanics-Based-on-PINN",
-            "stars": 219
+            "stars": 220
           }
         },
         {
@@ -786,7 +786,7 @@
             "last_commit": "2025-01-19T18:49:39Z",
             "owner": "KindXiaoming",
             "repo": "pykan",
-            "stars": 16332
+            "stars": 16333
           }
         },
         {
@@ -801,7 +801,7 @@
             "last_commit": "2024-08-01T12:21:05Z",
             "owner": "Blealtan",
             "repo": "efficient-kan",
-            "stars": 4656
+            "stars": 4655
           }
         },
         {
@@ -831,7 +831,7 @@
             "last_commit": "2024-06-20T09:56:42Z",
             "owner": "ZiyaoLi",
             "repo": "fast-kan",
-            "stars": 491
+            "stars": 492
           }
         },
         {
@@ -1690,7 +1690,7 @@
             "last_commit": "2026-08-05T16:33:50Z",
             "owner": "pnnl",
             "repo": "neuromancer",
-            "stars": 1368
+            "stars": 1369
           }
         },
         {
@@ -1996,7 +1996,7 @@
             "last_commit": "2025-01-19T18:49:39Z",
             "owner": "KindXiaoming",
             "repo": "pykan",
-            "stars": 16332
+            "stars": 16333
           }
         },
         {
@@ -2011,7 +2011,7 @@
             "last_commit": "2026-08-05T16:33:50Z",
             "owner": "pnnl",
             "repo": "neuromancer",
-            "stars": 1368
+            "stars": 1369
           }
         },
         {
@@ -2139,7 +2139,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T03:56:18.301Z",
+    "last_updated": "2026-08-24T04:00:23.096Z",
     "original_repository": "mintisan/awesome-kan",
     "original_repository_id": 797540256,
     "original_repository_sha": "795e8f7d696a50b75bf55c6fc41b1f50e68a97f3",
