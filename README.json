@@ -45,7 +45,7 @@
             "last_commit": "2025-03-23T06:35:19Z",
             "owner": "Adamdad",
             "repo": "kat",
-            "stars": 845
+            "stars": 846
           }
         },
         {
@@ -195,7 +195,7 @@
             "last_commit": "2024-12-27T11:14:23Z",
             "owner": "remigenet",
             "repo": "TKAT",
-            "stars": 88
+            "stars": 89
           }
         },
         {
@@ -1001,21 +1001,6 @@
         },
         {
           "node_type": "item",
-          "title": "KolmogorovArnold.jl",
-          "description": "Very fast Julia implementation of KANs with RBF and RSWAF basis. Extra speedup is gained by writing custom gradients to share work between forward and backward pass. ｜",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 799668577,
-            "language": "Julia",
-            "last_commit": "2026-07-06T00:03:20Z",
-            "owner": "vpuri3",
-            "repo": "KolmogorovArnold.jl",
-            "stars": 88
-          }
-        },
-        {
-          "node_type": "item",
           "title": "TKAT",
           "description": "Temporal Kolmogorov-Arnold Transformer Tensorflow 2.x model implementation |",
           "children": [],
@@ -1026,6 +1011,21 @@
             "last_commit": "2024-12-27T11:14:23Z",
             "owner": "remigenet",
             "repo": "TKAT",
+            "stars": 89
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KolmogorovArnold.jl",
+          "description": "Very fast Julia implementation of KANs with RBF and RSWAF basis. Extra speedup is gained by writing custom gradients to share work between forward and backward pass. ｜",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 799668577,
+            "language": "Julia",
+            "last_commit": "2026-07-06T00:03:20Z",
+            "owner": "vpuri3",
+            "repo": "KolmogorovArnold.jl",
             "stars": 88
           }
         },
@@ -1727,7 +1727,7 @@
             "last_commit": "2024-11-25T00:23:32Z",
             "owner": "AdityaNG",
             "repo": "kan-gpt",
-            "stars": 725
+            "stars": 726
           }
         },
         {
@@ -1997,7 +1997,7 @@
             "last_commit": "2025-07-11T07:37:11Z",
             "owner": "antoniogrs",
             "repo": "kan_parametric_reconstruction",
-            "stars": 0
+            "stars": 1
           }
         }
       ],
@@ -2183,7 +2183,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:59:13.020Z",
+    "last_updated": "2026-08-25T03:54:02.180Z",
     "original_repository": "mintisan/awesome-kan",
     "original_repository_id": 797540256,
     "original_repository_sha": "795e8f7d696a50b75bf55c6fc41b1f50e68a97f3",
