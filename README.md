@@ -1,6 +1,6 @@
 # Awesome KAN(Kolmogorov-Arnold Network) with stars
 
-![Awesome](https://awesome.re/badge.svg) [![Contributions](https://img.shields.io/github/issues-pr-closed-raw/mintisan/awesome-kan.svg?label=contributions)](https://github.com/mintisan/awesome-kan/pulls) ⭐ 3,289 | 🐛 6 | 📅 2026-08-17 [![Commits](https://img.shields.io/github/last-commit/mintisan/awesome-kan.svg?label=last%20contribution)](https://github.com/gigwegbe/tinyml-papers-and-projects/commits/main) ⭐ 1,031 | 🐛 3 | 📅 2025-12-08 ![GitHub stars](https://img.shields.io/github/stars/mintisan/awesome-kan.svg?style=social)
+![Awesome](https://awesome.re/badge.svg) [![Contributions](https://img.shields.io/github/issues-pr-closed-raw/mintisan/awesome-kan.svg?label=contributions)](https://github.com/mintisan/awesome-kan/pulls) ⭐ 3,291 | 🐛 6 | 📅 2026-08-17 [![Commits](https://img.shields.io/github/last-commit/mintisan/awesome-kan.svg?label=last%20contribution)](https://github.com/gigwegbe/tinyml-papers-and-projects/commits/main) ⭐ 1,031 | 🐛 3 | 📅 2025-12-08 ![GitHub stars](https://img.shields.io/github/stars/mintisan/awesome-kan.svg?style=social)
 
 A curated list of awesome libraries, projects, tutorials, papers, and other resources related to Kolmogorov-Arnold Network (KAN). This repository aims to be a comprehensive and organized collection that will help researchers and developers in the world of KAN!
 
@@ -204,7 +204,7 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 
 * [Neuromancer](https://github.com/pnnl/neuromancer) ⭐ 1,369 | 🐛 17 | 🌐 Python | 📅 2026-08-05 : Neural Modules with Adaptive Nonlinear Constraints and Efficient Regularizations (NeuroMANCER) is an open-source differentiable programming (DP) library for solving parametric constrained optimization problems, physics-informed system identification, and parametric model-based optimal control. It includes, among other architectures, KANs and finite basis KANs (FBKANs). | ![Github stars](https://img.shields.io/github/stars/pnnl/neuromancer.svg)
 * [KAN-GPT](https://github.com/AdityaNG/kan-gpt) ⭐ 726 | 🐛 6 | 🌐 Python | 📅 2024-11-25 : The PyTorch implementation of Generative Pre-trained Transformers (GPTs) using Kolmogorov-Arnold Networks (KANs) for language modeling ｜ ![Github stars](https://img.shields.io/github/stars/AdityaNG/kan-gpt.svg)
-* [kanrl](https://github.com/riiswa/kanrl) ⭐ 296 | 🐛 8 | 🌐 Python | 📅 2025-04-09 : Kolmogorov-Arnold Network for Reinforcement Leaning, initial experiments ｜ ![Github stars](https://img.shields.io/github/stars/riiswa/kanrl.svg)
+* [kanrl](https://github.com/riiswa/kanrl) ⭐ 297 | 🐛 8 | 🌐 Python | 📅 2025-04-09 : Kolmogorov-Arnold Network for Reinforcement Leaning, initial experiments ｜ ![Github stars](https://img.shields.io/github/stars/riiswa/kanrl.svg)
 * [Vision-KAN](https://github.com/chenziwenhaoshuai/Vision-KAN) ⭐ 256 | 🐛 11 | 🌐 Python | 📅 2024-10-07 : KAN for Vision Transformer ｜ ![Github stars](https://img.shields.io/github/stars/chenziwenhaoshuai/Vision-KAN.svg)
 * [X-KANeRF](https://github.com/lif314/X-KANeRF) ⭐ 179 | 🐛 0 | 🌐 Python | 📅 2024-06-30 : X-KANeRF: KAN-based NeRF with Various Basis Functions to explain the the NeRF formula ｜ ![Github stars](https://img.shields.io/github/stars/lif314/X-KANeRF.svg)
 * [KANeRF](https://github.com/Tavish9/KANeRF) ⭐ 152 | 🐛 4 | 🌐 Python | 📅 2024-11-29 : Kolmogorov-Arnold Network (KAN) based NeRF ｜ ![Github stars](https://img.shields.io/github/stars/Tavish9/KANeRF.svg)
@@ -298,4 +298,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
