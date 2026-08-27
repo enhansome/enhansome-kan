@@ -15,7 +15,7 @@
             "last_commit": "2026-08-05T16:33:50Z",
             "owner": "pnnl",
             "repo": "neuromancer",
-            "stars": 1369
+            "stars": 1370
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2025-06-23T16:35:29Z",
             "owner": "CUHK-AIM-Group",
             "repo": "U-KAN",
-            "stars": 552
+            "stars": 553
           }
         },
         {
@@ -120,7 +120,7 @@
             "last_commit": "2026-02-07T07:03:51Z",
             "owner": "yizheng-wang",
             "repo": "Research-on-Solving-Partial-Differential-Equations-of-Solid-Mechanics-Based-on-PINN",
-            "stars": 220
+            "stars": 221
           }
         },
         {
@@ -485,6 +485,21 @@
         },
         {
           "node_type": "item",
+          "title": "Kolmogorov-Arnold Network for Online Reinforcement Learning",
+          "description": "code |",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 822439080,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-08-19T17:38:10Z",
+            "owner": "victorkich",
+            "repo": "Kolmogorov-PPO",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
           "title": "Learnable polynomial, trigonometric, and tropical activations",
           "description": "We introduce a novel variance-preserving initialization for learnable activations by using orthogonal functions, simplifying the computation of 2nd-order moments, and demonstrate improved performance in ImageNet classification with ConvNeXt and next-token prediction with GPT-2 on OpenWebText.| code",
           "children": [],
@@ -496,21 +511,6 @@
             "owner": "K-H-Ismail",
             "repo": "torchortho",
             "stars": 18
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Kolmogorov-Arnold Network for Online Reinforcement Learning",
-          "description": "code |",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 822439080,
-            "language": "Jupyter Notebook",
-            "last_commit": "2024-08-19T17:38:10Z",
-            "owner": "victorkich",
-            "repo": "Kolmogorov-PPO",
-            "stars": 17
           }
         },
         {
@@ -786,7 +786,7 @@
             "last_commit": "2025-01-19T18:49:39Z",
             "owner": "KindXiaoming",
             "repo": "pykan",
-            "stars": 16333
+            "stars": 16334
           }
         },
         {
@@ -831,7 +831,7 @@
             "last_commit": "2024-06-20T09:56:42Z",
             "owner": "ZiyaoLi",
             "repo": "fast-kan",
-            "stars": 492
+            "stars": 493
           }
         },
         {
@@ -1712,7 +1712,7 @@
             "last_commit": "2026-08-05T16:33:50Z",
             "owner": "pnnl",
             "repo": "neuromancer",
-            "stars": 1369
+            "stars": 1370
           }
         },
         {
@@ -2018,7 +2018,7 @@
             "last_commit": "2025-01-19T18:49:39Z",
             "owner": "KindXiaoming",
             "repo": "pykan",
-            "stars": 16333
+            "stars": 16334
           }
         },
         {
@@ -2033,7 +2033,7 @@
             "last_commit": "2026-08-05T16:33:50Z",
             "owner": "pnnl",
             "repo": "neuromancer",
-            "stars": 1369
+            "stars": 1370
           }
         },
         {
@@ -2183,9 +2183,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T03:58:15.865Z",
-    "original_repository": "mintisan/awesome-kan",
-    "original_repository_id": 797540256,
+    "last_updated": "2026-08-27T11:49:13.889Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 797540256,
+      "language": null,
+      "last_commit": "2026-08-17T02:16:28Z",
+      "owner": "mintisan",
+      "repo": "awesome-kan",
+      "stars": 3292
+    },
     "original_repository_sha": "795e8f7d696a50b75bf55c6fc41b1f50e68a97f3",
     "enhanced_repository": "enhansome/enhansome-kan",
     "enhanced_repository_description": null,
