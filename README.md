@@ -1,6 +1,6 @@
 # Awesome KAN(Kolmogorov-Arnold Network) with stars
 
-![Awesome](https://awesome.re/badge.svg) [![Contributions](https://img.shields.io/github/issues-pr-closed-raw/mintisan/awesome-kan.svg?label=contributions)](https://github.com/mintisan/awesome-kan/pulls) ⭐ 3,292 | 🐛 6 | 📅 2026-08-17 [![Commits](https://img.shields.io/github/last-commit/mintisan/awesome-kan.svg?label=last%20contribution)](https://github.com/gigwegbe/tinyml-papers-and-projects/commits/main) ⭐ 1,031 | 🐛 3 | 📅 2025-12-08 ![GitHub stars](https://img.shields.io/github/stars/mintisan/awesome-kan.svg?style=social)
+![Awesome](https://awesome.re/badge.svg) [![Contributions](https://img.shields.io/github/issues-pr-closed-raw/mintisan/awesome-kan.svg?label=contributions)](https://github.com/mintisan/awesome-kan/pulls) ⭐ 3,292 | 🐛 6 | 📅 2026-08-17 [![Commits](https://img.shields.io/github/last-commit/mintisan/awesome-kan.svg?label=last%20contribution)](https://github.com/gigwegbe/tinyml-papers-and-projects/commits/main) ⭐ 1,032 | 🐛 3 | 📅 2025-12-08 ![GitHub stars](https://img.shields.io/github/stars/mintisan/awesome-kan.svg?style=social)
 
 A curated list of awesome libraries, projects, tutorials, papers, and other resources related to Kolmogorov-Arnold Network (KAN). This repository aims to be a comprehensive and organized collection that will help researchers and developers in the world of KAN!
 
@@ -139,7 +139,7 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 * [SigKAN](https://github.com/remigenet/SigKAN) ⭐ 49 | 🐛 0 | 🌐 Python | 📅 2024-11-24: Path Signature-Weighted Kolmogorov-Arnold Networks tensorflow 2.x layer implementations, based on iisignature | ![Github stars](https://img.shields.io/github/stars/remigenet/sigkan.svg)
 * [OrthogPolyKAN](https://github.com/Boris-73-TA/OrthogPolyKANs) ⭐ 40 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-11-21 : Kolmogorov-Arnold Networks (KAN) using orthogonal polynomials instead of B-splines. ｜ ![Github stars](https://img.shields.io/github/stars/Boris-73-TA/OrthogPolyKANs.svg)
 * [JacobiKAN](https://github.com/SpaceLearner/JacobiKAN) ⭐ 39 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-05-09 : Kolmogorov-Arnold Networks (KAN) using Jacobi polynomials instead of B-splines. ｜ ![Github stars](https://img.shields.io/github/stars/SpaceLearner/JacobiKAN.svg)
-* [KANX (Mattral)](https://github.com/Mattral/KANX) ⭐ 34 | 🐛 1 | 🌐 Python | 📅 2026-07-09 : Production-grade Kolmogorov-Arnold Network library supporting TensorFlow + PyTorch backends with ONNX export, FastAPI REST service, and Docker/Kubernetes deployment. | ![Github stars](https://img.shields.io/github/stars/Mattral/KANX.svg)
+* [KANX (Mattral)](https://github.com/Mattral/KANX) ⭐ 35 | 🐛 1 | 🌐 Python | 📅 2026-07-09 : Production-grade Kolmogorov-Arnold Network library supporting TensorFlow + PyTorch backends with ONNX export, FastAPI REST service, and Docker/Kubernetes deployment. | ![Github stars](https://img.shields.io/github/stars/Mattral/KANX.svg)
 * [fKAN](https://github.com/alirezaafzalaghaei/fKAN/) ⭐ 32 | 🐛 0 | 🌐 Python | 📅 2025-01-17: fKAN: Fractional Kolmogorov-Arnold Networks with trainable Jacobi basis functions | ![Github stars](https://img.shields.io/github/stars/alirezaafzalaghaei/fKAN.svg)
 * [BSRBF\_KAN](https://github.com/hoangthangta/BSRBF_KAN/) ⭐ 31 | 🐛 0 | 🌐 Python | 📅 2025-11-30: Combine B-Spline (BS) and Radial Basic Function (RBF) in Kolmogorov-Arnold Networks (KANs) | ![Github stars](https://img.shields.io/github/stars/hoangthangta/BSRBF_KAN.svg)
 * [Deep-KAN](https://github.com/Sid2690/Deep-KAN) ⭐ 26 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2024-06-09: Better implementation of Kolmogorov Arnold Network  | ![Github stars](https://img.shields.io/github/stars/Sid2690/Deep-KAN.svg)
@@ -188,7 +188,7 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 
 * [KolmogorovArnold.jl](https://github.com/vpuri3/KolmogorovArnold.jl) ⭐ 88 | 🐛 4 | 🌐 Julia | 📅 2026-07-06 : Very fast Julia implementation of KANs with RBF and RSWAF basis. Extra speedup is gained by writing custom gradients to share work between forward and backward pass. ｜ ![Github stars](https://img.shields.io/github/stars/vpuri3/KolmogorovArnold.jl)
 * [kan-polar](https://github.com/mpoluektov/kan-polar) ⭐ 62 | 🐛 0 | 🌐 MATLAB | 📅 2026-04-16 : Kolmogorov-Arnold Networks in MATLAB ｜ ![Github stars](https://img.shields.io/github/stars/mpoluektov/kan-polar.svg)
-* [FluxKAN.jl](https://github.com/cometscome/FluxKAN.jl) ⭐ 35 | 🐛 3 | 🌐 Julia | 📅 2025-11-24 : An easy to use Flux implementation of the Kolmogorov Arnold Network. This is a Julia version of TorchKAN.
+* [FluxKAN.jl](https://github.com/cometscome/FluxKAN.jl) ⭐ 35 | 🐛 4 | 🌐 Julia | 📅 2026-08-28 : An easy to use Flux implementation of the Kolmogorov Arnold Network. This is a Julia version of TorchKAN.
 * [kamo](https://github.com/dorjeduck/kamo) ⭐ 19 | 🐛 0 | 🌐 Mojo | 📅 2026-08-22 : Kolmogorov-Arnold Networks in Mojo ｜ ![Github stars](https://img.shields.io/github/stars/dorjeduck/kamo.svg)
 * [ikant](https://github.com/huytrinhm/ikant) ⭐ 5 | 🐛 0 | 🌐 C++ | 📅 2024-12-31 : A simple C++ implementation and visualization of Kolmogorov-Arnold Networks.
 * [Julia-Wav-KAN](https://github.com/PritRaj1/Julia-Wav-KAN) : A Julia implementation of Wavelet Kolmogorov-Arnold Networks. ｜ ![Github stars](https://img.shields.io/github/stars/PritRaj1/Julia-Wav-KAN.svg)
@@ -298,4 +298,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
