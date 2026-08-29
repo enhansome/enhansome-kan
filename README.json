@@ -10,12 +10,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pytorch-based framework for solving parametric constrained optimization problems, physics-informed system identification, and parametric model predictive control. ",
+            "homepage": "https://pnnl.github.io/neuromancer/",
             "id": 304116981,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-05T16:33:50Z",
+            "open_issues": 17,
             "owner": "pnnl",
             "repo": "neuromancer",
-            "stars": 1370
+            "stars": 1370,
+            "topics": [
+              "constrained-optimization",
+              "control-systems",
+              "deep-learning",
+              "differentiable-control",
+              "differentiable-optimization",
+              "differentiable-programming",
+              "dynamical-systems",
+              "nonlinear-dynamics",
+              "nonlinear-optimization",
+              "physics-informed-ml",
+              "pytorch"
+            ]
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
         },
@@ -26,12 +43,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This project extends the idea of the innovative architecture of Kolmogorov-Arnold Networks (KAN) to the Convolutional Layers, changing the classic linear transformation of the convolution to learnable non linear activations in each pixel.",
+            "homepage": null,
             "id": 797008340,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2025-04-08T15:20:20Z",
+            "open_issues": 13,
             "owner": "AntonioTepsich",
             "repo": "Convolutional-KANs",
-            "stars": 921
+            "stars": 921,
+            "topics": [
+              "cnn",
+              "computer-vision",
+              "deep-learning"
+            ]
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
         },
@@ -42,12 +68,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ICLR2025] Kolmogorov-Arnold Transformer",
+            "homepage": null,
             "id": 852897652,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-03-23T06:35:19Z",
+            "open_issues": 16,
             "owner": "Adamdad",
             "repo": "kat",
-            "stars": 846
+            "stars": 846,
+            "topics": [
+              "computer-vision",
+              "kan",
+              "kolmogorov-arnold-networks",
+              "transformer"
+            ]
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
         },
@@ -58,12 +94,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[AAAI' 25] U-KAN Makes Strong Backbone for Medical Image Segmentation and Generation",
+            "homepage": "https://yes-u-kan.github.io/",
             "id": 810097823,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-06-23T16:35:29Z",
+            "open_issues": 40,
             "owner": "CUHK-AIM-Group",
             "repo": "U-KAN",
-            "stars": 553
+            "stars": 553,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
         },
@@ -74,12 +115,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " This project is dedicated to the implementation and research of Kolmogorov-Arnold convolutional networks. The repository includes implementations of 1D, 2D, and 3D convolutions with different kernels, ResNet-like and DenseNet-like models, training code based on accelerate/PyTorch, as well as scripts for experiments with CIFAR-10 and Tiny ImageNet.",
+            "homepage": null,
             "id": 799845479,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-20T17:28:46Z",
+            "open_issues": 9,
             "owner": "IvanDrokin",
             "repo": "torch-conv-kan",
-            "stars": 530
+            "stars": 530,
+            "topics": [
+              "computer-vision",
+              "convolutional-neural-networks",
+              "kolmogorov-arnold-networks"
+            ]
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
         },
@@ -90,12 +140,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "RKAN: Residual Kolmogorov-Arnold Network is designed to enhance the performance of deep learning models.",
+            "homepage": null,
             "id": 851942570,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-10-28T18:27:24Z",
+            "open_issues": 0,
             "owner": "withray",
             "repo": "residualKAN",
-            "stars": 273
+            "stars": 273,
+            "topics": [
+              "cnn",
+              "computer-vision",
+              "kolmogorov-arnold-networks"
+            ]
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
         },
@@ -106,12 +165,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TKAN: Temporal Kolmogorov-Arnold Networks",
+            "homepage": null,
             "id": 798338225,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-12-16T22:11:35Z",
+            "open_issues": 1,
             "owner": "remigenet",
             "repo": "TKAN",
-            "stars": 228
+            "stars": 228,
+            "topics": [
+              "jax",
+              "keras",
+              "keras3",
+              "kolmogorov-arnold-networks",
+              "temporal",
+              "temporal-networks",
+              "tensorflow",
+              "tensorflow2",
+              "timeseries-forecasting",
+              "tkan",
+              "torch"
+            ]
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
         },
@@ -122,12 +198,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is the code of my master thesis.",
+            "homepage": null,
             "id": 480727972,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-02-07T07:03:51Z",
+            "open_issues": 0,
             "owner": "yizheng-wang",
             "repo": "Research-on-Solving-Partial-Differential-Equations-of-Solid-Mechanics-Based-on-PINN",
-            "stars": 221
+            "stars": 221,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
         },
@@ -138,12 +219,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A More Fair and Comprehensive Comparison between KAN and MLP",
+            "homepage": null,
             "id": 825567698,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2024-08-17T15:06:10Z",
+            "open_issues": 6,
             "owner": "yu-rp",
             "repo": "KANbeFair",
-            "stars": 185
+            "stars": 185,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
         },
@@ -154,12 +240,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Experiment ASsistance for Your Time-Series Forecasting, EasyTSF",
+            "homepage": null,
             "id": 844820558,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-05-14T01:08:27Z",
+            "open_issues": 0,
             "owner": "smilehanCN",
             "repo": "EasyTSF",
-            "stars": 119
+            "stars": 119,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
         },
@@ -170,12 +261,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Kolmogorov–Arnold Networks built on JAX",
+            "homepage": "https://jaxkan.readthedocs.io",
             "id": 799120828,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-03-25T12:35:22Z",
+            "open_issues": 0,
             "owner": "srigas",
             "repo": "jaxKAN",
-            "stars": 112
+            "stars": 112,
+            "topics": [
+              "flax",
+              "jax",
+              "kans",
+              "kolmogorov-arnold-networks",
+              "pikan"
+            ]
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
         },
@@ -186,12 +288,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 809597549,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-06-05T01:05:40Z",
+            "open_issues": 2,
             "owner": "quiqi",
             "repo": "relu_kan",
-            "stars": 103
+            "stars": 103,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
         },
@@ -202,12 +309,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Temporal Kolmogorov-Arnold Transformer",
+            "homepage": null,
             "id": 809767791,
             "language": "Jupyter Notebook",
+            "license": "NOASSERTION",
             "last_commit": "2024-12-27T11:14:23Z",
+            "open_issues": 1,
             "owner": "remigenet",
             "repo": "TKAT",
-            "stars": 89
+            "stars": 89,
+            "topics": [
+              "jax",
+              "keras",
+              "keras3",
+              "temporal-networks",
+              "tensorflow",
+              "timeseries",
+              "timeseries-forecasting",
+              "tkan",
+              "tkat",
+              "torch",
+              "transformer"
+            ]
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
         },
@@ -218,12 +342,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Implementation of GraphKan with torch geometrics and its application on signal classification",
+            "homepage": null,
             "id": 807565208,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-06-04T12:47:02Z",
+            "open_issues": 3,
             "owner": "Ryanfzhang",
             "repo": "GraphKan",
-            "stars": 70
+            "stars": 70,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
         },
@@ -234,12 +363,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SigKAN: Signature-Weighted Kolmogorov-Arnold Networks for Time Series",
+            "homepage": null,
             "id": 815497475,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-11-24T17:48:12Z",
+            "open_issues": 0,
             "owner": "remigenet",
             "repo": "SigKAN",
-            "stars": 49
+            "stars": 49,
+            "topics": [
+              "kolmogorov-arnold-networks",
+              "rough-paths",
+              "signature",
+              "temporal",
+              "tensorflow2",
+              "time-series"
+            ]
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
         },
@@ -250,12 +391,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CIKM'25] Enhancing Graph Collaborative Filtering with FourierKAN Feature Transformation",
+            "homepage": "https://arxiv.org/abs/2406.01034",
             "id": 808046100,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-12-02T06:38:14Z",
+            "open_issues": 1,
             "owner": "Jinfeng-Xu",
             "repo": "FKAN-GCF",
-            "stars": 42
+            "stars": 42,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
         },
@@ -266,12 +412,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Replacement classic layers with KAN Block for Hyperspectral data",
+            "homepage": null,
             "id": 808476977,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2024-11-30T10:36:05Z",
+            "open_issues": 0,
             "owner": "f-neumann77",
             "repo": "HyperKAN",
-            "stars": 42
+            "stars": 42,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
         },
@@ -282,12 +433,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CoxKAN: Kolmogorov-Arnold Networks for Interpretable, High-Performance Survival Analysis",
+            "homepage": "https://pubmed.ncbi.nlm.nih.gov/40685627/",
             "id": 844461570,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2025-09-20T16:15:53Z",
+            "open_issues": 0,
             "owner": "knottwill",
             "repo": "CoxKAN",
-            "stars": 40
+            "stars": 40,
+            "topics": [
+              "kolmogorov-arnold-networks",
+              "pytorch",
+              "survival-analysis"
+            ]
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
         },
@@ -298,12 +458,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "FC-KAN: Function Combinations in Kolmogorov-Arnold Networks",
+            "homepage": null,
             "id": 848273708,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-05-07T06:46:10Z",
+            "open_issues": 0,
             "owner": "hoangthangta",
             "repo": "FC_KAN",
-            "stars": 39
+            "stars": 39,
+            "topics": [
+              "b-splines",
+              "basis-functions",
+              "function-combination",
+              "gaussians",
+              "kolmogorov-arnold-networks",
+              "radial-basis-function",
+              "wavelets"
+            ]
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
         },
@@ -314,12 +487,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "All-KAN: All Kolmogorov-Arnold Networks We Know",
+            "homepage": null,
             "id": 900232849,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-06T08:03:21Z",
+            "open_issues": 0,
             "owner": "hoangthangta",
             "repo": "All-KAN",
-            "stars": 34
+            "stars": 34,
+            "topics": [
+              "b-splines",
+              "function-fitting",
+              "image-classification",
+              "kolmogorov-arnold-networks",
+              "radial-basis-function",
+              "wavelets"
+            ]
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
         },
@@ -330,12 +515,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "All-KAN: All Kolmogorov-Arnold Networks We Know",
+            "homepage": null,
             "id": 900232849,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-06T08:03:21Z",
+            "open_issues": 0,
             "owner": "hoangthangta",
             "repo": "All-KAN",
-            "stars": 34
+            "stars": 34,
+            "topics": [
+              "b-splines",
+              "function-fitting",
+              "image-classification",
+              "kolmogorov-arnold-networks",
+              "radial-basis-function",
+              "wavelets"
+            ]
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
         },
@@ -346,12 +543,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Implementation of Fractional Kolmogorov-Arnold Network (fKAN)",
+            "homepage": null,
             "id": 813781750,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2025-01-17T19:14:04Z",
+            "open_issues": 0,
             "owner": "alirezaafzalaghaei",
             "repo": "fKAN",
-            "stars": 32
+            "stars": 32,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
         },
@@ -362,12 +564,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "KAN (Kolmogorov-Arnold Network)-based Recommendation (CF)",
+            "homepage": null,
             "id": 803307114,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-05-28T04:27:31Z",
+            "open_issues": 0,
             "owner": "jindeok",
             "repo": "CF-KAN",
-            "stars": 32
+            "stars": 32,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
         },
@@ -378,12 +585,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Combine B-Splines (BS) and Radial Basis Functions (RBF) in Kolmogorov-Arnold Networks (KANs)",
+            "homepage": null,
             "id": 811308705,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-11-30T20:38:10Z",
+            "open_issues": 0,
             "owner": "hoangthangta",
             "repo": "BSRBF_KAN",
-            "stars": 31
+            "stars": 31,
+            "topics": [
+              "b-splines",
+              "efficientkan",
+              "fast-kan",
+              "kans",
+              "kolmogorov-arnold-networks",
+              "mnist",
+              "radial-basis-function"
+            ]
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
         },
@@ -394,12 +614,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "KAF : Kolmogorov-Arnold Fourier Networks",
+            "homepage": "https://arxiv.org/abs/2502.06018",
             "id": 925171741,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2025-02-19T13:20:05Z",
+            "open_issues": 2,
             "owner": "kolmogorovArnoldFourierNetwork",
             "repo": "KAF",
-            "stars": 23
+            "stars": 23,
+            "topics": [
+              "computer-vision",
+              "deep-learning",
+              "kolmogorov-arnold-networks",
+              "machine-learning",
+              "natural-language-processing",
+              "pytorch"
+            ]
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
         },
@@ -410,12 +642,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TC-KANRecon: High-Quality and Accelerated MRI Reconstruction through Adaptive KAN Mechanisms and Intelligent Feature Scaling",
+            "homepage": null,
             "id": 831461585,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-08-18T04:11:53Z",
+            "open_issues": 1,
             "owner": "lcbkmm",
             "repo": "TC-KANRecon",
-            "stars": 23
+            "stars": 23,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
         },
@@ -426,12 +663,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Implementation of Rational Kolmogorov-Arnold Network (rKAN)",
+            "homepage": null,
             "id": 817589477,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2024-06-28T17:21:37Z",
+            "open_issues": 1,
             "owner": "alirezaafzalaghaei",
             "repo": "rKAN",
-            "stars": 21
+            "stars": 21,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
         },
@@ -442,12 +684,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repository hosts the code for the FKAN model, proposed in our IEEE ICASSP paper \"Implicit Neural Representations with Fourier Kolmogorov-Arnold Networks\".",
+            "homepage": null,
             "id": 906901634,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2024-12-22T21:36:49Z",
+            "open_issues": 0,
             "owner": "Ali-Meh619",
             "repo": "FKAN",
-            "stars": 21
+            "stars": 21,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
         },
@@ -458,12 +705,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 805424769,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-05-28T02:51:06Z",
+            "open_issues": 0,
             "owner": "hhyqhh",
             "repo": "KAN-EA",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
         },
@@ -474,12 +726,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for Kolmogorov-Arnold Network for Quantum Architecture Search i.e., KANQAS",
+            "homepage": null,
             "id": 819483401,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-01-09T19:05:49Z",
+            "open_issues": 0,
             "owner": "Aqasch",
             "repo": "KANQAS_code",
-            "stars": 20
+            "stars": 20,
+            "topics": [
+              "kolmogorov-arnold-networks",
+              "kolmogorov-arnold-representation",
+              "quantum-architecture-search",
+              "quantum-chemistry",
+              "quantum-machine-learning",
+              "variational-quantum-algorithms"
+            ]
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
         },
@@ -490,12 +754,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "DropKAN (Dropout Kolmogorov Arnold Networks)",
+            "homepage": null,
             "id": 832089748,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-06-23T13:57:19Z",
+            "open_issues": 0,
             "owner": "Ghaith81",
             "repo": "dropkan",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
         },
@@ -506,12 +775,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "DropKAN (Dropout Kolmogorov Arnold Networks)",
+            "homepage": null,
             "id": 832089748,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-06-23T13:57:19Z",
+            "open_issues": 0,
             "owner": "Ghaith81",
             "repo": "dropkan",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
         },
@@ -522,12 +796,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 822439080,
             "language": "Jupyter Notebook",
+            "license": "NOASSERTION",
             "last_commit": "2024-08-19T17:38:10Z",
+            "open_issues": 0,
             "owner": "victorkich",
             "repo": "Kolmogorov-PPO",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
         },
@@ -538,12 +817,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ICLR 2026] Polynomial, trigonometric, and tropical activations",
+            "homepage": "https://arxiv.org/abs/2502.01247",
             "id": 864142924,
             "language": "Jupyter Notebook",
+            "license": "GPL-3.0",
             "last_commit": "2026-02-23T11:16:58Z",
+            "open_issues": 0,
             "owner": "K-H-Ismail",
             "repo": "torchortho",
-            "stars": 18
+            "stars": 18,
+            "topics": [
+              "activations",
+              "ai",
+              "artificial-intelligence",
+              "basis",
+              "convolutional-neural-networks",
+              "deep-learning",
+              "fourier-series",
+              "gpt-2",
+              "imagenet",
+              "kolmogorov-arnold-networks",
+              "machine-learning",
+              "mapping",
+              "neural-networks",
+              "openwebtext",
+              "orthogonal",
+              "polynomials",
+              "pytorch",
+              "transformers",
+              "trigonometric-functions",
+              "tropical-geometry"
+            ]
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
         },
@@ -554,12 +859,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Kolmogorov-Arnold Networks for Dynamics (KANDy) to learn governing equations from dynamical systems.",
+            "homepage": null,
             "id": 1173474206,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2026-05-13T23:10:55Z",
+            "open_issues": 0,
             "owner": "Center-For-Complex-Systems-Science",
             "repo": "kandy",
-            "stars": 17
+            "stars": 17,
+            "topics": [
+              "data-driven-dynamics",
+              "dynamical-systems",
+              "kandy",
+              "kolmogorov-arnold-networks",
+              "ode",
+              "partial-differential-equations"
+            ]
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
         },
@@ -570,12 +887,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[AAAI 2026] The official implementation for FlashKAT.",
+            "homepage": null,
             "id": 986628430,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-06-06T16:07:47Z",
+            "open_issues": 1,
             "owner": "OSU-STARLAB",
             "repo": "FlashKAT",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
         },
@@ -586,12 +908,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 924421067,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2025-02-03T12:03:22Z",
+            "open_issues": 0,
             "owner": "rodakt",
             "repo": "hkan",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
         },
@@ -602,12 +929,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Demonstrating the Efficacy of Kolmogorov-Arnold Networks in Vision Tasks",
+            "homepage": null,
             "id": 818122247,
             "language": "Jupyter Notebook",
+            "license": "BSD-3-Clause",
             "last_commit": "2024-06-29T12:24:57Z",
+            "open_issues": 0,
             "owner": "jmj2316",
             "repo": "KAN-in-VIsion",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
         },
@@ -618,12 +950,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 832881089,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2025-03-01T19:25:45Z",
+            "open_issues": 1,
             "owner": "OSU-STARLAB",
             "repo": "MatrixKAN",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
         },
@@ -634,12 +971,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CVKAN: Complex-Valued Kolmogorov-Arnold Networks",
+            "homepage": null,
             "id": 928277853,
             "language": "Python",
+            "license": "CC-BY-4.0",
             "last_commit": "2026-05-11T19:21:55Z",
+            "open_issues": 0,
             "owner": "M-Wolff",
             "repo": "CVKAN",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
         },
@@ -650,12 +992,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official Code Implementation of \"Improving Memory Efficiency for Training KANs via Meta Learning\"",
+            "homepage": null,
             "id": 984494188,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-09-17T05:02:07Z",
+            "open_issues": 0,
             "owner": "Murphyzc",
             "repo": "MetaKAN",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
         },
@@ -666,12 +1013,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Kolmogorov Arnold Mixture of Experts",
+            "homepage": null,
             "id": 830399041,
             "language": "Jupyter Notebook",
+            "license": "NOASSERTION",
             "last_commit": "2024-11-01T14:14:50Z",
+            "open_issues": 0,
             "owner": "remigenet",
             "repo": "KAMoE",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
         },
@@ -682,12 +1034,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 796353983,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2024-10-19T19:26:30Z",
+            "open_issues": 0,
             "owner": "abdalimran",
             "repo": "FR-KAN-Text-Classification",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
         },
@@ -698,12 +1055,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 826482885,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2024-08-07T04:29:51Z",
+            "open_issues": 0,
             "owner": "wtroy2",
             "repo": "Quantum-KAN",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
         },
@@ -714,12 +1076,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The implementation of HKAN-LogAD: Hierarchical Kolmogorov-Arnold Networks for Log Anomaly Detection",
+            "homepage": null,
             "id": 1137386733,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-02-16T12:24:01Z",
+            "open_issues": 0,
             "owner": "aristotelisxs",
             "repo": "hkan-logad",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
         },
@@ -730,12 +1097,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This paper introduces NURBS into KANs to enhance their capability in approximating abrupt signals while maintaining full compatibility with existing KAN-based architectures for seamless integration.Experiments across multiple tasks demonstrate that the proposed method consistently outperforms MLPs, vanilla KANs, and their variants.",
+            "homepage": null,
             "id": 1050798110,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-05-10T04:13:18Z",
+            "open_issues": 0,
             "owner": "baboonaaaa",
             "repo": "Double-KANs",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
         },
@@ -746,12 +1118,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This paper proposes a novel KAN variant that integrates the Mexican Hat wavelet into the activation design. The hat-shaped profile of the Mexican Hat wavelet accurately modeling local discontinuities and impulsive patterns, while its spectral energy concentration in the mid-to-low frequency range effectively suppresses high-frequency noise.",
+            "homepage": null,
             "id": 1064553691,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-20T08:30:04Z",
+            "open_issues": 0,
             "owner": "baboonaaaa",
             "repo": "MexiKAN",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
         },
@@ -762,12 +1139,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "KANLib enables the creation and training of Kolmogorov–Arnold networks (KANs). The library is designed to be extensible, providing fast layer implementations that can be integrated into any PyTorch model.",
+            "homepage": "https://arxiv.org/abs/2606.17927",
             "id": 1025374887,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-06-29T04:50:03Z",
+            "open_issues": 0,
             "owner": "julianhoever",
             "repo": "KANLib",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "convolutional-neural-networks",
+              "kolmogorov-arnold-networks",
+              "neural-network",
+              "pytorch"
+            ]
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
         },
@@ -778,12 +1165,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bridging KAN and MLP: MJKAN, a hybrid architecture with both efficiency and expressiveness",
+            "homepage": null,
             "id": 1106286644,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-11-29T00:44:39Z",
+            "open_issues": 0,
             "owner": "jmj2316",
             "repo": "MJKAN",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
         },
@@ -794,12 +1186,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TruKAN: Kolmogorov-Arnold Networks Using Truncated Power Functions",
+            "homepage": null,
             "id": 1121227866,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-06-24T04:32:35Z",
+            "open_issues": 0,
             "owner": "alibayeh",
             "repo": "trukan",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "compiler",
+              "kan-compiler",
+              "kolmogorov-arnold-network",
+              "kolmogorov-arnold-networks",
+              "kolmogorov-arnold-representation",
+              "physics-informed-neural-networks",
+              "plotting-library",
+              "sympy-expressions",
+              "trukan",
+              "truncated-power",
+              "truncated-power-functions"
+            ]
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
         },
@@ -810,12 +1219,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1249715399,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-05-26T01:43:58Z",
+            "open_issues": 0,
             "owner": "alibayeh",
             "repo": "SAC-KAN",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
         }
@@ -832,12 +1246,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Kolmogorov Arnold Networks",
+            "homepage": null,
             "id": 792896859,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2025-01-19T18:49:39Z",
+            "open_issues": 266,
             "owner": "KindXiaoming",
             "repo": "pykan",
-            "stars": 16334
+            "stars": 16334,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
         },
@@ -848,12 +1267,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An efficient pure-PyTorch implementation of Kolmogorov-Arnold Network (KAN).",
+            "homepage": null,
             "id": 795068880,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-08-01T12:21:05Z",
+            "open_issues": 38,
             "owner": "Blealtan",
             "repo": "efficient-kan",
-            "stars": 4655
+            "stars": 4655,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
         },
@@ -864,12 +1288,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 794527798,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-05-24T07:00:57Z",
+            "open_issues": 3,
             "owner": "GistNoesis",
             "repo": "FourierKAN",
-            "stars": 753
+            "stars": 753,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
         },
@@ -880,12 +1309,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "FastKAN: Very Fast Implementation of Kolmogorov-Arnold Networks (KAN)",
+            "homepage": null,
             "id": 798218910,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2024-06-20T09:56:42Z",
+            "open_issues": 7,
             "owner": "ZiyaoLi",
             "repo": "fast-kan",
-            "stars": 493
+            "stars": 493,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
         },
@@ -896,12 +1330,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Kolmogorov-Arnold Networks (KAN) using Chebyshev polynomials instead of B-splines.",
+            "homepage": null,
             "id": 797283557,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2024-05-13T17:22:55Z",
+            "open_issues": 11,
             "owner": "SynodicMonth",
             "repo": "ChebyKAN",
-            "stars": 417
+            "stars": 417,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
         },
@@ -912,12 +1351,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 795349395,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-05-03T05:32:04Z",
+            "open_issues": 5,
             "owner": "WillHua127",
             "repo": "GraphKAN-Graph-Kolmogorov-Arnold-Networks",
-            "stars": 350
+            "stars": 350,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
         },
@@ -928,12 +1372,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 795349395,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-05-03T05:32:04Z",
+            "open_issues": 5,
             "owner": "WillHua127",
             "repo": "GraphKAN-Graph-Kolmogorov-Arnold-Networks",
-            "stars": 350
+            "stars": 350,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
         },
@@ -944,12 +1393,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "KAN for Vision Transformer",
+            "homepage": null,
             "id": 800370417,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-10-07T15:15:41Z",
+            "open_issues": 11,
             "owner": "chenziwenhaoshuai",
             "repo": "Vision-KAN",
-            "stars": 256
+            "stars": 256,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
         },
@@ -960,12 +1414,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TKAN: Temporal Kolmogorov-Arnold Networks",
+            "homepage": null,
             "id": 798338225,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-12-16T22:11:35Z",
+            "open_issues": 1,
             "owner": "remigenet",
             "repo": "TKAN",
-            "stars": 228
+            "stars": 228,
+            "topics": [
+              "jax",
+              "keras",
+              "keras3",
+              "kolmogorov-arnold-networks",
+              "temporal",
+              "temporal-networks",
+              "tensorflow",
+              "tensorflow2",
+              "timeseries-forecasting",
+              "tkan",
+              "torch"
+            ]
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
         },
@@ -976,12 +1447,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "X-KANeRF [KANeRF-benchmarking]: KAN based NeRF with various basis functions like B-Splines, Fourier, Gaussians, Wavelets, Polynomials, etc",
+            "homepage": null,
             "id": 798353586,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-06-30T02:00:12Z",
+            "open_issues": 0,
             "owner": "lif314",
             "repo": "X-KANeRF",
-            "stars": 179
+            "stars": 179,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
         },
@@ -992,12 +1468,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repository contains the codes to replicate the simulations from the paper: \"Wav-KAN: Wavelet Kolmogorov-Arnold Networks\".  It showcases the use of wavelet functions in neural networks to improve interpretability, accuracy, and efficiency.",
+            "homepage": null,
             "id": 803622638,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-06-10T04:08:55Z",
+            "open_issues": 3,
             "owner": "zavareh1",
             "repo": "Wav-KAN",
-            "stars": 176
+            "stars": 176,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
         },
@@ -1008,12 +1489,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 796324281,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2024-05-08T02:14:18Z",
+            "open_issues": 3,
             "owner": "akaashdash",
             "repo": "kansformers",
-            "stars": 139
+            "stars": 139,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
         },
@@ -1024,12 +1510,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Variations of Kolmogorov-Arnold Networks",
+            "homepage": null,
             "id": 795998079,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-05-15T21:33:31Z",
+            "open_issues": 4,
             "owner": "Indoxer",
             "repo": "LKAN",
-            "stars": 116
+            "stars": 116,
+            "topics": [
+              "machine-learning"
+            ]
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
         },
@@ -1040,12 +1533,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Kolmogorov–Arnold Networks with modified activation (using MLP to represent the activation)",
+            "homepage": null,
             "id": 797005480,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-10-04T04:20:57Z",
+            "open_issues": 0,
             "owner": "Zhangyanbo",
             "repo": "MLP-KAN",
-            "stars": 108
+            "stars": 108,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
         },
@@ -1056,12 +1554,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Benchmarking and Testing FastKAN ",
+            "homepage": null,
             "id": 798782669,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-05-26T07:33:52Z",
+            "open_issues": 7,
             "owner": "AthanasiosDelis",
             "repo": "faster-kan",
-            "stars": 98
+            "stars": 98,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
         },
@@ -1072,12 +1575,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Temporal Kolmogorov-Arnold Transformer",
+            "homepage": null,
             "id": 809767791,
             "language": "Jupyter Notebook",
+            "license": "NOASSERTION",
             "last_commit": "2024-12-27T11:14:23Z",
+            "open_issues": 1,
             "owner": "remigenet",
             "repo": "TKAT",
-            "stars": 89
+            "stars": 89,
+            "topics": [
+              "jax",
+              "keras",
+              "keras3",
+              "temporal-networks",
+              "tensorflow",
+              "timeseries",
+              "timeseries-forecasting",
+              "tkan",
+              "tkat",
+              "torch",
+              "transformer"
+            ]
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
         },
@@ -1088,12 +1608,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Julia implementation of the Kolmogorov-Arnold network with custom gradients for fast training. ",
+            "homepage": null,
             "id": 799668577,
             "language": "Julia",
+            "license": "MIT",
             "last_commit": "2026-07-06T00:03:20Z",
+            "open_issues": 4,
             "owner": "vpuri3",
             "repo": "KolmogorovArnold.jl",
-            "stars": 88
+            "stars": 88,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
         },
@@ -1104,12 +1629,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Parametric differentiable curves with PyTorch for continuous embeddings, shape-restricted models, or KANs",
+            "homepage": "https://torchcurves.readthedocs.io/en/stable/",
             "id": 989577719,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-10T20:45:54Z",
+            "open_issues": 0,
             "owner": "alexshtf",
             "repo": "torchcurves",
-            "stars": 64
+            "stars": 64,
+            "topics": [
+              "b-splines",
+              "curve-fitting",
+              "deep-learning",
+              "embeddings",
+              "interpolation",
+              "kan",
+              "kolmogorov-arnold-networks",
+              "legendre-polynomials",
+              "machine-learning",
+              "parametric-curves",
+              "python",
+              "pytorch",
+              "spline"
+            ]
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
         },
@@ -1120,12 +1664,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SigKAN: Signature-Weighted Kolmogorov-Arnold Networks for Time Series",
+            "homepage": null,
             "id": 815497475,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-11-24T17:48:12Z",
+            "open_issues": 0,
             "owner": "remigenet",
             "repo": "SigKAN",
-            "stars": 49
+            "stars": 49,
+            "topics": [
+              "kolmogorov-arnold-networks",
+              "rough-paths",
+              "signature",
+              "temporal",
+              "tensorflow2",
+              "time-series"
+            ]
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
         },
@@ -1136,12 +1692,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Kolmogorov-Arnold Networks (KAN) using orthogonal polynomials instead of B-splines.",
+            "homepage": null,
             "id": 798109858,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2024-11-21T15:47:01Z",
+            "open_issues": 0,
             "owner": "Boris-73-TA",
             "repo": "OrthogPolyKANs",
-            "stars": 40
+            "stars": 40,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
         },
@@ -1152,12 +1713,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Kolmogorov-Arnold Networks (KAN) using Jacobi polynomials instead of B-splines.",
+            "homepage": null,
             "id": 798336072,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2024-05-09T16:18:01Z",
+            "open_issues": 0,
             "owner": "SpaceLearner",
             "repo": "JacobiKAN",
-            "stars": 39
+            "stars": 39,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
         },
@@ -1168,12 +1734,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "One library, four surfaces. Production-grade Kolmogorov-Arnold Networks || TensorFlow + PyTorch + ONNX. || A small KAN beats a 10× larger MLP on smooth, separable target. One library. Two backends. Real ONNX export. Docker + Kubernetes ready.",
+            "homepage": null,
             "id": 795826428,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-09T07:55:51Z",
+            "open_issues": 1,
             "owner": "Mattral",
             "repo": "KANX",
-            "stars": 35
+            "stars": 35,
+            "topics": [
+              "deep-learning",
+              "gpu-acceleration",
+              "interpretability",
+              "kan",
+              "kolmogorov-arnold-networks",
+              "machine-learning",
+              "neural-networks",
+              "onnx",
+              "production-ml",
+              "symbolic-regression",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
         },
@@ -1184,12 +1767,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Implementation of Fractional Kolmogorov-Arnold Network (fKAN)",
+            "homepage": null,
             "id": 813781750,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2025-01-17T19:14:04Z",
+            "open_issues": 0,
             "owner": "alirezaafzalaghaei",
             "repo": "fKAN",
-            "stars": 32
+            "stars": 32,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
         },
@@ -1200,12 +1788,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Combine B-Splines (BS) and Radial Basis Functions (RBF) in Kolmogorov-Arnold Networks (KANs)",
+            "homepage": null,
             "id": 811308705,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-11-30T20:38:10Z",
+            "open_issues": 0,
             "owner": "hoangthangta",
             "repo": "BSRBF_KAN",
-            "stars": 31
+            "stars": 31,
+            "topics": [
+              "b-splines",
+              "efficientkan",
+              "fast-kan",
+              "kans",
+              "kolmogorov-arnold-networks",
+              "mnist",
+              "radial-basis-function"
+            ]
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
         },
@@ -1216,12 +1817,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Better implementation of Kolmogorov Arnold Network",
+            "homepage": null,
             "id": 801102544,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2024-06-09T06:53:30Z",
+            "open_issues": 1,
             "owner": "Sid2690",
             "repo": "Deep-KAN",
-            "stars": 26
+            "stars": 26,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
         },
@@ -1232,12 +1838,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Implementation of Rational Kolmogorov-Arnold Network (rKAN)",
+            "homepage": null,
             "id": 817589477,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2024-06-28T17:21:37Z",
+            "open_issues": 1,
             "owner": "alirezaafzalaghaei",
             "repo": "rKAN",
-            "stars": 21
+            "stars": 21,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
         },
@@ -1248,12 +1859,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "LinearKAN: A very fast implementation of Kolmogorov-Arnold Networks",
+            "homepage": "https://catswe.github.io/KANditioned",
             "id": 1027399525,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-11-12T19:07:41Z",
+            "open_issues": 0,
             "owner": "catswe",
             "repo": "LinearKAN",
-            "stars": 20
+            "stars": 20,
+            "topics": [
+              "deep-learning",
+              "kan",
+              "kolmogorov-arnold-networks",
+              "pytorch",
+              "research-project"
+            ]
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
         },
@@ -1264,12 +1886,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Semi-supervised learning with Generative Adversarial Networks (GANs) using Kolmogorov-Arnold Network Layers (KANLs)",
+            "homepage": null,
             "id": 821368613,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-08-03T14:38:23Z",
+            "open_issues": 0,
             "owner": "hoangthangta",
             "repo": "KAN-SGAN",
-            "stars": 18
+            "stars": 18,
+            "topics": [
+              "bsrbf-kan",
+              "fashion-mnist",
+              "generative-adversarial-network",
+              "kolmogorov-arnold-networks",
+              "mnist",
+              "semi-supervised-learning"
+            ]
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
         },
@@ -1280,12 +1914,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fast Kolmogorov-Arnold Network in JAX, initial experiments ",
+            "homepage": null,
             "id": 802680644,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-05-20T02:18:15Z",
+            "open_issues": 0,
             "owner": "stergiosba",
             "repo": "kanx",
-            "stars": 16
+            "stars": 16,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
         },
@@ -1296,12 +1935,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OIKAN is a neuro-symbolic machine learning framework inspired by Kolmogorov-Arnold representation theorem. It combines the power of modern neural networks with techniques for extracting clear, interpretable symbolic formulas from data. OIKAN is designed to make machine learning models both accurate and Interpretable.",
+            "homepage": "https://pypi.org/project/oikan/",
             "id": 931715095,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2025-10-13T19:42:33Z",
+            "open_issues": 4,
             "owner": "silvermete0r",
             "repo": "oikan",
-            "stars": 16
+            "stars": 16,
+            "topics": [
+              "elasticnet",
+              "neuro-symbolic-ml",
+              "symbolic-regression"
+            ]
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
         },
@@ -1312,12 +1960,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 811220606,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2025-05-27T15:01:41Z",
+            "open_issues": 2,
             "owner": "Muyuzhierchengse",
             "repo": "TaylorKAN",
-            "stars": 13
+            "stars": 13,
+            "topics": [
+              "machine-learning"
+            ]
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
         },
@@ -1328,12 +1983,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "RBF based Kolmogorov Arnold Network",
+            "homepage": null,
             "id": 801103642,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2024-06-02T07:03:42Z",
+            "open_issues": 0,
             "owner": "Sid2690",
             "repo": "RBF-KAN",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
         },
@@ -1344,12 +2004,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 832881089,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2025-03-01T19:25:45Z",
+            "open_issues": 1,
             "owner": "OSU-STARLAB",
             "repo": "MatrixKAN",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
         },
@@ -1360,12 +2025,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python library designed to integrate Kolmogorov Arnold Networks with recurrent mechanisms.",
+            "homepage": "https://samermakni.github.io/timekan/",
             "id": 940757072,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-04-16T08:27:35Z",
+            "open_issues": 1,
             "owner": "SamerMakni",
             "repo": "timekan",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "deep-neural-networks",
+              "kolmogorov-arnold-networks",
+              "recurrent-neural-networks",
+              "time-series"
+            ]
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
         },
@@ -1376,12 +2051,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 808924273,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-06-15T05:34:57Z",
+            "open_issues": 0,
             "owner": "dinesh110598",
             "repo": "FlashKAN",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
         },
@@ -1392,12 +2072,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The code of ICIC'25 paper: KAGAT: Kolmogorov-Arnold Graph Attention Network",
+            "homepage": null,
             "id": 975355956,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-07-18T10:34:30Z",
+            "open_issues": 0,
             "owner": "Xkzysheng",
             "repo": "KAGAT-Kolmogorov-Arnold-Graph-Attention-Network",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
         },
@@ -1408,12 +2093,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "KANLib enables the creation and training of Kolmogorov–Arnold networks (KANs). The library is designed to be extensible, providing fast layer implementations that can be integrated into any PyTorch model.",
+            "homepage": "https://arxiv.org/abs/2606.17927",
             "id": 1025374887,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-06-29T04:50:03Z",
+            "open_issues": 0,
             "owner": "julianhoever",
             "repo": "KANLib",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "convolutional-neural-networks",
+              "kolmogorov-arnold-networks",
+              "neural-network",
+              "pytorch"
+            ]
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
         },
@@ -1424,12 +2119,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TruKAN: Kolmogorov-Arnold Networks Using Truncated Power Functions",
+            "homepage": null,
             "id": 1121227866,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-06-24T04:32:35Z",
+            "open_issues": 0,
             "owner": "alibayeh",
             "repo": "trukan",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "compiler",
+              "kan-compiler",
+              "kolmogorov-arnold-network",
+              "kolmogorov-arnold-networks",
+              "kolmogorov-arnold-representation",
+              "physics-informed-neural-networks",
+              "plotting-library",
+              "sympy-expressions",
+              "trukan",
+              "truncated-power",
+              "truncated-power-functions"
+            ]
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
         },
@@ -1442,12 +2154,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PyTorch Kolmogorov-Arnold Networks (spline, Legendre, Chebyshev, convolutional) with quantisation, CUDA, and Integrated-Gradients interpretability.",
+                "homepage": "https://1ssb.github.io/torchkan/",
                 "id": 798283938,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-13T09:46:19Z",
+                "open_issues": 0,
                 "owner": "1ssb",
                 "repo": "torchkan",
-                "stars": 190
+                "stars": 190,
+                "topics": [
+                  "interpretability",
+                  "kan",
+                  "kolmogorov-arnold-networks",
+                  "pytorch",
+                  "quantization"
+                ]
               },
               "first_seen": "2026-08-28T15:15:01.843Z"
             },
@@ -1458,12 +2181,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Kolmogorov–Arnold Networks built on JAX",
+                "homepage": "https://jaxkan.readthedocs.io",
                 "id": 799120828,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-03-25T12:35:22Z",
+                "open_issues": 0,
                 "owner": "srigas",
                 "repo": "jaxKAN",
-                "stars": 112
+                "stars": 112,
+                "topics": [
+                  "flax",
+                  "jax",
+                  "kans",
+                  "kolmogorov-arnold-networks",
+                  "pikan"
+                ]
               },
               "first_seen": "2026-08-28T15:15:01.843Z"
             },
@@ -1474,12 +2208,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "KAN (Kolmogorov–Arnold Networks) in the MLX framework for Apple Silicon",
+                "homepage": null,
                 "id": 833306812,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-06-18T11:40:38Z",
+                "open_issues": 0,
                 "owner": "Goekdeniz-Guelmez",
                 "repo": "mlx-kan",
-                "stars": 32
+                "stars": 32,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:15:01.843Z"
             },
@@ -1490,12 +2229,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CUDA implementation of Wavelet KAN.",
+                "homepage": null,
                 "id": 807473284,
                 "language": "Cuda",
+                "license": null,
                 "last_commit": "2024-06-08T05:33:13Z",
+                "open_issues": 0,
                 "owner": "Da1sypetals",
                 "repo": "cuda-Wavelet-KAN",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:15:01.843Z"
             },
@@ -1506,12 +2250,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 832340587,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-12-04T14:01:24Z",
+                "open_issues": 0,
                 "owner": "remigenet",
                 "repo": "keras_efficient_kan",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:15:01.843Z"
             },
@@ -1522,12 +2271,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 826482885,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2024-08-07T04:29:51Z",
+                "open_issues": 0,
                 "owner": "wtroy2",
                 "repo": "Quantum-KAN",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:15:01.843Z"
             }
@@ -1545,12 +2299,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This project extends the idea of the innovative architecture of Kolmogorov-Arnold Networks (KAN) to the Convolutional Layers, changing the classic linear transformation of the convolution to learnable non linear activations in each pixel.",
+                "homepage": null,
                 "id": 797008340,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2025-04-08T15:20:20Z",
+                "open_issues": 13,
                 "owner": "AntonioTepsich",
                 "repo": "Convolutional-KANs",
-                "stars": 921
+                "stars": 921,
+                "topics": [
+                  "cnn",
+                  "computer-vision",
+                  "deep-learning"
+                ]
               },
               "first_seen": "2026-08-28T15:15:01.843Z"
             },
@@ -1561,12 +2324,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": " This project is dedicated to the implementation and research of Kolmogorov-Arnold convolutional networks. The repository includes implementations of 1D, 2D, and 3D convolutions with different kernels, ResNet-like and DenseNet-like models, training code based on accelerate/PyTorch, as well as scripts for experiments with CIFAR-10 and Tiny ImageNet.",
+                "homepage": null,
                 "id": 799845479,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-20T17:28:46Z",
+                "open_issues": 9,
                 "owner": "IvanDrokin",
                 "repo": "torch-conv-kan",
-                "stars": 530
+                "stars": 530,
+                "topics": [
+                  "computer-vision",
+                  "convolutional-neural-networks",
+                  "kolmogorov-arnold-networks"
+                ]
               },
               "first_seen": "2026-08-28T15:15:01.843Z"
             },
@@ -1577,12 +2349,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Convolutional layer for Kolmogorov-Arnold Network (KAN)",
+                "homepage": null,
                 "id": 798437228,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-03-25T12:22:18Z",
+                "open_issues": 4,
                 "owner": "StarostinV",
                 "repo": "convkan",
-                "stars": 121
+                "stars": 121,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:15:01.843Z"
             },
@@ -1593,12 +2370,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A modified CNN architecture using Kolmogorov-Arnold Networks",
+                "homepage": null,
                 "id": 797526586,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-05-23T06:48:38Z",
+                "open_issues": 3,
                 "owner": "jakariaemon",
                 "repo": "CNN-KAN",
-                "stars": 82
+                "stars": 82,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:15:01.843Z"
             },
@@ -1609,12 +2391,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fast Convolutional KAN",
+                "homepage": null,
                 "id": 801063096,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-05-15T19:50:23Z",
+                "open_issues": 2,
                 "owner": "XiangboGaoBarry",
                 "repo": "KA-Conv",
-                "stars": 68
+                "stars": 68,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:15:01.843Z"
             },
@@ -1625,12 +2412,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Drop-in convolutional Kolmogorov-Arnold Network",
+                "homepage": null,
                 "id": 803050273,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-05-23T05:31:04Z",
+                "open_issues": 0,
                 "owner": "omarrayyann",
                 "repo": "KAN-Conv2D",
-                "stars": 19
+                "stars": 19,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:15:01.843Z"
             },
@@ -1641,12 +2433,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python package for 3D convolutional layers using Kolmogorov-Arnold Network (KAN)",
+                "homepage": null,
                 "id": 805204916,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2024-05-25T12:30:36Z",
+                "open_issues": 1,
                 "owner": "FirasBDarwish",
                 "repo": "ConvKAN3D",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:15:01.843Z"
             }
@@ -1664,12 +2461,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Benchmark for efficiency in memory and time of different KAN implementations.",
+                "homepage": null,
                 "id": 797149093,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-08-26T14:58:17Z",
+                "open_issues": 3,
                 "owner": "Jerry-Master",
                 "repo": "KAN-benchmarking",
-                "stars": 140
+                "stars": 140,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:15:01.843Z"
             },
@@ -1680,12 +2482,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 808315045,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2024-06-12T17:12:51Z",
+                "open_issues": 0,
                 "owner": "seydi1370",
                 "repo": "Basis_Functions",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:15:01.843Z"
             }
@@ -1703,12 +2510,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Julia implementation of the Kolmogorov-Arnold network with custom gradients for fast training. ",
+                "homepage": null,
                 "id": 799668577,
                 "language": "Julia",
+                "license": "MIT",
                 "last_commit": "2026-07-06T00:03:20Z",
+                "open_issues": 4,
                 "owner": "vpuri3",
                 "repo": "KolmogorovArnold.jl",
-                "stars": 88
+                "stars": 88,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:15:01.843Z"
             },
@@ -1719,12 +2531,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Kolmogorov-Arnold Networks in MATLAB",
+                "homepage": null,
                 "id": 796824444,
                 "language": "MATLAB",
+                "license": "MIT",
                 "last_commit": "2026-04-16T22:38:22Z",
+                "open_issues": 0,
                 "owner": "mpoluektov",
                 "repo": "kan-polar",
-                "stars": 62
+                "stars": 62,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:15:01.843Z"
             },
@@ -1735,12 +2552,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An easy to use Flux implementation of the Kolmogorov Arnold Network. This is a Julia version of TorchKAN. ",
+                "homepage": null,
                 "id": 805276810,
                 "language": "Julia",
+                "license": "MIT",
                 "last_commit": "2026-08-28T07:43:19Z",
+                "open_issues": 4,
                 "owner": "cometscome",
                 "repo": "FluxKAN.jl",
-                "stars": 35
+                "stars": 35,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:15:01.843Z"
             },
@@ -1751,12 +2573,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": " Kolmogorov-Arnold Networks in Mojo",
+                "homepage": null,
                 "id": 809253843,
                 "language": "Mojo",
+                "license": "MIT",
                 "last_commit": "2026-08-22T20:21:30Z",
+                "open_issues": 0,
                 "owner": "dorjeduck",
                 "repo": "kamo",
-                "stars": 19
+                "stars": 19,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:15:01.843Z"
             },
@@ -1767,12 +2594,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple C++ implementation and visualization of Kolmogorov-Arnold Networks.",
+                "homepage": null,
                 "id": 825012126,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2024-12-31T15:17:19Z",
+                "open_issues": 0,
                 "owner": "huytrinhm",
                 "repo": "ikant",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:15:01.843Z"
             }
@@ -1790,12 +2622,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "High order and sparse layers in pytorch.  Lagrange Polynomial, Piecewise Lagrange Polynomial, Piecewise Discontinuous Lagrange Polynomial (Chebyshev nodes) and Fourier Series layers of arbitrary order.  Piecewise implementations could be thought of as a 1d grid (for each neuron) where each grid element is Lagrange polynomial.  Both full connected and convolutional layers included.",
+                "homepage": null,
                 "id": 241753889,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-06-24T04:06:08Z",
+                "open_issues": 0,
                 "owner": "jloveric",
                 "repo": "high-order-layers-torch",
-                "stars": 44
+                "stars": 44,
+                "topics": [
+                  "chebyshev-polynomials",
+                  "deeplearning",
+                  "discontinuous",
+                  "fluid-dynamics",
+                  "fourier-series",
+                  "grid",
+                  "high-order-methods",
+                  "hp-refinement",
+                  "implicit-representions",
+                  "kan",
+                  "lagrange-polynomial-interpolation",
+                  "piecewise-polynomial",
+                  "pytorch",
+                  "pytorch-lightning",
+                  "sparse-network",
+                  "spline"
+                ]
               },
               "first_seen": "2026-08-28T15:15:01.843Z"
             }
@@ -1817,12 +2671,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pytorch-based framework for solving parametric constrained optimization problems, physics-informed system identification, and parametric model predictive control. ",
+            "homepage": "https://pnnl.github.io/neuromancer/",
             "id": 304116981,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-05T16:33:50Z",
+            "open_issues": 17,
             "owner": "pnnl",
             "repo": "neuromancer",
-            "stars": 1370
+            "stars": 1370,
+            "topics": [
+              "constrained-optimization",
+              "control-systems",
+              "deep-learning",
+              "differentiable-control",
+              "differentiable-optimization",
+              "differentiable-programming",
+              "dynamical-systems",
+              "nonlinear-dynamics",
+              "nonlinear-optimization",
+              "physics-informed-ml",
+              "pytorch"
+            ]
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
         },
@@ -1833,12 +2704,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The PyTorch implementation of Generative Pre-trained Transformers (GPTs) using Kolmogorov-Arnold Networks (KANs) for language modeling",
+            "homepage": "https://adityang.github.io/kan-gpt/",
             "id": 795106410,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-11-25T00:23:32Z",
+            "open_issues": 6,
             "owner": "AdityaNG",
             "repo": "kan-gpt",
-            "stars": 726
+            "stars": 726,
+            "topics": [
+              "gpt",
+              "kanformers",
+              "kolmogorov-arnold-networks",
+              "kolmogorov-arnold-representation",
+              "llm",
+              "text-generation",
+              "transformers"
+            ]
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
         },
@@ -1849,12 +2733,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Kolmogorov-Arnold Network for Reinforcement Leaning, initial experiments",
+            "homepage": null,
             "id": 794901954,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-04-09T17:02:58Z",
+            "open_issues": 8,
             "owner": "riiswa",
             "repo": "kanrl",
-            "stars": 297
+            "stars": 297,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
         },
@@ -1865,12 +2754,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "KAN for Vision Transformer",
+            "homepage": null,
             "id": 800370417,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-10-07T15:15:41Z",
+            "open_issues": 11,
             "owner": "chenziwenhaoshuai",
             "repo": "Vision-KAN",
-            "stars": 256
+            "stars": 256,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
         },
@@ -1881,12 +2775,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "X-KANeRF [KANeRF-benchmarking]: KAN based NeRF with various basis functions like B-Splines, Fourier, Gaussians, Wavelets, Polynomials, etc",
+            "homepage": null,
             "id": 798353586,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-06-30T02:00:12Z",
+            "open_issues": 0,
             "owner": "lif314",
             "repo": "X-KANeRF",
-            "stars": 179
+            "stars": 179,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
         },
@@ -1897,12 +2796,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "KAN-based NeRF",
+            "homepage": null,
             "id": 795574659,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-11-29T06:57:04Z",
+            "open_issues": 4,
             "owner": "Tavish9",
             "repo": "KANeRF",
-            "stars": 152
+            "stars": 152,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
         },
@@ -1913,12 +2817,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Training small GPT-2 style models using Kolmogorov-Arnold networks.",
+            "homepage": null,
             "id": 796914585,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-05-25T22:12:59Z",
+            "open_issues": 3,
             "owner": "CG80499",
             "repo": "KAN-GPT-2",
-            "stars": 125
+            "stars": 125,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
         },
@@ -1929,12 +2838,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple feature-based time series classifier using Kolmogorov–Arnold Networks",
+            "homepage": null,
             "id": 796024914,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2024-08-17T17:51:34Z",
+            "open_issues": 3,
             "owner": "MSD-IRIMAS",
             "repo": "Simple-KAN-4-Time-Series",
-            "stars": 121
+            "stars": 121,
+            "topics": [
+              "kannetworks",
+              "kans",
+              "timeseries",
+              "timeseriesclassification",
+              "tsml"
+            ]
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
         },
@@ -1945,12 +2865,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Kolmogorov Arnold Networks (KANs) for Graph Neural Networks (GNNs) and Tasks on Graphs",
+            "homepage": null,
             "id": 798828574,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-10-14T12:12:21Z",
+            "open_issues": 0,
             "owner": "yueliu1999",
             "repo": "KAN4Graph",
-            "stars": 69
+            "stars": 69,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
         },
@@ -1961,12 +2886,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "U-Net architecture with Kolmogorov-Arnold Convolutions (KA convolutions)",
+            "homepage": null,
             "id": 802115557,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2025-08-26T10:13:11Z",
+            "open_issues": 1,
             "owner": "JaouadT",
             "repo": "KANU_Net",
-            "stars": 45
+            "stars": 45,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
         },
@@ -1977,12 +2907,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 798873280,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2024-05-10T16:46:37Z",
+            "open_issues": 0,
             "owner": "kabachuha",
             "repo": "kan-diffusion",
-            "stars": 44
+            "stars": 44,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
         },
@@ -1993,12 +2928,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "KAE : KAN-based AutoEncoder (AE, VAE, VQ-VAE, RVQ, etc.)",
+            "homepage": null,
             "id": 797582345,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2024-05-23T08:31:25Z",
+            "open_issues": 0,
             "owner": "SekiroRong",
             "repo": "KAN-AutoEncoder",
-            "stars": 40
+            "stars": 40,
+            "topics": [
+              "ae",
+              "audio",
+              "audio-processing",
+              "autoencoder",
+              "deep-learning",
+              "kan",
+              "pytorch",
+              "pytorch-vae",
+              "rvq",
+              "torchaudio",
+              "vae",
+              "vq-vae"
+            ]
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
         },
@@ -2009,12 +2962,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repository demonstrates the application of efficient Kolmogorov-Arnold Networks (KAN) in a curve fitting (regression) task.",
+            "homepage": null,
             "id": 799468641,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-07-12T06:19:25Z",
+            "open_issues": 1,
             "owner": "JianpanHuang",
             "repo": "KAN",
-            "stars": 35
+            "stars": 35,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
         },
@@ -2025,12 +2983,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "KAN (Kolmogorov-Arnold Network)-based Recommendation (CF)",
+            "homepage": null,
             "id": 803307114,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-05-28T04:27:31Z",
+            "open_issues": 0,
             "owner": "jindeok",
             "repo": "CF-KAN",
-            "stars": 32
+            "stars": 32,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
         },
@@ -2041,12 +3004,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Implementation of Kolmogorov-Arnold Network (KAN) for Recommendations ",
+            "homepage": null,
             "id": 798740564,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-05-15T02:52:46Z",
+            "open_issues": 0,
             "owner": "TianyuanYang",
             "repo": "KAN4Rec",
-            "stars": 29
+            "stars": 29,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
         },
@@ -2057,12 +3025,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Short experiment with Deep Q-Learning + KAN to play Flappy Bird.",
+            "homepage": null,
             "id": 825275037,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-08-06T03:12:28Z",
+            "open_issues": 0,
             "owner": "andythetechnerd03",
             "repo": "KAN-It-Play-Flappy-Bird",
-            "stars": 21
+            "stars": 21,
+            "topics": [
+              "deep-q-network",
+              "flappy-bird",
+              "kan",
+              "kolmogorov-arnold-networks",
+              "reinforcement-learning"
+            ]
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
         },
@@ -2073,12 +3052,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Kolmogorov-Arnold networks (KAN) as implicit functions (like NeRF but simpler)",
+            "homepage": null,
             "id": 798812863,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2024-05-16T17:47:12Z",
+            "open_issues": 0,
             "owner": "belkakari",
             "repo": "implicit-kan",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
         },
@@ -2089,12 +3073,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An attempt to use KAN",
+            "homepage": null,
             "id": 801238902,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2024-05-23T15:31:38Z",
+            "open_issues": 1,
             "owner": "ChrisD-7",
             "repo": "Fraud-Detection-in-Supply-Chains-with-Kolmogorov-Arnold-Networks",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
         },
@@ -2105,12 +3094,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "KANs for text classification on GLUE tasks",
+            "homepage": null,
             "id": 797032226,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-07-27T16:20:26Z",
+            "open_issues": 0,
             "owner": "hoangthangta",
             "repo": "ThangKAN",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "binary-classification",
+              "efficient-kan",
+              "faster-kan",
+              "fastkan",
+              "glue",
+              "kans",
+              "kolmogorov-arnold-networks",
+              "pykan",
+              "text-classification"
+            ]
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
         },
@@ -2121,12 +3125,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Use of hybrid Kolmogorov-Arnold Networks for parametric reconstruction of 3D objects",
+            "homepage": null,
             "id": 1014716404,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-07-11T07:37:11Z",
+            "open_issues": 0,
             "owner": "antoniogrs",
             "repo": "kan_parametric_reconstruction",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "deep-learning",
+              "kolmogorov-arnold-networks",
+              "neural-network",
+              "parametric-reconstruction",
+              "regression"
+            ]
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
         }
@@ -2143,12 +3158,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Kolmogorov Arnold Networks",
+            "homepage": null,
             "id": 792896859,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2025-01-19T18:49:39Z",
+            "open_issues": 266,
             "owner": "KindXiaoming",
             "repo": "pykan",
-            "stars": 16334
+            "stars": 16334,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
         },
@@ -2159,12 +3179,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pytorch-based framework for solving parametric constrained optimization problems, physics-informed system identification, and parametric model predictive control. ",
+            "homepage": "https://pnnl.github.io/neuromancer/",
             "id": 304116981,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-05T16:33:50Z",
+            "open_issues": 17,
             "owner": "pnnl",
             "repo": "neuromancer",
-            "stars": 1370
+            "stars": 1370,
+            "topics": [
+              "constrained-optimization",
+              "control-systems",
+              "deep-learning",
+              "differentiable-control",
+              "differentiable-optimization",
+              "differentiable-programming",
+              "dynamical-systems",
+              "nonlinear-dynamics",
+              "nonlinear-optimization",
+              "physics-informed-ml",
+              "pytorch"
+            ]
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
         },
@@ -2175,12 +3212,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Implementation on how to use Kolmogorov-Arnold Networks (KANs) for classification and regression tasks.",
+            "homepage": "https://daniel-bethell.co.uk/posts/kan",
             "id": 798319229,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2024-09-05T14:52:28Z",
+            "open_issues": 0,
             "owner": "team-daniel",
             "repo": "KAN",
-            "stars": 261
+            "stars": 261,
+            "topics": [
+              "kolmogorov-arnold-networks"
+            ]
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
         },
@@ -2191,12 +3235,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Understanding Kolmogorov-Arnold Networks: A Tutorial Series on KAN using Toy Examples",
+            "homepage": null,
             "id": 807286647,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2025-05-26T19:24:52Z",
+            "open_issues": 3,
             "owner": "pg2455",
             "repo": "KAN-Tutorial",
-            "stars": 207
+            "stars": 207,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
         },
@@ -2207,12 +3256,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Understanding Kolmogorov-Arnold Networks: A Tutorial Series on KAN using Toy Examples",
+            "homepage": null,
             "id": 807286647,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2025-05-26T19:24:52Z",
+            "open_issues": 3,
             "owner": "pg2455",
             "repo": "KAN-Tutorial",
-            "stars": 207
+            "stars": 207,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
         },
@@ -2223,12 +3277,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Interpret text data with LLMs (sklearn compatible).",
+            "homepage": "https://csinva.io/imodelsX/",
             "id": 545752139,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-04-22T13:57:25Z",
+            "open_issues": 5,
             "owner": "csinva",
             "repo": "imodelsX",
-            "stars": 176
+            "stars": 176,
+            "topics": [
+              "ai",
+              "deep-learning",
+              "explainability",
+              "huggingface",
+              "interpretability",
+              "language-model",
+              "machine-learning",
+              "ml",
+              "natural-language-processing",
+              "natural-language-understanding",
+              "neural-network",
+              "pytorch",
+              "scikit-learn",
+              "text",
+              "text-classification",
+              "transformer-models",
+              "xai"
+            ]
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
         },
@@ -2239,12 +3316,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Collection of tests performed during the study of the new Kolmogorov-Arnold Neural Networks (KAN)",
+            "homepage": null,
             "id": 810812040,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2025-02-25T17:17:34Z",
+            "open_issues": 0,
             "owner": "MrPio",
             "repo": "KAN-Continual_Learning_tests",
-            "stars": 42
+            "stars": 42,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
         },
@@ -2255,12 +3337,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code repository of ml-without-tears blog: https://mlwithouttears.com/",
+            "homepage": null,
             "id": 799911506,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2024-05-15T18:49:38Z",
+            "open_issues": 0,
             "owner": "lollodealma",
             "repo": "ml_without_tears",
-            "stars": 36
+            "stars": 36,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
         },
@@ -2271,12 +3358,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tensorflow Keras implementation of FastKAN Kolmogorov Arnold Network",
+            "homepage": null,
             "id": 799131499,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2024-05-11T09:08:25Z",
+            "open_issues": 0,
             "owner": "vincenzodentamaro",
             "repo": "keras-FastKAN",
-            "stars": 16
+            "stars": 16,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
         },
@@ -2287,12 +3379,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A series of artificial intelligence reviews",
+            "homepage": null,
             "id": 893140535,
             "language": null,
+            "license": null,
             "last_commit": "2025-12-18T18:48:41Z",
+            "open_issues": 0,
             "owner": "SalvatoreRa",
             "repo": "artificial-intelligence-articles",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "artificial-intelligence",
+              "computer-vision",
+              "deep-learning",
+              "grokking",
+              "hallucinations",
+              "large-language-model",
+              "llm",
+              "neural-network"
+            ]
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
         },
@@ -2305,12 +3411,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "KlayGE is a cross-platform open source game engine with plugin-based architecture.",
+                "homepage": "http://www.klayge.org",
                 "id": 32620049,
                 "language": "C++",
+                "license": "GPL-2.0",
                 "last_commit": "2026-07-17T23:08:59Z",
+                "open_issues": 41,
                 "owner": "gongminmin",
                 "repo": "KlayGE",
-                "stars": 2174
+                "stars": 2174,
+                "topics": [
+                  "cross-platform",
+                  "d3d11",
+                  "d3d12",
+                  "engine",
+                  "engine3d",
+                  "game-engine",
+                  "graphics",
+                  "openal",
+                  "opengl",
+                  "opengles",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T15:15:01.843Z"
             }
@@ -2324,15 +3447,20 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T15:15:01.843Z",
+    "last_updated": "2026-08-29T04:19:20.695Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A comprehensive collection of KAN(Kolmogorov-Arnold Network)-related resources, including libraries, projects, tutorials, papers, and more, for researchers and developers in the Kolmogorov-Arnold Network field.",
+      "homepage": null,
       "id": 797540256,
       "language": null,
+      "license": null,
       "last_commit": "2026-08-17T02:16:28Z",
+      "open_issues": 6,
       "owner": "mintisan",
       "repo": "awesome-kan",
-      "stars": 3292
+      "stars": 3291,
+      "topics": []
     },
     "original_repository_sha": "795e8f7d696a50b75bf55c6fc41b1f50e68a97f3",
     "enhanced_repository": "enhansome/enhansome-kan",
