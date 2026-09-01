@@ -19,7 +19,7 @@
             "open_issues": 17,
             "owner": "pnnl",
             "repo": "neuromancer",
-            "stars": 1370,
+            "stars": 1371,
             "topics": [
               "constrained-optimization",
               "control-systems",
@@ -77,7 +77,7 @@
             "open_issues": 16,
             "owner": "Adamdad",
             "repo": "kat",
-            "stars": 846,
+            "stars": 847,
             "topics": [
               "computer-vision",
               "kan",
@@ -672,7 +672,7 @@
             "open_issues": 1,
             "owner": "alirezaafzalaghaei",
             "repo": "rKAN",
-            "stars": 21,
+            "stars": 22,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -1847,7 +1847,7 @@
             "open_issues": 1,
             "owner": "alirezaafzalaghaei",
             "repo": "rKAN",
-            "stars": 21,
+            "stars": 22,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -2680,7 +2680,7 @@
             "open_issues": 17,
             "owner": "pnnl",
             "repo": "neuromancer",
-            "stars": 1370,
+            "stars": 1371,
             "topics": [
               "constrained-optimization",
               "control-systems",
@@ -3079,7 +3079,7 @@
             "language": "Jupyter Notebook",
             "license": null,
             "last_commit": "2024-05-23T15:31:38Z",
-            "open_issues": 1,
+            "open_issues": 0,
             "owner": "ChrisD-7",
             "repo": "Fraud-Detection-in-Supply-Chains-with-Kolmogorov-Arnold-Networks",
             "stars": 13,
@@ -3188,7 +3188,7 @@
             "open_issues": 17,
             "owner": "pnnl",
             "repo": "neuromancer",
-            "stars": 1370,
+            "stars": 1371,
             "topics": [
               "constrained-optimization",
               "control-systems",
@@ -3447,7 +3447,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T09:37:26.616Z",
+    "last_updated": "2026-09-01T08:32:59.953Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive collection of KAN(Kolmogorov-Arnold Network)-related resources, including libraries, projects, tutorials, papers, and more, for researchers and developers in the Kolmogorov-Arnold Network field.",
@@ -3459,7 +3459,7 @@
       "open_issues": 6,
       "owner": "mintisan",
       "repo": "awesome-kan",
-      "stars": 3291,
+      "stars": 3292,
       "topics": []
     },
     "original_repository_sha": "795e8f7d696a50b75bf55c6fc41b1f50e68a97f3",
