@@ -103,7 +103,7 @@
             "open_issues": 40,
             "owner": "CUHK-AIM-Group",
             "repo": "U-KAN",
-            "stars": 553,
+            "stars": 554,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -924,27 +924,6 @@
         },
         {
           "node_type": "item",
-          "title": "Demonstrating the Efficacy of Kolmogorov-Arnold Networks in Vision Tasks",
-          "description": "code ｜",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Demonstrating the Efficacy of Kolmogorov-Arnold Networks in Vision Tasks",
-            "homepage": null,
-            "id": 818122247,
-            "language": "Jupyter Notebook",
-            "license": "BSD-3-Clause",
-            "last_commit": "2024-06-29T12:24:57Z",
-            "open_issues": 0,
-            "owner": "jmj2316",
-            "repo": "KAN-in-VIsion",
-            "stars": 11,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T15:15:01.843Z"
-        },
-        {
-          "node_type": "item",
           "title": "MatrixKAN: Parallelized Kolmogorov-Arnold Network",
           "description": "MatrixKAN is a novel KAN optimization that parallelizes B-spline calculations with matrix representation and operations, thus significantly improving effective computation time for models utilizing high-degree B-splines. This paper demonstrates the superior scaling of MatrixKAN's computation time relative to B-spline degree and speedups of approximately 40x relative to KAN, with significant additional speedup potential for larger datasets or higher spline degrees. | code |",
           "children": [],
@@ -959,6 +938,27 @@
             "open_issues": 1,
             "owner": "OSU-STARLAB",
             "repo": "MatrixKAN",
+            "stars": 12,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T15:15:01.843Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Demonstrating the Efficacy of Kolmogorov-Arnold Networks in Vision Tasks",
+          "description": "code ｜",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Demonstrating the Efficacy of Kolmogorov-Arnold Networks in Vision Tasks",
+            "homepage": null,
+            "id": 818122247,
+            "language": "Jupyter Notebook",
+            "license": "BSD-3-Clause",
+            "last_commit": "2024-06-29T12:24:57Z",
+            "open_issues": 0,
+            "owner": "jmj2316",
+            "repo": "KAN-in-VIsion",
             "stars": 11,
             "topics": []
           },
@@ -1255,7 +1255,7 @@
             "open_issues": 266,
             "owner": "KindXiaoming",
             "repo": "pykan",
-            "stars": 16333,
+            "stars": 16334,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -1276,7 +1276,7 @@
             "open_issues": 38,
             "owner": "Blealtan",
             "repo": "efficient-kan",
-            "stars": 4655,
+            "stars": 4656,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -1297,7 +1297,7 @@
             "open_issues": 3,
             "owner": "GistNoesis",
             "repo": "FourierKAN",
-            "stars": 753,
+            "stars": 754,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -1638,7 +1638,7 @@
             "open_issues": 0,
             "owner": "alexshtf",
             "repo": "torchcurves",
-            "stars": 64,
+            "stars": 65,
             "topics": [
               "b-splines",
               "curve-fitting",
@@ -2013,7 +2013,7 @@
             "open_issues": 1,
             "owner": "OSU-STARLAB",
             "repo": "MatrixKAN",
-            "stars": 11,
+            "stars": 12,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -3079,7 +3079,7 @@
             "language": "Jupyter Notebook",
             "license": null,
             "last_commit": "2024-05-23T15:31:38Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "ChrisD-7",
             "repo": "Fraud-Detection-in-Supply-Chains-with-Kolmogorov-Arnold-Networks",
             "stars": 13,
@@ -3167,7 +3167,7 @@
             "open_issues": 266,
             "owner": "KindXiaoming",
             "repo": "pykan",
-            "stars": 16333,
+            "stars": 16334,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -3420,7 +3420,7 @@
                 "open_issues": 41,
                 "owner": "gongminmin",
                 "repo": "KlayGE",
-                "stars": 2174,
+                "stars": 2175,
                 "topics": [
                   "cross-platform",
                   "d3d11",
@@ -3447,7 +3447,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T07:50:12.962Z",
+    "last_updated": "2026-09-03T07:58:30.379Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive collection of KAN(Kolmogorov-Arnold Network)-related resources, including libraries, projects, tutorials, papers, and more, for researchers and developers in the Kolmogorov-Arnold Network field.",
