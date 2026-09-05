@@ -207,7 +207,7 @@
             "open_issues": 0,
             "owner": "yizheng-wang",
             "repo": "Research-on-Solving-Partial-Differential-Equations-of-Solid-Mechanics-Based-on-PINN",
-            "stars": 221,
+            "stars": 222,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -1255,7 +1255,7 @@
             "open_issues": 266,
             "owner": "KindXiaoming",
             "repo": "pykan",
-            "stars": 16333,
+            "stars": 16336,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -2421,7 +2421,7 @@
                 "open_issues": 0,
                 "owner": "omarrayyann",
                 "repo": "KAN-Conv2D",
-                "stars": 19,
+                "stars": 20,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:15:01.843Z"
@@ -2916,7 +2916,7 @@
             "open_issues": 0,
             "owner": "kabachuha",
             "repo": "kan-diffusion",
-            "stars": 44,
+            "stars": 45,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -3167,7 +3167,7 @@
             "open_issues": 266,
             "owner": "KindXiaoming",
             "repo": "pykan",
-            "stars": 16333,
+            "stars": 16336,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -3447,7 +3447,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T07:54:06.712Z",
+    "last_updated": "2026-09-05T07:35:36.614Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive collection of KAN(Kolmogorov-Arnold Network)-related resources, including libraries, projects, tutorials, papers, and more, for researchers and developers in the Kolmogorov-Arnold Network field.",
