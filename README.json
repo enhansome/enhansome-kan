@@ -16,7 +16,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-09-03T17:43:46Z",
-            "open_issues": 14,
+            "open_issues": 15,
             "owner": "pnnl",
             "repo": "neuromancer",
             "stars": 1371,
@@ -77,7 +77,7 @@
             "open_issues": 16,
             "owner": "Adamdad",
             "repo": "kat",
-            "stars": 847,
+            "stars": 848,
             "topics": [
               "computer-vision",
               "kan",
@@ -1255,7 +1255,7 @@
             "open_issues": 266,
             "owner": "KindXiaoming",
             "repo": "pykan",
-            "stars": 16336,
+            "stars": 16337,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -1276,7 +1276,7 @@
             "open_issues": 38,
             "owner": "Blealtan",
             "repo": "efficient-kan",
-            "stars": 4656,
+            "stars": 4657,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -1743,7 +1743,7 @@
             "open_issues": 1,
             "owner": "Mattral",
             "repo": "KANX",
-            "stars": 35,
+            "stars": 36,
             "topics": [
               "deep-learning",
               "gpu-acceleration",
@@ -2677,7 +2677,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-09-03T17:43:46Z",
-            "open_issues": 14,
+            "open_issues": 15,
             "owner": "pnnl",
             "repo": "neuromancer",
             "stars": 1371,
@@ -2881,27 +2881,6 @@
         },
         {
           "node_type": "item",
-          "title": "KANU_Net",
-          "description": "U-Net architecture with Kolmogorov-Arnold Convolutions (KA convolutions) ｜",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "U-Net architecture with Kolmogorov-Arnold Convolutions (KA convolutions)",
-            "homepage": null,
-            "id": 802115557,
-            "language": "Jupyter Notebook",
-            "license": null,
-            "last_commit": "2025-08-26T10:13:11Z",
-            "open_issues": 1,
-            "owner": "JaouadT",
-            "repo": "KANU_Net",
-            "stars": 45,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T15:15:01.843Z"
-        },
-        {
-          "node_type": "item",
           "title": "kan-diffusion",
           "description": "Applying KANs to Denoising Diffusion Models with two-layer KAN able to restore images almost as good as 4-layer MLP (and 30% less parameters). ｜",
           "children": [],
@@ -2916,6 +2895,27 @@
             "open_issues": 0,
             "owner": "kabachuha",
             "repo": "kan-diffusion",
+            "stars": 46,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T15:15:01.843Z"
+        },
+        {
+          "node_type": "item",
+          "title": "KANU_Net",
+          "description": "U-Net architecture with Kolmogorov-Arnold Convolutions (KA convolutions) ｜",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "U-Net architecture with Kolmogorov-Arnold Convolutions (KA convolutions)",
+            "homepage": null,
+            "id": 802115557,
+            "language": "Jupyter Notebook",
+            "license": null,
+            "last_commit": "2025-08-26T10:13:11Z",
+            "open_issues": 1,
+            "owner": "JaouadT",
+            "repo": "KANU_Net",
             "stars": 45,
             "topics": []
           },
@@ -3167,7 +3167,7 @@
             "open_issues": 266,
             "owner": "KindXiaoming",
             "repo": "pykan",
-            "stars": 16336,
+            "stars": 16337,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -3185,7 +3185,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-09-03T17:43:46Z",
-            "open_issues": 14,
+            "open_issues": 15,
             "owner": "pnnl",
             "repo": "neuromancer",
             "stars": 1371,
@@ -3447,7 +3447,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T07:49:57.835Z",
+    "last_updated": "2026-09-07T08:11:07.877Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive collection of KAN(Kolmogorov-Arnold Network)-related resources, including libraries, projects, tutorials, papers, and more, for researchers and developers in the Kolmogorov-Arnold Network field.",
@@ -3459,7 +3459,7 @@
       "open_issues": 6,
       "owner": "mintisan",
       "repo": "awesome-kan",
-      "stars": 3293,
+      "stars": 3294,
       "topics": []
     },
     "original_repository_sha": "795e8f7d696a50b75bf55c6fc41b1f50e68a97f3",
