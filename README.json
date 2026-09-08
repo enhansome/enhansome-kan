@@ -1255,7 +1255,7 @@
             "open_issues": 266,
             "owner": "KindXiaoming",
             "repo": "pykan",
-            "stars": 16337,
+            "stars": 16336,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -1743,7 +1743,7 @@
             "open_issues": 1,
             "owner": "Mattral",
             "repo": "KANX",
-            "stars": 36,
+            "stars": 37,
             "topics": [
               "deep-learning",
               "gpu-acceleration",
@@ -3167,7 +3167,7 @@
             "open_issues": 266,
             "owner": "KindXiaoming",
             "repo": "pykan",
-            "stars": 16337,
+            "stars": 16336,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -3447,7 +3447,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T08:11:07.877Z",
+    "last_updated": "2026-09-08T07:59:36.468Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive collection of KAN(Kolmogorov-Arnold Network)-related resources, including libraries, projects, tutorials, papers, and more, for researchers and developers in the Kolmogorov-Arnold Network field.",
@@ -3459,7 +3459,7 @@
       "open_issues": 6,
       "owner": "mintisan",
       "repo": "awesome-kan",
-      "stars": 3294,
+      "stars": 3292,
       "topics": []
     },
     "original_repository_sha": "795e8f7d696a50b75bf55c6fc41b1f50e68a97f3",
