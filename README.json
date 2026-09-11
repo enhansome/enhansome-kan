@@ -15,8 +15,8 @@
             "id": 304116981,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-03T17:43:46Z",
-            "open_issues": 15,
+            "last_commit": "2026-09-10T16:58:59Z",
+            "open_issues": 14,
             "owner": "pnnl",
             "repo": "neuromancer",
             "stars": 1371,
@@ -467,7 +467,7 @@
             "open_issues": 0,
             "owner": "hoangthangta",
             "repo": "FC_KAN",
-            "stars": 39,
+            "stars": 40,
             "topics": [
               "b-splines",
               "basis-functions",
@@ -1297,7 +1297,7 @@
             "open_issues": 3,
             "owner": "GistNoesis",
             "repo": "FourierKAN",
-            "stars": 754,
+            "stars": 755,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -2676,8 +2676,8 @@
             "id": 304116981,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-03T17:43:46Z",
-            "open_issues": 15,
+            "last_commit": "2026-09-10T16:58:59Z",
+            "open_issues": 14,
             "owner": "pnnl",
             "repo": "neuromancer",
             "stars": 1371,
@@ -3184,8 +3184,8 @@
             "id": 304116981,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-03T17:43:46Z",
-            "open_issues": 15,
+            "last_commit": "2026-09-10T16:58:59Z",
+            "open_issues": 14,
             "owner": "pnnl",
             "repo": "neuromancer",
             "stars": 1371,
@@ -3244,7 +3244,7 @@
             "open_issues": 3,
             "owner": "pg2455",
             "repo": "KAN-Tutorial",
-            "stars": 208,
+            "stars": 210,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -3265,7 +3265,7 @@
             "open_issues": 3,
             "owner": "pg2455",
             "repo": "KAN-Tutorial",
-            "stars": 208,
+            "stars": 210,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -3420,7 +3420,7 @@
                 "open_issues": 41,
                 "owner": "gongminmin",
                 "repo": "KlayGE",
-                "stars": 2175,
+                "stars": 2174,
                 "topics": [
                   "cross-platform",
                   "d3d11",
@@ -3447,7 +3447,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T08:02:36.171Z",
+    "last_updated": "2026-09-11T07:58:21.836Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive collection of KAN(Kolmogorov-Arnold Network)-related resources, including libraries, projects, tutorials, papers, and more, for researchers and developers in the Kolmogorov-Arnold Network field.",
@@ -3456,7 +3456,7 @@
       "language": null,
       "license": null,
       "last_commit": "2026-08-17T02:16:28Z",
-      "open_issues": 6,
+      "open_issues": 7,
       "owner": "mintisan",
       "repo": "awesome-kan",
       "stars": 3292,
