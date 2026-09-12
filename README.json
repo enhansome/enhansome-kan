@@ -16,7 +16,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-09-10T16:58:59Z",
-            "open_issues": 14,
+            "open_issues": 15,
             "owner": "pnnl",
             "repo": "neuromancer",
             "stars": 1371,
@@ -917,7 +917,7 @@
             "open_issues": 0,
             "owner": "rodakt",
             "repo": "hkan",
-            "stars": 12,
+            "stars": 13,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -1255,7 +1255,7 @@
             "open_issues": 266,
             "owner": "KindXiaoming",
             "repo": "pykan",
-            "stars": 16334,
+            "stars": 16332,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -1276,7 +1276,7 @@
             "open_issues": 38,
             "owner": "Blealtan",
             "repo": "efficient-kan",
-            "stars": 4658,
+            "stars": 4660,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -2677,7 +2677,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-09-10T16:58:59Z",
-            "open_issues": 14,
+            "open_issues": 15,
             "owner": "pnnl",
             "repo": "neuromancer",
             "stars": 1371,
@@ -3134,7 +3134,7 @@
             "open_issues": 0,
             "owner": "antoniogrs",
             "repo": "kan_parametric_reconstruction",
-            "stars": 1,
+            "stars": 2,
             "topics": [
               "deep-learning",
               "kolmogorov-arnold-networks",
@@ -3144,6 +3144,42 @@
             ]
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Semantic Motion Generation",
+          "description": "The PyTorch Implementation of Text-to-3D-Motion Synthesis Leveraging CLIP Semantics and KAN-enhanced Transformers. ｜",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Pytorch implementation of Semantic Motion Generation - 3D-motion synthesis from text via CLIP & Kolmogorov-Arnold-Network (KAN)",
+            "homepage": "https://huggingface.co/vonexel/smog",
+            "id": 953564066,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-01-22T07:08:40Z",
+            "open_issues": 0,
+            "owner": "vonexel",
+            "repo": "smog",
+            "stars": 2,
+            "topics": [
+              "autoencoder",
+              "autoencoder-neural-network",
+              "clip",
+              "deep-learning",
+              "encoder-decoder-model",
+              "kanformers",
+              "kolmogorov-arnold-networks",
+              "motion-synthesis",
+              "natural-language-processing",
+              "python",
+              "pytorch",
+              "torch",
+              "torchvision",
+              "transformers"
+            ]
+          },
+          "first_seen": "2026-09-12T07:50:47.816Z"
         }
       ],
       "title": "Project"
@@ -3167,7 +3203,7 @@
             "open_issues": 266,
             "owner": "KindXiaoming",
             "repo": "pykan",
-            "stars": 16334,
+            "stars": 16332,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -3185,7 +3221,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-09-10T16:58:59Z",
-            "open_issues": 14,
+            "open_issues": 15,
             "owner": "pnnl",
             "repo": "neuromancer",
             "stars": 1371,
@@ -3447,7 +3483,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T07:58:21.836Z",
+    "last_updated": "2026-09-12T07:50:47.816Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive collection of KAN(Kolmogorov-Arnold Network)-related resources, including libraries, projects, tutorials, papers, and more, for researchers and developers in the Kolmogorov-Arnold Network field.",
@@ -3455,14 +3491,14 @@
       "id": 797540256,
       "language": null,
       "license": null,
-      "last_commit": "2026-08-17T02:16:28Z",
-      "open_issues": 7,
+      "last_commit": "2026-09-11T13:11:44Z",
+      "open_issues": 6,
       "owner": "mintisan",
       "repo": "awesome-kan",
       "stars": 3292,
       "topics": []
     },
-    "original_repository_sha": "795e8f7d696a50b75bf55c6fc41b1f50e68a97f3",
+    "original_repository_sha": "f8812b533657cb0bcd635a4d7a0285e9d79685e5",
     "enhanced_repository": "enhansome/enhansome-kan",
     "enhanced_repository_description": null,
     "title": "Awesome KAN(Kolmogorov-Arnold Network) with stars"
