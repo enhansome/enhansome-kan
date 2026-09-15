@@ -15,8 +15,8 @@
             "id": 304116981,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-10T16:58:59Z",
-            "open_issues": 15,
+            "last_commit": "2026-09-14T21:44:31Z",
+            "open_issues": 14,
             "owner": "pnnl",
             "repo": "neuromancer",
             "stars": 1371,
@@ -124,7 +124,7 @@
             "open_issues": 9,
             "owner": "IvanDrokin",
             "repo": "torch-conv-kan",
-            "stars": 530,
+            "stars": 529,
             "topics": [
               "computer-vision",
               "convolutional-neural-networks",
@@ -1144,7 +1144,7 @@
             "id": 1025374887,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-14T08:07:21Z",
+            "last_commit": "2026-09-14T09:13:52Z",
             "open_issues": 0,
             "owner": "julianhoever",
             "repo": "KANLib",
@@ -1255,7 +1255,7 @@
             "open_issues": 266,
             "owner": "KindXiaoming",
             "repo": "pykan",
-            "stars": 16337,
+            "stars": 16338,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -1360,7 +1360,7 @@
             "open_issues": 5,
             "owner": "WillHua127",
             "repo": "GraphKAN-Graph-Kolmogorov-Arnold-Networks",
-            "stars": 350,
+            "stars": 349,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -1381,7 +1381,7 @@
             "open_issues": 5,
             "owner": "WillHua127",
             "repo": "GraphKAN-Graph-Kolmogorov-Arnold-Networks",
-            "stars": 350,
+            "stars": 349,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -2098,7 +2098,7 @@
             "id": 1025374887,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-14T08:07:21Z",
+            "last_commit": "2026-09-14T09:13:52Z",
             "open_issues": 0,
             "owner": "julianhoever",
             "repo": "KANLib",
@@ -2333,7 +2333,7 @@
                 "open_issues": 9,
                 "owner": "IvanDrokin",
                 "repo": "torch-conv-kan",
-                "stars": 530,
+                "stars": 529,
                 "topics": [
                   "computer-vision",
                   "convolutional-neural-networks",
@@ -2676,8 +2676,8 @@
             "id": 304116981,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-10T16:58:59Z",
-            "open_issues": 15,
+            "last_commit": "2026-09-14T21:44:31Z",
+            "open_issues": 14,
             "owner": "pnnl",
             "repo": "neuromancer",
             "stars": 1371,
@@ -3203,7 +3203,7 @@
             "open_issues": 266,
             "owner": "KindXiaoming",
             "repo": "pykan",
-            "stars": 16337,
+            "stars": 16338,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -3220,8 +3220,8 @@
             "id": 304116981,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-10T16:58:59Z",
-            "open_issues": 15,
+            "last_commit": "2026-09-14T21:44:31Z",
+            "open_issues": 14,
             "owner": "pnnl",
             "repo": "neuromancer",
             "stars": 1371,
@@ -3483,7 +3483,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T08:48:03.182Z",
+    "last_updated": "2026-09-15T08:35:20.493Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive collection of KAN(Kolmogorov-Arnold Network)-related resources, including libraries, projects, tutorials, papers, and more, for researchers and developers in the Kolmogorov-Arnold Network field.",
