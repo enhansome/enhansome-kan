@@ -492,7 +492,7 @@
             "id": 900232849,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-08T15:26:06Z",
+            "last_commit": "2026-09-16T06:25:44Z",
             "open_issues": 0,
             "owner": "hoangthangta",
             "repo": "All-KAN",
@@ -520,7 +520,7 @@
             "id": 900232849,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-08T15:26:06Z",
+            "last_commit": "2026-09-16T06:25:44Z",
             "open_issues": 0,
             "owner": "hoangthangta",
             "repo": "All-KAN",
@@ -1255,7 +1255,7 @@
             "open_issues": 266,
             "owner": "KindXiaoming",
             "repo": "pykan",
-            "stars": 16338,
+            "stars": 16337,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -3203,7 +3203,7 @@
             "open_issues": 266,
             "owner": "KindXiaoming",
             "repo": "pykan",
-            "stars": 16338,
+            "stars": 16337,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -3483,7 +3483,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T08:35:20.493Z",
+    "last_updated": "2026-09-16T08:29:12.469Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive collection of KAN(Kolmogorov-Arnold Network)-related resources, including libraries, projects, tutorials, papers, and more, for researchers and developers in the Kolmogorov-Arnold Network field.",
