@@ -749,6 +749,34 @@
         },
         {
           "node_type": "item",
+          "title": "Kolmogorov-Arnold Networks for Dynamics",
+          "description": "Kolmogorov-Arnold Networks for Dynamics to estimate governing equations of dynamical systems. code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Kolmogorov-Arnold Networks for Dynamics (KANDy) to learn governing equations from dynamical systems.",
+            "homepage": null,
+            "id": 1173474206,
+            "language": "Jupyter Notebook",
+            "license": null,
+            "last_commit": "2026-05-13T23:10:55Z",
+            "open_issues": 0,
+            "owner": "Center-For-Complex-Systems-Science",
+            "repo": "kandy",
+            "stars": 20,
+            "topics": [
+              "data-driven-dynamics",
+              "dynamical-systems",
+              "kandy",
+              "kolmogorov-arnold-networks",
+              "ode",
+              "partial-differential-equations"
+            ]
+          },
+          "first_seen": "2026-08-28T15:15:01.843Z"
+        },
+        {
+          "node_type": "item",
           "title": "DropKAN: Regularizing KANs by masking post-activations",
           "description": "DropKAN (Dropout Kolmogorov-Arnold Networks) is a regularization method that prevents co-adaptation of activation function weights in Kolmogorov-Arnold Networks (KANs). DropKAN operates by randomly masking some of the post-activations within the KANs computation graph, while scaling-up the retained post-activations. We show that this simple procedure that require minimal coding effort has a regularizing effect and consistently lead to better generalization of KANs. | code ｜",
           "children": [],
@@ -786,34 +814,6 @@
             "repo": "dropkan",
             "stars": 19,
             "topics": []
-          },
-          "first_seen": "2026-08-28T15:15:01.843Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Kolmogorov-Arnold Networks for Dynamics",
-          "description": "Kolmogorov-Arnold Networks for Dynamics to estimate governing equations of dynamical systems. code",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Kolmogorov-Arnold Networks for Dynamics (KANDy) to learn governing equations from dynamical systems.",
-            "homepage": null,
-            "id": 1173474206,
-            "language": "Jupyter Notebook",
-            "license": null,
-            "last_commit": "2026-05-13T23:10:55Z",
-            "open_issues": 0,
-            "owner": "Center-For-Complex-Systems-Science",
-            "repo": "kandy",
-            "stars": 19,
-            "topics": [
-              "data-driven-dynamics",
-              "dynamical-systems",
-              "kandy",
-              "kolmogorov-arnold-networks",
-              "ode",
-              "partial-differential-equations"
-            ]
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
         },
@@ -1638,7 +1638,7 @@
             "open_issues": 0,
             "owner": "alexshtf",
             "repo": "torchcurves",
-            "stars": 66,
+            "stars": 67,
             "topics": [
               "b-splines",
               "curve-fitting",
@@ -3483,7 +3483,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T08:09:59.316Z",
+    "last_updated": "2026-09-19T07:58:15.467Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive collection of KAN(Kolmogorov-Arnold Network)-related resources, including libraries, projects, tutorials, papers, and more, for researchers and developers in the Kolmogorov-Arnold Network field.",
