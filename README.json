@@ -19,7 +19,7 @@
             "open_issues": 14,
             "owner": "pnnl",
             "repo": "neuromancer",
-            "stars": 1372,
+            "stars": 1373,
             "topics": [
               "constrained-optimization",
               "control-systems",
@@ -1255,7 +1255,7 @@
             "open_issues": 266,
             "owner": "KindXiaoming",
             "repo": "pykan",
-            "stars": 16337,
+            "stars": 16336,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -1276,7 +1276,7 @@
             "open_issues": 38,
             "owner": "Blealtan",
             "repo": "efficient-kan",
-            "stars": 4660,
+            "stars": 4661,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -2680,7 +2680,7 @@
             "open_issues": 14,
             "owner": "pnnl",
             "repo": "neuromancer",
-            "stars": 1372,
+            "stars": 1373,
             "topics": [
               "constrained-optimization",
               "control-systems",
@@ -3203,7 +3203,7 @@
             "open_issues": 266,
             "owner": "KindXiaoming",
             "repo": "pykan",
-            "stars": 16337,
+            "stars": 16336,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -3224,7 +3224,7 @@
             "open_issues": 14,
             "owner": "pnnl",
             "repo": "neuromancer",
-            "stars": 1372,
+            "stars": 1373,
             "topics": [
               "constrained-optimization",
               "control-systems",
@@ -3483,7 +3483,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T07:58:15.467Z",
+    "last_updated": "2026-09-20T08:29:51.385Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive collection of KAN(Kolmogorov-Arnold Network)-related resources, including libraries, projects, tutorials, papers, and more, for researchers and developers in the Kolmogorov-Arnold Network field.",
@@ -3495,7 +3495,7 @@
       "open_issues": 6,
       "owner": "mintisan",
       "repo": "awesome-kan",
-      "stars": 3293,
+      "stars": 3294,
       "topics": []
     },
     "original_repository_sha": "f8812b533657cb0bcd635a4d7a0285e9d79685e5",
