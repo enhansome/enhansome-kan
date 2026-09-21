@@ -77,7 +77,7 @@
             "open_issues": 16,
             "owner": "Adamdad",
             "repo": "kat",
-            "stars": 848,
+            "stars": 849,
             "topics": [
               "computer-vision",
               "kan",
@@ -103,7 +103,7 @@
             "open_issues": 40,
             "owner": "CUHK-AIM-Group",
             "repo": "U-KAN",
-            "stars": 555,
+            "stars": 557,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -124,7 +124,7 @@
             "open_issues": 9,
             "owner": "IvanDrokin",
             "repo": "torch-conv-kan",
-            "stars": 529,
+            "stars": 530,
             "topics": [
               "computer-vision",
               "convolutional-neural-networks",
@@ -462,8 +462,8 @@
             "homepage": null,
             "id": 848273708,
             "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-05-07T06:46:10Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-09-20T16:51:03Z",
             "open_issues": 0,
             "owner": "hoangthangta",
             "repo": "FC_KAN",
@@ -491,8 +491,8 @@
             "homepage": null,
             "id": 900232849,
             "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-09-16T06:25:44Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-09-20T16:51:09Z",
             "open_issues": 0,
             "owner": "hoangthangta",
             "repo": "All-KAN",
@@ -519,8 +519,8 @@
             "homepage": null,
             "id": 900232849,
             "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-09-16T06:25:44Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-09-20T16:51:09Z",
             "open_issues": 0,
             "owner": "hoangthangta",
             "repo": "All-KAN",
@@ -589,8 +589,8 @@
             "homepage": null,
             "id": 811308705,
             "language": "Python",
-            "license": "MIT",
-            "last_commit": "2025-11-30T20:38:10Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-09-20T16:50:54Z",
             "open_issues": 0,
             "owner": "hoangthangta",
             "repo": "BSRBF_KAN",
@@ -604,6 +604,27 @@
               "mnist",
               "radial-basis-function"
             ]
+          },
+          "first_seen": "2026-08-28T15:15:01.843Z"
+        },
+        {
+          "node_type": "item",
+          "title": "TC-KANRecon: High-Quality and Accelerated MRI Reconstruction via Adaptive KAN Mechanisms and Intelligent Feature Scaling",
+          "description": "code |",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "TC-KANRecon: High-Quality and Accelerated MRI Reconstruction through Adaptive KAN Mechanisms and Intelligent Feature Scaling",
+            "homepage": null,
+            "id": 831461585,
+            "language": "Python",
+            "license": null,
+            "last_commit": "2024-08-18T04:11:53Z",
+            "open_issues": 1,
+            "owner": "lcbkmm",
+            "repo": "TC-KANRecon",
+            "stars": 24,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
         },
@@ -632,27 +653,6 @@
               "natural-language-processing",
               "pytorch"
             ]
-          },
-          "first_seen": "2026-08-28T15:15:01.843Z"
-        },
-        {
-          "node_type": "item",
-          "title": "TC-KANRecon: High-Quality and Accelerated MRI Reconstruction via Adaptive KAN Mechanisms and Intelligent Feature Scaling",
-          "description": "code |",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "TC-KANRecon: High-Quality and Accelerated MRI Reconstruction through Adaptive KAN Mechanisms and Intelligent Feature Scaling",
-            "homepage": null,
-            "id": 831461585,
-            "language": "Python",
-            "license": null,
-            "last_commit": "2024-08-18T04:11:53Z",
-            "open_issues": 1,
-            "owner": "lcbkmm",
-            "repo": "TC-KANRecon",
-            "stars": 23,
-            "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
         },
@@ -1071,27 +1071,6 @@
         },
         {
           "node_type": "item",
-          "title": "HKAN-LogAD: Hierarchical Kolmogorov-Arnold Networks for Log Anomaly Detection",
-          "description": "code | - An extension of HKAN, tailored to large-scale software-intensive systems log anomaly detection, yielding substantial gains in performance and controllability.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "The implementation of HKAN-LogAD: Hierarchical Kolmogorov-Arnold Networks for Log Anomaly Detection",
-            "homepage": null,
-            "id": 1137386733,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-02-16T12:24:01Z",
-            "open_issues": 0,
-            "owner": "aristotelisxs",
-            "repo": "hkan-logad",
-            "stars": 2,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T15:15:01.843Z"
-        },
-        {
-          "node_type": "item",
           "title": "Double-KANs: Enhancing KANs with simplified NURBS for accurate modeling of discontinuous signals",
           "description": "code - This paper introduces NURBS into KANs to enhance their capability in approximating abrupt signals while maintaining full compatibility with existing KAN-based architectures for seamless integration.Experiments across multiple tasks demonstrate that the proposed method consistently outperforms MLPs, vanilla KANs, and their variants.",
           "children": [],
@@ -1106,6 +1085,27 @@
             "open_issues": 0,
             "owner": "baboonaaaa",
             "repo": "Double-KANs",
+            "stars": 3,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T15:15:01.843Z"
+        },
+        {
+          "node_type": "item",
+          "title": "HKAN-LogAD: Hierarchical Kolmogorov-Arnold Networks for Log Anomaly Detection",
+          "description": "code | - An extension of HKAN, tailored to large-scale software-intensive systems log anomaly detection, yielding substantial gains in performance and controllability.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "The implementation of HKAN-LogAD: Hierarchical Kolmogorov-Arnold Networks for Log Anomaly Detection",
+            "homepage": null,
+            "id": 1137386733,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-02-16T12:24:01Z",
+            "open_issues": 0,
+            "owner": "aristotelisxs",
+            "repo": "hkan-logad",
             "stars": 2,
             "topics": []
           },
@@ -1255,7 +1255,7 @@
             "open_issues": 266,
             "owner": "KindXiaoming",
             "repo": "pykan",
-            "stars": 16336,
+            "stars": 16335,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -1276,7 +1276,7 @@
             "open_issues": 38,
             "owner": "Blealtan",
             "repo": "efficient-kan",
-            "stars": 4661,
+            "stars": 4660,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -1792,8 +1792,8 @@
             "homepage": null,
             "id": 811308705,
             "language": "Python",
-            "license": "MIT",
-            "last_commit": "2025-11-30T20:38:10Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-09-20T16:50:54Z",
             "open_issues": 0,
             "owner": "hoangthangta",
             "repo": "BSRBF_KAN",
@@ -1890,8 +1890,8 @@
             "homepage": null,
             "id": 821368613,
             "language": "Python",
-            "license": null,
-            "last_commit": "2024-08-03T14:38:23Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-09-20T16:51:49Z",
             "open_issues": 0,
             "owner": "hoangthangta",
             "repo": "KAN-SGAN",
@@ -2333,7 +2333,7 @@
                 "open_issues": 9,
                 "owner": "IvanDrokin",
                 "repo": "torch-conv-kan",
-                "stars": 529,
+                "stars": 530,
                 "topics": [
                   "computer-vision",
                   "convolutional-neural-networks",
@@ -3203,7 +3203,7 @@
             "open_issues": 266,
             "owner": "KindXiaoming",
             "repo": "pykan",
-            "stars": 16336,
+            "stars": 16335,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -3483,7 +3483,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T08:29:51.385Z",
+    "last_updated": "2026-09-21T08:49:37.177Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive collection of KAN(Kolmogorov-Arnold Network)-related resources, including libraries, projects, tutorials, papers, and more, for researchers and developers in the Kolmogorov-Arnold Network field.",
@@ -3495,7 +3495,7 @@
       "open_issues": 6,
       "owner": "mintisan",
       "repo": "awesome-kan",
-      "stars": 3294,
+      "stars": 3295,
       "topics": []
     },
     "original_repository_sha": "f8812b533657cb0bcd635a4d7a0285e9d79685e5",
