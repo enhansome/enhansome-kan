@@ -19,7 +19,7 @@
             "open_issues": 14,
             "owner": "pnnl",
             "repo": "neuromancer",
-            "stars": 1375,
+            "stars": 1377,
             "topics": [
               "constrained-optimization",
               "control-systems",
@@ -700,6 +700,34 @@
         },
         {
           "node_type": "item",
+          "title": "Kolmogorov-Arnold Networks for Dynamics",
+          "description": "Kolmogorov-Arnold Networks for Dynamics to estimate governing equations of dynamical systems. code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Kolmogorov-Arnold Networks for Dynamics (KANDy) to learn governing equations from dynamical systems.",
+            "homepage": null,
+            "id": 1173474206,
+            "language": "Jupyter Notebook",
+            "license": null,
+            "last_commit": "2026-05-13T23:10:55Z",
+            "open_issues": 0,
+            "owner": "Center-For-Complex-Systems-Science",
+            "repo": "kandy",
+            "stars": 21,
+            "topics": [
+              "data-driven-dynamics",
+              "dynamical-systems",
+              "kandy",
+              "kolmogorov-arnold-networks",
+              "ode",
+              "partial-differential-equations"
+            ]
+          },
+          "first_seen": "2026-08-28T15:15:01.843Z"
+        },
+        {
+          "node_type": "item",
           "title": "A First Look at Kolmogorov-Arnold Networks in Surrogate-assisted Evolutionary Algorithms",
           "description": "code｜",
           "children": [],
@@ -743,34 +771,6 @@
               "quantum-chemistry",
               "quantum-machine-learning",
               "variational-quantum-algorithms"
-            ]
-          },
-          "first_seen": "2026-08-28T15:15:01.843Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Kolmogorov-Arnold Networks for Dynamics",
-          "description": "Kolmogorov-Arnold Networks for Dynamics to estimate governing equations of dynamical systems. code",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Kolmogorov-Arnold Networks for Dynamics (KANDy) to learn governing equations from dynamical systems.",
-            "homepage": null,
-            "id": 1173474206,
-            "language": "Jupyter Notebook",
-            "license": null,
-            "last_commit": "2026-05-13T23:10:55Z",
-            "open_issues": 0,
-            "owner": "Center-For-Complex-Systems-Science",
-            "repo": "kandy",
-            "stars": 20,
-            "topics": [
-              "data-driven-dynamics",
-              "dynamical-systems",
-              "kandy",
-              "kolmogorov-arnold-networks",
-              "ode",
-              "partial-differential-equations"
             ]
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -1144,7 +1144,7 @@
             "id": 1025374887,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-14T09:13:52Z",
+            "last_commit": "2026-09-23T08:22:04Z",
             "open_issues": 0,
             "owner": "julianhoever",
             "repo": "KANLib",
@@ -1297,7 +1297,7 @@
             "open_issues": 3,
             "owner": "GistNoesis",
             "repo": "FourierKAN",
-            "stars": 755,
+            "stars": 754,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -2098,7 +2098,7 @@
             "id": 1025374887,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-14T09:13:52Z",
+            "last_commit": "2026-09-23T08:22:04Z",
             "open_issues": 0,
             "owner": "julianhoever",
             "repo": "KANLib",
@@ -2680,7 +2680,7 @@
             "open_issues": 14,
             "owner": "pnnl",
             "repo": "neuromancer",
-            "stars": 1375,
+            "stars": 1377,
             "topics": [
               "constrained-optimization",
               "control-systems",
@@ -3224,7 +3224,7 @@
             "open_issues": 14,
             "owner": "pnnl",
             "repo": "neuromancer",
-            "stars": 1375,
+            "stars": 1377,
             "topics": [
               "constrained-optimization",
               "control-systems",
@@ -3483,7 +3483,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T08:26:54.595Z",
+    "last_updated": "2026-09-23T08:28:52.837Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive collection of KAN(Kolmogorov-Arnold Network)-related resources, including libraries, projects, tutorials, papers, and more, for researchers and developers in the Kolmogorov-Arnold Network field.",
