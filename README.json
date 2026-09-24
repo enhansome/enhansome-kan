@@ -1144,7 +1144,7 @@
             "id": 1025374887,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-23T08:22:04Z",
+            "last_commit": "2026-09-23T09:39:35Z",
             "open_issues": 0,
             "owner": "julianhoever",
             "repo": "KANLib",
@@ -1255,7 +1255,7 @@
             "open_issues": 266,
             "owner": "KindXiaoming",
             "repo": "pykan",
-            "stars": 16336,
+            "stars": 16337,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -1276,7 +1276,7 @@
             "open_issues": 38,
             "owner": "Blealtan",
             "repo": "efficient-kan",
-            "stars": 4661,
+            "stars": 4660,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -1297,7 +1297,7 @@
             "open_issues": 3,
             "owner": "GistNoesis",
             "repo": "FourierKAN",
-            "stars": 754,
+            "stars": 755,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -2098,7 +2098,7 @@
             "id": 1025374887,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-23T08:22:04Z",
+            "last_commit": "2026-09-23T09:39:35Z",
             "open_issues": 0,
             "owner": "julianhoever",
             "repo": "KANLib",
@@ -3203,7 +3203,7 @@
             "open_issues": 266,
             "owner": "KindXiaoming",
             "repo": "pykan",
-            "stars": 16336,
+            "stars": 16337,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -3483,7 +3483,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T08:28:52.837Z",
+    "last_updated": "2026-09-24T08:21:16.027Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive collection of KAN(Kolmogorov-Arnold Network)-related resources, including libraries, projects, tutorials, papers, and more, for researchers and developers in the Kolmogorov-Arnold Network field.",
