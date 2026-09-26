@@ -207,7 +207,7 @@
             "open_issues": 0,
             "owner": "yizheng-wang",
             "repo": "Research-on-Solving-Partial-Differential-Equations-of-Solid-Mechanics-Based-on-PINN",
-            "stars": 223,
+            "stars": 224,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -1255,7 +1255,7 @@
             "open_issues": 266,
             "owner": "KindXiaoming",
             "repo": "pykan",
-            "stars": 16335,
+            "stars": 16336,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -2397,7 +2397,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2024-05-15T19:50:23Z",
-                "open_issues": 3,
+                "open_issues": 2,
                 "owner": "XiangboGaoBarry",
                 "repo": "KA-Conv",
                 "stars": 68,
@@ -3203,7 +3203,7 @@
             "open_issues": 266,
             "owner": "KindXiaoming",
             "repo": "pykan",
-            "stars": 16335,
+            "stars": 16336,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -3483,7 +3483,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T08:43:48.629Z",
+    "last_updated": "2026-09-26T08:30:27.810Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive collection of KAN(Kolmogorov-Arnold Network)-related resources, including libraries, projects, tutorials, papers, and more, for researchers and developers in the Kolmogorov-Arnold Network field.",
