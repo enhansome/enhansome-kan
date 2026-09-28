@@ -19,7 +19,7 @@
             "open_issues": 14,
             "owner": "pnnl",
             "repo": "neuromancer",
-            "stars": 1377,
+            "stars": 1378,
             "topics": [
               "constrained-optimization",
               "control-systems",
@@ -103,7 +103,7 @@
             "open_issues": 40,
             "owner": "CUHK-AIM-Group",
             "repo": "U-KAN",
-            "stars": 557,
+            "stars": 559,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -228,7 +228,7 @@
             "open_issues": 6,
             "owner": "yu-rp",
             "repo": "KANbeFair",
-            "stars": 185,
+            "stars": 186,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -1144,7 +1144,7 @@
             "id": 1025374887,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-23T09:39:35Z",
+            "last_commit": "2026-09-28T07:53:47Z",
             "open_issues": 0,
             "owner": "julianhoever",
             "repo": "KANLib",
@@ -1255,7 +1255,7 @@
             "open_issues": 266,
             "owner": "KindXiaoming",
             "repo": "pykan",
-            "stars": 16336,
+            "stars": 16335,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -1360,7 +1360,7 @@
             "open_issues": 5,
             "owner": "WillHua127",
             "repo": "GraphKAN-Graph-Kolmogorov-Arnold-Networks",
-            "stars": 349,
+            "stars": 348,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -1381,7 +1381,7 @@
             "open_issues": 5,
             "owner": "WillHua127",
             "repo": "GraphKAN-Graph-Kolmogorov-Arnold-Networks",
-            "stars": 349,
+            "stars": 348,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -2098,7 +2098,7 @@
             "id": 1025374887,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-23T09:39:35Z",
+            "last_commit": "2026-09-28T07:53:47Z",
             "open_issues": 0,
             "owner": "julianhoever",
             "repo": "KANLib",
@@ -2680,7 +2680,7 @@
             "open_issues": 14,
             "owner": "pnnl",
             "repo": "neuromancer",
-            "stars": 1377,
+            "stars": 1378,
             "topics": [
               "constrained-optimization",
               "control-systems",
@@ -3203,7 +3203,7 @@
             "open_issues": 266,
             "owner": "KindXiaoming",
             "repo": "pykan",
-            "stars": 16336,
+            "stars": 16335,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -3224,7 +3224,7 @@
             "open_issues": 14,
             "owner": "pnnl",
             "repo": "neuromancer",
-            "stars": 1377,
+            "stars": 1378,
             "topics": [
               "constrained-optimization",
               "control-systems",
@@ -3456,7 +3456,7 @@
                 "open_issues": 41,
                 "owner": "gongminmin",
                 "repo": "KlayGE",
-                "stars": 2175,
+                "stars": 2174,
                 "topics": [
                   "cross-platform",
                   "d3d11",
@@ -3483,7 +3483,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T09:09:32.384Z",
+    "last_updated": "2026-09-28T09:38:33.429Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive collection of KAN(Kolmogorov-Arnold Network)-related resources, including libraries, projects, tutorials, papers, and more, for researchers and developers in the Kolmogorov-Arnold Network field.",
