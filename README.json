@@ -15,7 +15,7 @@
             "id": 304116981,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-14T21:44:31Z",
+            "last_commit": "2026-09-29T04:12:09Z",
             "open_issues": 14,
             "owner": "pnnl",
             "repo": "neuromancer",
@@ -1276,7 +1276,7 @@
             "open_issues": 38,
             "owner": "Blealtan",
             "repo": "efficient-kan",
-            "stars": 4659,
+            "stars": 4660,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -1318,7 +1318,7 @@
             "open_issues": 7,
             "owner": "ZiyaoLi",
             "repo": "fast-kan",
-            "stars": 494,
+            "stars": 495,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -2676,7 +2676,7 @@
             "id": 304116981,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-14T21:44:31Z",
+            "last_commit": "2026-09-29T04:12:09Z",
             "open_issues": 14,
             "owner": "pnnl",
             "repo": "neuromancer",
@@ -3220,7 +3220,7 @@
             "id": 304116981,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-14T21:44:31Z",
+            "last_commit": "2026-09-29T04:12:09Z",
             "open_issues": 14,
             "owner": "pnnl",
             "repo": "neuromancer",
@@ -3483,7 +3483,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T09:38:33.429Z",
+    "last_updated": "2026-09-29T09:42:42.598Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive collection of KAN(Kolmogorov-Arnold Network)-related resources, including libraries, projects, tutorials, papers, and more, for researchers and developers in the Kolmogorov-Arnold Network field.",
