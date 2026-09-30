@@ -1,6 +1,6 @@
 # Awesome KAN(Kolmogorov-Arnold Network) with stars
 
-![Awesome](https://awesome.re/badge.svg) [![Contributions](https://img.shields.io/github/issues-pr-closed-raw/mintisan/awesome-kan.svg?label=contributions)](https://github.com/mintisan/awesome-kan/pulls) ⭐ 3,296 | 🐛 6 | 📅 2026-09-11 [![Commits](https://img.shields.io/github/last-commit/mintisan/awesome-kan.svg?label=last%20contribution)](https://github.com/gigwegbe/tinyml-papers-and-projects/commits/main) ⭐ 1,032 | 🐛 3 | 📅 2025-12-08 ![GitHub stars](https://img.shields.io/github/stars/mintisan/awesome-kan.svg?style=social)
+![Awesome](https://awesome.re/badge.svg) [![Contributions](https://img.shields.io/github/issues-pr-closed-raw/mintisan/awesome-kan.svg?label=contributions)](https://github.com/mintisan/awesome-kan/pulls) ⭐ 3,298 | 🐛 6 | 📅 2026-09-11 [![Commits](https://img.shields.io/github/last-commit/mintisan/awesome-kan.svg?label=last%20contribution)](https://github.com/gigwegbe/tinyml-papers-and-projects/commits/main) ⭐ 1,032 | 🐛 3 | 📅 2025-12-08 ![GitHub stars](https://img.shields.io/github/stars/mintisan/awesome-kan.svg?style=social)
 
 A curated list of awesome libraries, projects, tutorials, papers, and other resources related to Kolmogorov-Arnold Network (KAN). This repository aims to be a comprehensive and organized collection that will help researchers and developers in the world of KAN!
 
@@ -118,7 +118,7 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 
 ## Library
 
-* [pykan](https://github.com/KindXiaoming/pykan) ⭐ 16,335 | 🐛 266 | 🌐 Jupyter Notebook | 📅 2025-01-19 : Offical implementation for Kolmogorov Arnold Networks ｜ ![Github stars](https://img.shields.io/github/stars/KindXiaoming/pykan.svg)
+* [pykan](https://github.com/KindXiaoming/pykan) ⭐ 16,334 | 🐛 266 | 🌐 Jupyter Notebook | 📅 2025-01-19 : Offical implementation for Kolmogorov Arnold Networks ｜ ![Github stars](https://img.shields.io/github/stars/KindXiaoming/pykan.svg)
 * [efficient-kan](https://github.com/Blealtan/efficient-kan) ⭐ 4,660 | 🐛 38 | 🌐 Python | 📅 2024-08-01 : An efficient pure-PyTorch implementation of Kolmogorov-Arnold Network (KAN). ｜ ![Github stars](https://img.shields.io/github/stars/Blealtan/efficient-kan.svg)
 * [FourierKAN](https://github.com/GistNoesis/FourierKAN/) ⭐ 755 | 🐛 3 | 🌐 Python | 📅 2024-05-24 : Pytorch Layer for FourierKAN. It is a layer intended to be a substitution for Linear + non-linear activation |  ![Github stars](https://img.shields.io/github/stars/GistNoesis/FourierKAN.svg)
 * [FastKAN](https://github.com/ZiyaoLi/fast-kan) ⭐ 495 | 🐛 7 | 🌐 Jupyter Notebook | 📅 2024-06-20 : Very Fast Calculation of Kolmogorov-Arnold Networks (KAN)  ｜ ![Github stars](https://img.shields.io/github/stars/ZiyaoLi/fast-kan.svg)
@@ -135,7 +135,7 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 * [FasterKAN](https://github.com/AthanasiosDelis/faster-kan) ⭐ 98 | 🐛 7 | 🌐 Python | 📅 2024-05-26 : FasterKAN = FastKAN + RSWAF bases functions and benchmarking with other KANs. Fastest KAN variation as of 5/13/2024, 2 times slower than MLP in backward speed.  ｜ ![Github stars](https://img.shields.io/github/stars/AthanasiosDelis/faster-kan.svg)
 * [TKAT](https://github.com/remigenet/TKAT) ⭐ 89 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2024-12-27: Temporal Kolmogorov-Arnold Transformer Tensorflow 2.x model implementation | ![Github stars](https://img.shields.io/github/stars/remigenet/tkat.svg)
 * [KolmogorovArnold.jl](https://github.com/vpuri3/KolmogorovArnold.jl) ⭐ 88 | 🐛 4 | 🌐 Julia | 📅 2026-07-06 : Very fast Julia implementation of KANs with RBF and RSWAF basis. Extra speedup is gained by writing custom gradients to share work between forward and backward pass. ｜ ![Github stars](https://img.shields.io/github/stars/vpuri3/KolmogorovArnold.jl)
-* [TorchCurves](https://github.com/alexshtf/torchcurves) ⭐ 67 | 🐛 0 | 🌐 Python | 📅 2026-07-10: A differentiable parametric curves PyTorch library, with both B-Splines and Legendre Polynomials, that allows to easily build KAN layers. | ![Github stars](https://img.shields.io/github/stars/alexshtf/torchcurves.svg)
+* [TorchCurves](https://github.com/alexshtf/torchcurves) ⭐ 67 | 🐛 1 | 🌐 Python | 📅 2026-09-30: A differentiable parametric curves PyTorch library, with both B-Splines and Legendre Polynomials, that allows to easily build KAN layers. | ![Github stars](https://img.shields.io/github/stars/alexshtf/torchcurves.svg)
 * [SigKAN](https://github.com/remigenet/SigKAN) ⭐ 49 | 🐛 0 | 🌐 Python | 📅 2024-11-24: Path Signature-Weighted Kolmogorov-Arnold Networks tensorflow 2.x layer implementations, based on iisignature | ![Github stars](https://img.shields.io/github/stars/remigenet/sigkan.svg)
 * [OrthogPolyKAN](https://github.com/Boris-73-TA/OrthogPolyKANs) ⭐ 40 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-11-21 : Kolmogorov-Arnold Networks (KAN) using orthogonal polynomials instead of B-splines. ｜ ![Github stars](https://img.shields.io/github/stars/Boris-73-TA/OrthogPolyKANs.svg)
 * [JacobiKAN](https://github.com/SpaceLearner/JacobiKAN) ⭐ 39 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-05-09 : Kolmogorov-Arnold Networks (KAN) using Jacobi polynomials instead of B-splines. ｜ ![Github stars](https://img.shields.io/github/stars/SpaceLearner/JacobiKAN.svg)
@@ -176,7 +176,7 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 * [convkan](https://github.com/StarostinV/convkan) ⭐ 121 | 🐛 4 | 🌐 Python | 📅 2025-03-25 : Implementation of convolutional layer version of KAN (drop-in replacement of Conv2d) ｜ ![Github stars](https://img.shields.io/github/stars/StarostinV/convkan.svg)
 * [CNN-KAN](https://github.com/jakariaemon/CNN-KAN) ⭐ 82 | 🐛 3 | 🌐 Python | 📅 2024-05-23 : A modified CNN architecture using Kolmogorov-Arnold Networks | ![Github stars](https://img.shields.io/github/stars/jakariaemon/CNN-KAN.svg)
 * [KA-Conv](https://github.com/XiangboGaoBarry/KA-Conv) ⭐ 68 | 🐛 2 | 🌐 Python | 📅 2024-05-15 : Kolmogorov-Arnold Convolutional Networks with Various Basis Functions (Optimization for Efficiency and GPU memory usage) | ![Github stars](https://img.shields.io/github/stars/XiangboGaoBarry/KA-Conv.svg)
-* [KAN-Conv2D](https://github.com/omarrayyann/KAN-Conv2D) ⭐ 20 | 🐛 0 | 🌐 Python | 📅 2024-05-23 : Drop-in Convolutional KAN built on multiple implementations ([Original pykan](https://github.com/KindXiaoming/pykan) ⭐ 16,335 | 🐛 266 | 🌐 Jupyter Notebook | 📅 2025-01-19 / [efficient-kan](https://github.com/Blealtan/efficient-kan) ⭐ 4,660 | 🐛 38 | 🌐 Python | 📅 2024-08-01 / [FastKAN](https://github.com/ZiyaoLi/fast-kan) ⭐ 495 | 🐛 7 | 🌐 Jupyter Notebook | 📅 2024-06-20) to support the original paper hyperparameters. | ![Github stars](https://img.shields.io/github/stars/omarrayyann/KAN-Conv2D.svg)
+* [KAN-Conv2D](https://github.com/omarrayyann/KAN-Conv2D) ⭐ 20 | 🐛 0 | 🌐 Python | 📅 2024-05-23 : Drop-in Convolutional KAN built on multiple implementations ([Original pykan](https://github.com/KindXiaoming/pykan) ⭐ 16,334 | 🐛 266 | 🌐 Jupyter Notebook | 📅 2025-01-19 / [efficient-kan](https://github.com/Blealtan/efficient-kan) ⭐ 4,660 | 🐛 38 | 🌐 Python | 📅 2024-08-01 / [FastKAN](https://github.com/ZiyaoLi/fast-kan) ⭐ 495 | 🐛 7 | 🌐 Jupyter Notebook | 📅 2024-06-20) to support the original paper hyperparameters. | ![Github stars](https://img.shields.io/github/stars/omarrayyann/KAN-Conv2D.svg)
 * [ConvKAN3D](https://github.com/FirasBDarwish/ConvKAN3D) ⭐ 14 | 🐛 1 | 🌐 Python | 📅 2024-05-25 : 3D Convolutional Layer built on top of the efficient-kan implementation (importable Python package from PyPi), drop-in replacement of Conv3d.
 
 ### Benchmark
@@ -219,7 +219,7 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 * [KAN4Rec](https://github.com/TianyuanYang/KAN4Rec) ⭐ 29 | 🐛 0 | 🌐 Python | 📅 2024-05-15 : Implementation of Kolmogorov-Arnold Network (KAN) for Recommendations ｜ ![Github stars](https://img.shields.io/github/stars/TianyuanYang/KAN4Rec.svg)
 * [KAN-DQN](https://github.com/andythetechnerd03/KAN-It-Play-Flappy-Bird) ⭐ 21 | 🐛 0 | 🌐 Python | 📅 2024-08-06 : An experiment where KAN replaces MLP in Deep Q-Network to play Flappy Bird as a Reinforcement Learning agent. | ![GitHub Repo stars](https://img.shields.io/github/stars/andythetechnerd03/KAN-It-Play-Flappy-Bird)
 * [ImplicitKAN](https://github.com/belkakari/implicit-kan) ⭐ 15 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-05-16 : Kolmogorov-Arnold Network (KAN) as an implicit function for images and other modalities ｜ ![Github stars](https://img.shields.io/github/stars/belkakari/implicit-kan.svg)
-* [Fraud Detection in Supply Chains Using Kolmogorov Arnold Networks](https://github.com/ChrisD-7/Fraud-Detection-in-Supply-Chains-with-Kolmogorov-Arnold-Networks/) ⭐ 13 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2024-05-23 ｜ ![Github stars](https://img.shields.io/github/stars/ChrisD-7/Fraud-Detection-in-Supply-Chains-with-Kolmogorov-Arnold-Networks.svg)
+* [Fraud Detection in Supply Chains Using Kolmogorov Arnold Networks](https://github.com/ChrisD-7/Fraud-Detection-in-Supply-Chains-with-Kolmogorov-Arnold-Networks/) ⭐ 13 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-09-29 ｜ ![Github stars](https://img.shields.io/github/stars/ChrisD-7/Fraud-Detection-in-Supply-Chains-with-Kolmogorov-Arnold-Networks.svg)
 * [ThangKAN](https://github.com/hoangthangta/ThangKAN) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2024-07-27 : Kolmogorov-Arnold Network (KAN) for text classification over GLUE tasks ｜ ![Github stars](https://img.shields.io/github/stars/hoangthangta/ThangKAN.svg)
 * [Parametric reconstruction of 3D object with KAN](https://github.com/antoniogrs/kan_parametric_reconstruction) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2025-07-11 : Code for training a hybrid KAN-based neural network to reconstruct parametric 3D objects from single images through regression. The project includes a qualitative comparison with MLPs, highlighting the superior expressive power of KANs in initial tests. | ![Github stars](https://img.shields.io/github/stars/antoniogrs/kan_parametric_reconstruction.svg)
 * [Semantic Motion Generation](https://github.com/vonexel/smog) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2026-01-22 - The PyTorch Implementation of Text-to-3D-Motion Synthesis Leveraging CLIP Semantics and KAN-enhanced Transformers. ｜ ![Github stars](https://img.shields.io/github/stars/vonexel/smog.svg)
@@ -239,7 +239,7 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 
 ## Tutorial
 
-* [Official Tutorial Notebooks](https://github.com/KindXiaoming/pykan/tree/master/tutorials) ⭐ 16,335 | 🐛 266 | 🌐 Jupyter Notebook | 📅 2025-01-19
+* [Official Tutorial Notebooks](https://github.com/KindXiaoming/pykan/tree/master/tutorials) ⭐ 16,334 | 🐛 266 | 🌐 Jupyter Notebook | 📅 2025-01-19
 * [Neuromancer FBKAN tutorials](https://github.com/pnnl/neuromancer/tree/feature/fbkans/examples/KANs) ⭐ 1,378 | 🐛 14 | 🌐 Python | 📅 2026-09-29: Examples of usage of finite basis KANs, easily accessible via Google Colab notebooks.
 * [team-daniel/KAN](https://github.com/team-daniel/KAN) ⭐ 261 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-09-05 : Implementation on how to use Kolmogorov-Arnold Networks (KANs) for classification and regression tasks.｜ ![Github stars](https://img.shields.io/github/stars/team-daniel/KAN.svg)
 * [pg2455/KAN-Tutorial](https://github.com/pg2455/KAN-Tutorial) ⭐ 210 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2025-05-26  ｜ ![Github stars](https://img.shields.io/github/stars/pg2455/KAN-Tutorial.svg)
@@ -299,4 +299,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._

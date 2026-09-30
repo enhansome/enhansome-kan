@@ -15,7 +15,7 @@
             "id": 304116981,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-29T04:12:09Z",
+            "last_commit": "2026-09-29T14:25:59Z",
             "open_issues": 14,
             "owner": "pnnl",
             "repo": "neuromancer",
@@ -1255,7 +1255,7 @@
             "open_issues": 266,
             "owner": "KindXiaoming",
             "repo": "pykan",
-            "stars": 16335,
+            "stars": 16334,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -1634,8 +1634,8 @@
             "id": 989577719,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-07-10T20:45:54Z",
-            "open_issues": 0,
+            "last_commit": "2026-09-30T09:32:45Z",
+            "open_issues": 1,
             "owner": "alexshtf",
             "repo": "torchcurves",
             "stars": 67,
@@ -2676,7 +2676,7 @@
             "id": 304116981,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-29T04:12:09Z",
+            "last_commit": "2026-09-29T14:25:59Z",
             "open_issues": 14,
             "owner": "pnnl",
             "repo": "neuromancer",
@@ -3078,8 +3078,8 @@
             "id": 801238902,
             "language": "Jupyter Notebook",
             "license": null,
-            "last_commit": "2024-05-23T15:31:38Z",
-            "open_issues": 1,
+            "last_commit": "2026-09-29T18:15:47Z",
+            "open_issues": 0,
             "owner": "ChrisD-7",
             "repo": "Fraud-Detection-in-Supply-Chains-with-Kolmogorov-Arnold-Networks",
             "stars": 13,
@@ -3203,7 +3203,7 @@
             "open_issues": 266,
             "owner": "KindXiaoming",
             "repo": "pykan",
-            "stars": 16335,
+            "stars": 16334,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -3220,7 +3220,7 @@
             "id": 304116981,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-29T04:12:09Z",
+            "last_commit": "2026-09-29T14:25:59Z",
             "open_issues": 14,
             "owner": "pnnl",
             "repo": "neuromancer",
@@ -3483,7 +3483,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T09:42:42.598Z",
+    "last_updated": "2026-09-30T09:34:29.517Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive collection of KAN(Kolmogorov-Arnold Network)-related resources, including libraries, projects, tutorials, papers, and more, for researchers and developers in the Kolmogorov-Arnold Network field.",
@@ -3495,7 +3495,7 @@
       "open_issues": 6,
       "owner": "mintisan",
       "repo": "awesome-kan",
-      "stars": 3296,
+      "stars": 3298,
       "topics": []
     },
     "original_repository_sha": "f8812b533657cb0bcd635a4d7a0285e9d79685e5",
