@@ -28,7 +28,7 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 
 ## Papers
 
-* [Finite basis Kolmogorov-Arnold networks: domain decomposition for data-driven and physics-informed problems](https://arxiv.org/abs/2406.19662) | [code](https://github.com/pnnl/neuromancer/tree/feature/fbkans/examples/KANs) ⭐ 1,378 | 🐛 14 | 🌐 Python | 📅 2026-09-29 | ![Github stars](https://img.shields.io/github/stars/pnnl/neuromancer.svg)
+* [Finite basis Kolmogorov-Arnold networks: domain decomposition for data-driven and physics-informed problems](https://arxiv.org/abs/2406.19662) | [code](https://github.com/pnnl/neuromancer/tree/feature/fbkans/examples/KANs) ⭐ 1,378 | 🐛 15 | 🌐 Python | 📅 2026-10-01 | ![Github stars](https://img.shields.io/github/stars/pnnl/neuromancer.svg)
 * [Convolutional Kolmogorov-Arnold Networks](https://arxiv.org/abs/2406.13155) | [code](https://github.com/AntonioTepsich/Convolutional-KANs) ⭐ 921 | 🐛 13 | 🌐 Jupyter Notebook | 📅 2025-04-08 ｜ ![Github stars](https://img.shields.io/github/stars/AntonioTepsich/Convolutional-KANs.svg)
 * [Kolmogorov-Arnold Transformer](https://arxiv.org/abs/2409.10594) KAN was strong but faced scalability issues. KAT tackle this with 3 simple tricks. By combining KAN with Transformers, we've built a much stronger and more scalable model. | [code](https://github.com/Adamdad/kat) ⭐ 850 | 🐛 16 | 🌐 Python | 📅 2025-03-23 ![Github starts](https://img.shields.io/github/stars/adamdad/kat.svg)
 * [U-KAN Makes Strong Backbone for Medical Image Segmentation and Generation](https://arxiv.org/abs/2406.02918)｜ [code](https://github.com/CUHK-AIM-Group/U-KAN) ⭐ 559 | 🐛 40 | 🌐 Python | 📅 2025-06-23 ｜ ![Github stars](https://img.shields.io/github/stars/CUHK-AIM-Group/U-KAN.svg)
@@ -135,7 +135,7 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 * [FasterKAN](https://github.com/AthanasiosDelis/faster-kan) ⭐ 98 | 🐛 7 | 🌐 Python | 📅 2024-05-26 : FasterKAN = FastKAN + RSWAF bases functions and benchmarking with other KANs. Fastest KAN variation as of 5/13/2024, 2 times slower than MLP in backward speed.  ｜ ![Github stars](https://img.shields.io/github/stars/AthanasiosDelis/faster-kan.svg)
 * [KolmogorovArnold.jl](https://github.com/vpuri3/KolmogorovArnold.jl) ⭐ 89 | 🐛 4 | 🌐 Julia | 📅 2026-07-06 : Very fast Julia implementation of KANs with RBF and RSWAF basis. Extra speedup is gained by writing custom gradients to share work between forward and backward pass. ｜ ![Github stars](https://img.shields.io/github/stars/vpuri3/KolmogorovArnold.jl)
 * [TKAT](https://github.com/remigenet/TKAT) ⭐ 89 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2024-12-27: Temporal Kolmogorov-Arnold Transformer Tensorflow 2.x model implementation | ![Github stars](https://img.shields.io/github/stars/remigenet/tkat.svg)
-* [TorchCurves](https://github.com/alexshtf/torchcurves) ⭐ 68 | 🐛 1 | 🌐 Python | 📅 2026-09-30: A differentiable parametric curves PyTorch library, with both B-Splines and Legendre Polynomials, that allows to easily build KAN layers. | ![Github stars](https://img.shields.io/github/stars/alexshtf/torchcurves.svg)
+* [TorchCurves](https://github.com/alexshtf/torchcurves) ⭐ 68 | 🐛 0 | 🌐 Python | 📅 2026-10-01: A differentiable parametric curves PyTorch library, with both B-Splines and Legendre Polynomials, that allows to easily build KAN layers. | ![Github stars](https://img.shields.io/github/stars/alexshtf/torchcurves.svg)
 * [SigKAN](https://github.com/remigenet/SigKAN) ⭐ 49 | 🐛 0 | 🌐 Python | 📅 2024-11-24: Path Signature-Weighted Kolmogorov-Arnold Networks tensorflow 2.x layer implementations, based on iisignature | ![Github stars](https://img.shields.io/github/stars/remigenet/sigkan.svg)
 * [OrthogPolyKAN](https://github.com/Boris-73-TA/OrthogPolyKANs) ⭐ 40 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-11-21 : Kolmogorov-Arnold Networks (KAN) using orthogonal polynomials instead of B-splines. ｜ ![Github stars](https://img.shields.io/github/stars/Boris-73-TA/OrthogPolyKANs.svg)
 * [JacobiKAN](https://github.com/SpaceLearner/JacobiKAN) ⭐ 39 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-05-09 : Kolmogorov-Arnold Networks (KAN) using Jacobi polynomials instead of B-splines. ｜ ![Github stars](https://img.shields.io/github/stars/SpaceLearner/JacobiKAN.svg)
@@ -202,8 +202,8 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 
 ## Project
 
-* [Neuromancer](https://github.com/pnnl/neuromancer) ⭐ 1,378 | 🐛 14 | 🌐 Python | 📅 2026-09-29 : Neural Modules with Adaptive Nonlinear Constraints and Efficient Regularizations (NeuroMANCER) is an open-source differentiable programming (DP) library for solving parametric constrained optimization problems, physics-informed system identification, and parametric model-based optimal control. It includes, among other architectures, KANs and finite basis KANs (FBKANs). | ![Github stars](https://img.shields.io/github/stars/pnnl/neuromancer.svg)
-* [KAN-GPT](https://github.com/AdityaNG/kan-gpt) ⭐ 726 | 🐛 6 | 🌐 Python | 📅 2024-11-25 : The PyTorch implementation of Generative Pre-trained Transformers (GPTs) using Kolmogorov-Arnold Networks (KANs) for language modeling ｜ ![Github stars](https://img.shields.io/github/stars/AdityaNG/kan-gpt.svg)
+* [Neuromancer](https://github.com/pnnl/neuromancer) ⭐ 1,378 | 🐛 15 | 🌐 Python | 📅 2026-10-01 : Neural Modules with Adaptive Nonlinear Constraints and Efficient Regularizations (NeuroMANCER) is an open-source differentiable programming (DP) library for solving parametric constrained optimization problems, physics-informed system identification, and parametric model-based optimal control. It includes, among other architectures, KANs and finite basis KANs (FBKANs). | ![Github stars](https://img.shields.io/github/stars/pnnl/neuromancer.svg)
+* [KAN-GPT](https://github.com/AdityaNG/kan-gpt) ⭐ 725 | 🐛 6 | 🌐 Python | 📅 2024-11-25 : The PyTorch implementation of Generative Pre-trained Transformers (GPTs) using Kolmogorov-Arnold Networks (KANs) for language modeling ｜ ![Github stars](https://img.shields.io/github/stars/AdityaNG/kan-gpt.svg)
 * [kanrl](https://github.com/riiswa/kanrl) ⭐ 297 | 🐛 8 | 🌐 Python | 📅 2025-04-09 : Kolmogorov-Arnold Network for Reinforcement Leaning, initial experiments ｜ ![Github stars](https://img.shields.io/github/stars/riiswa/kanrl.svg)
 * [Vision-KAN](https://github.com/chenziwenhaoshuai/Vision-KAN) ⭐ 256 | 🐛 11 | 🌐 Python | 📅 2024-10-07 : KAN for Vision Transformer ｜ ![Github stars](https://img.shields.io/github/stars/chenziwenhaoshuai/Vision-KAN.svg)
 * [X-KANeRF](https://github.com/lif314/X-KANeRF) ⭐ 178 | 🐛 0 | 🌐 Python | 📅 2024-06-30 : X-KANeRF: KAN-based NeRF with Various Basis Functions to explain the the NeRF formula ｜ ![Github stars](https://img.shields.io/github/stars/lif314/X-KANeRF.svg)
@@ -240,7 +240,7 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 ## Tutorial
 
 * [Official Tutorial Notebooks](https://github.com/KindXiaoming/pykan/tree/master/tutorials) ⭐ 16,334 | 🐛 266 | 🌐 Jupyter Notebook | 📅 2025-01-19
-* [Neuromancer FBKAN tutorials](https://github.com/pnnl/neuromancer/tree/feature/fbkans/examples/KANs) ⭐ 1,378 | 🐛 14 | 🌐 Python | 📅 2026-09-29: Examples of usage of finite basis KANs, easily accessible via Google Colab notebooks.
+* [Neuromancer FBKAN tutorials](https://github.com/pnnl/neuromancer/tree/feature/fbkans/examples/KANs) ⭐ 1,378 | 🐛 15 | 🌐 Python | 📅 2026-10-01: Examples of usage of finite basis KANs, easily accessible via Google Colab notebooks.
 * [team-daniel/KAN](https://github.com/team-daniel/KAN) ⭐ 261 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-09-05 : Implementation on how to use Kolmogorov-Arnold Networks (KANs) for classification and regression tasks.｜ ![Github stars](https://img.shields.io/github/stars/team-daniel/KAN.svg)
 * [pg2455/KAN-Tutorial](https://github.com/pg2455/KAN-Tutorial) ⭐ 210 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2025-05-26  ｜ ![Github stars](https://img.shields.io/github/stars/pg2455/KAN-Tutorial.svg)
 * [KAN-Tutorial](https://github.com/pg2455/KAN-Tutorial/) ⭐ 210 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2025-05-26: Understanding Kolmogorov-Arnold Networks: A Tutorial Series on KAN using Toy Examples
@@ -299,4 +299,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
