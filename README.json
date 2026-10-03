@@ -15,7 +15,7 @@
             "id": 304116981,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-01T23:00:57Z",
+            "last_commit": "2026-10-02T17:58:31Z",
             "open_issues": 15,
             "owner": "pnnl",
             "repo": "neuromancer",
@@ -1255,7 +1255,7 @@
             "open_issues": 266,
             "owner": "KindXiaoming",
             "repo": "pykan",
-            "stars": 16334,
+            "stars": 16335,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -2676,7 +2676,7 @@
             "id": 304116981,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-01T23:00:57Z",
+            "last_commit": "2026-10-02T17:58:31Z",
             "open_issues": 15,
             "owner": "pnnl",
             "repo": "neuromancer",
@@ -3069,7 +3069,7 @@
         {
           "node_type": "item",
           "title": "Fraud Detection in Supply Chains Using Kolmogorov Arnold Networks",
-          "description": "｜",
+          "description": "ChrisD-7/Fraud-Detection-in-Supply-Chains-with-Kolmogorov-Arnold-Networks",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3190,7 +3190,7 @@
         {
           "node_type": "item",
           "title": "Official Tutorial Notebooks",
-          "description": null,
+          "description": "KindXiaoming/pykan",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3203,7 +3203,7 @@
             "open_issues": 266,
             "owner": "KindXiaoming",
             "repo": "pykan",
-            "stars": 16334,
+            "stars": 16335,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -3220,7 +3220,7 @@
             "id": 304116981,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-01T23:00:57Z",
+            "last_commit": "2026-10-02T17:58:31Z",
             "open_issues": 15,
             "owner": "pnnl",
             "repo": "neuromancer",
@@ -3267,7 +3267,7 @@
         {
           "node_type": "item",
           "title": "pg2455/KAN-Tutorial",
-          "description": "｜",
+          "description": "pg2455/KAN-Tutorial",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3443,7 +3443,7 @@
             {
               "node_type": "item",
               "title": "用KAN拟合环境光渲染的查找表",
-              "description": "code",
+              "description": "gongminmin/KlayGE",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3483,7 +3483,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T09:37:28.520Z",
+    "last_updated": "2026-10-03T05:00:08.859Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive collection of KAN(Kolmogorov-Arnold Network)-related resources, including libraries, projects, tutorials, papers, and more, for researchers and developers in the Kolmogorov-Arnold Network field.",
