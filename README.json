@@ -52,7 +52,7 @@
             "open_issues": 13,
             "owner": "AntonioTepsich",
             "repo": "Convolutional-KANs",
-            "stars": 921,
+            "stars": 920,
             "topics": [
               "cnn",
               "computer-vision",
@@ -493,7 +493,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-09-20T16:51:09Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "hoangthangta",
             "repo": "All-KAN",
             "stars": 34,
@@ -521,7 +521,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-09-20T16:51:09Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "hoangthangta",
             "repo": "All-KAN",
             "stars": 34,
@@ -1276,7 +1276,7 @@
             "open_issues": 38,
             "owner": "Blealtan",
             "repo": "efficient-kan",
-            "stars": 4660,
+            "stars": 4659,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -1297,7 +1297,7 @@
             "open_issues": 3,
             "owner": "GistNoesis",
             "repo": "FourierKAN",
-            "stars": 755,
+            "stars": 754,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -1498,7 +1498,7 @@
             "open_issues": 3,
             "owner": "akaashdash",
             "repo": "kansformers",
-            "stars": 139,
+            "stars": 138,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -1519,7 +1519,7 @@
             "open_issues": 4,
             "owner": "Indoxer",
             "repo": "LKAN",
-            "stars": 116,
+            "stars": 115,
             "topics": [
               "machine-learning"
             ]
@@ -2308,7 +2308,7 @@
                 "open_issues": 13,
                 "owner": "AntonioTepsich",
                 "repo": "Convolutional-KANs",
-                "stars": 921,
+                "stars": 920,
                 "topics": [
                   "cnn",
                   "computer-vision",
@@ -2400,7 +2400,7 @@
                 "open_issues": 2,
                 "owner": "XiangboGaoBarry",
                 "repo": "KA-Conv",
-                "stars": 68,
+                "stars": 67,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:15:01.843Z"
@@ -2742,7 +2742,7 @@
             "open_issues": 8,
             "owner": "riiswa",
             "repo": "kanrl",
-            "stars": 297,
+            "stars": 298,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -3456,7 +3456,7 @@
                 "open_issues": 41,
                 "owner": "gongminmin",
                 "repo": "KlayGE",
-                "stars": 2175,
+                "stars": 2176,
                 "topics": [
                   "cross-platform",
                   "d3d11",
@@ -3483,7 +3483,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T10:17:34.234Z",
+    "last_updated": "2026-10-06T10:04:24.742Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive collection of KAN(Kolmogorov-Arnold Network)-related resources, including libraries, projects, tutorials, papers, and more, for researchers and developers in the Kolmogorov-Arnold Network field.",
@@ -3495,7 +3495,7 @@
       "open_issues": 6,
       "owner": "mintisan",
       "repo": "awesome-kan",
-      "stars": 3299,
+      "stars": 3297,
       "topics": []
     },
     "original_repository_sha": "f8812b533657cb0bcd635a4d7a0285e9d79685e5",
