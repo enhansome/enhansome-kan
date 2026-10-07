@@ -428,6 +428,35 @@
         },
         {
           "node_type": "item",
+          "title": "FC-KAN: Function Combinations in Kolmogorov-Arnold Networks",
+          "description": "code |",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "FC-KAN: Function Combinations in Kolmogorov-Arnold Networks",
+            "homepage": null,
+            "id": 848273708,
+            "language": "Python",
+            "license": "NOASSERTION",
+            "last_commit": "2026-09-20T16:51:03Z",
+            "open_issues": 0,
+            "owner": "hoangthangta",
+            "repo": "FC_KAN",
+            "stars": 41,
+            "topics": [
+              "b-splines",
+              "basis-functions",
+              "function-combination",
+              "gaussians",
+              "kolmogorov-arnold-networks",
+              "radial-basis-function",
+              "wavelets"
+            ]
+          },
+          "first_seen": "2026-08-28T15:15:01.843Z"
+        },
+        {
+          "node_type": "item",
           "title": "CoxKAN: Kolmogorov-Arnold Networks for Interpretable, High-Performance Survival Analysis",
           "description": "CoxKAN is a novel framework for survival analysis based on Kolmogorov-Arnold Networks, which combines both interpretability and high performance. CoxKAN outperforms traditional models like the Cox proportional hazards model and rivals deep learning-based models, but with the advantage of interpretability, making it more useful in medical settings where understanding the underlying risk factors and relationships is essential. We find that CoxKAN extracts complex interactions between predictor variables and identifies the precise effect of important biomarkers on patient survival. | code ｜",
           "children": [],
@@ -447,35 +476,6 @@
               "kolmogorov-arnold-networks",
               "pytorch",
               "survival-analysis"
-            ]
-          },
-          "first_seen": "2026-08-28T15:15:01.843Z"
-        },
-        {
-          "node_type": "item",
-          "title": "FC-KAN: Function Combinations in Kolmogorov-Arnold Networks",
-          "description": "code |",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "FC-KAN: Function Combinations in Kolmogorov-Arnold Networks",
-            "homepage": null,
-            "id": 848273708,
-            "language": "Python",
-            "license": "NOASSERTION",
-            "last_commit": "2026-09-20T16:51:03Z",
-            "open_issues": 0,
-            "owner": "hoangthangta",
-            "repo": "FC_KAN",
-            "stars": 40,
-            "topics": [
-              "b-splines",
-              "basis-functions",
-              "function-combination",
-              "gaussians",
-              "kolmogorov-arnold-networks",
-              "radial-basis-function",
-              "wavelets"
             ]
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -559,6 +559,35 @@
         },
         {
           "node_type": "item",
+          "title": "BSRBF-KAN: A combination of B-splines and Radial Basic Functions in Kolmogorov-Arnold Networks",
+          "description": "code |",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Combine B-Splines (BS) and Radial Basis Functions (RBF) in Kolmogorov-Arnold Networks (KANs)",
+            "homepage": null,
+            "id": 811308705,
+            "language": "Python",
+            "license": "NOASSERTION",
+            "last_commit": "2026-09-20T16:50:54Z",
+            "open_issues": 0,
+            "owner": "hoangthangta",
+            "repo": "BSRBF_KAN",
+            "stars": 32,
+            "topics": [
+              "b-splines",
+              "efficientkan",
+              "fast-kan",
+              "kans",
+              "kolmogorov-arnold-networks",
+              "mnist",
+              "radial-basis-function"
+            ]
+          },
+          "first_seen": "2026-08-28T15:15:01.843Z"
+        },
+        {
+          "node_type": "item",
           "title": "CF-KAN: Kolmogorov-Arnold Network-based Collaborative Filtering to Mitigate Catastrophic Forgetting in Recommender Systems",
           "description": "code |",
           "children": [],
@@ -575,35 +604,6 @@
             "repo": "CF-KAN",
             "stars": 32,
             "topics": []
-          },
-          "first_seen": "2026-08-28T15:15:01.843Z"
-        },
-        {
-          "node_type": "item",
-          "title": "BSRBF-KAN: A combination of B-splines and Radial Basic Functions in Kolmogorov-Arnold Networks",
-          "description": "code |",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Combine B-Splines (BS) and Radial Basis Functions (RBF) in Kolmogorov-Arnold Networks (KANs)",
-            "homepage": null,
-            "id": 811308705,
-            "language": "Python",
-            "license": "NOASSERTION",
-            "last_commit": "2026-09-20T16:50:54Z",
-            "open_issues": 0,
-            "owner": "hoangthangta",
-            "repo": "BSRBF_KAN",
-            "stars": 31,
-            "topics": [
-              "b-splines",
-              "efficientkan",
-              "fast-kan",
-              "kans",
-              "kolmogorov-arnold-networks",
-              "mnist",
-              "radial-basis-function"
-            ]
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
         },
@@ -760,7 +760,7 @@
             "language": "Python",
             "license": null,
             "last_commit": "2025-01-09T19:05:49Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "Aqasch",
             "repo": "KANQAS_code",
             "stars": 20,
@@ -1276,7 +1276,7 @@
             "open_issues": 38,
             "owner": "Blealtan",
             "repo": "efficient-kan",
-            "stars": 4659,
+            "stars": 4658,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -1297,7 +1297,7 @@
             "open_issues": 3,
             "owner": "GistNoesis",
             "repo": "FourierKAN",
-            "stars": 754,
+            "stars": 753,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -1519,7 +1519,7 @@
             "open_issues": 4,
             "owner": "Indoxer",
             "repo": "LKAN",
-            "stars": 115,
+            "stars": 114,
             "topics": [
               "machine-learning"
             ]
@@ -1762,6 +1762,35 @@
         },
         {
           "node_type": "item",
+          "title": "BSRBF_KAN",
+          "description": "Combine B-Spline (BS) and Radial Basic Function (RBF) in Kolmogorov-Arnold Networks (KANs) |",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Combine B-Splines (BS) and Radial Basis Functions (RBF) in Kolmogorov-Arnold Networks (KANs)",
+            "homepage": null,
+            "id": 811308705,
+            "language": "Python",
+            "license": "NOASSERTION",
+            "last_commit": "2026-09-20T16:50:54Z",
+            "open_issues": 0,
+            "owner": "hoangthangta",
+            "repo": "BSRBF_KAN",
+            "stars": 32,
+            "topics": [
+              "b-splines",
+              "efficientkan",
+              "fast-kan",
+              "kans",
+              "kolmogorov-arnold-networks",
+              "mnist",
+              "radial-basis-function"
+            ]
+          },
+          "first_seen": "2026-08-28T15:15:01.843Z"
+        },
+        {
+          "node_type": "item",
           "title": "fKAN",
           "description": "fKAN: Fractional Kolmogorov-Arnold Networks with trainable Jacobi basis functions |",
           "children": [],
@@ -1778,35 +1807,6 @@
             "repo": "fKAN",
             "stars": 32,
             "topics": []
-          },
-          "first_seen": "2026-08-28T15:15:01.843Z"
-        },
-        {
-          "node_type": "item",
-          "title": "BSRBF_KAN",
-          "description": "Combine B-Spline (BS) and Radial Basic Function (RBF) in Kolmogorov-Arnold Networks (KANs) |",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Combine B-Splines (BS) and Radial Basis Functions (RBF) in Kolmogorov-Arnold Networks (KANs)",
-            "homepage": null,
-            "id": 811308705,
-            "language": "Python",
-            "license": "NOASSERTION",
-            "last_commit": "2026-09-20T16:50:54Z",
-            "open_issues": 0,
-            "owner": "hoangthangta",
-            "repo": "BSRBF_KAN",
-            "stars": 31,
-            "topics": [
-              "b-splines",
-              "efficientkan",
-              "fast-kan",
-              "kans",
-              "kolmogorov-arnold-networks",
-              "mnist",
-              "radial-basis-function"
-            ]
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
         },
@@ -2358,7 +2358,7 @@
                 "open_issues": 4,
                 "owner": "StarostinV",
                 "repo": "convkan",
-                "stars": 121,
+                "stars": 120,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:15:01.843Z"
@@ -3456,7 +3456,7 @@
                 "open_issues": 41,
                 "owner": "gongminmin",
                 "repo": "KlayGE",
-                "stars": 2176,
+                "stars": 2175,
                 "topics": [
                   "cross-platform",
                   "d3d11",
@@ -3483,7 +3483,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:44:07.295Z",
+    "last_updated": "2026-10-07T10:08:00.801Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive collection of KAN(Kolmogorov-Arnold Network)-related resources, including libraries, projects, tutorials, papers, and more, for researchers and developers in the Kolmogorov-Arnold Network field.",
@@ -3495,7 +3495,7 @@
       "open_issues": 6,
       "owner": "mintisan",
       "repo": "awesome-kan",
-      "stars": 3297,
+      "stars": 3296,
       "topics": []
     },
     "original_repository_sha": "f8812b533657cb0bcd635a4d7a0285e9d79685e5",
