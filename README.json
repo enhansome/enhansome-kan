@@ -77,7 +77,7 @@
             "open_issues": 16,
             "owner": "Adamdad",
             "repo": "kat",
-            "stars": 848,
+            "stars": 849,
             "topics": [
               "computer-vision",
               "kan",
@@ -400,7 +400,7 @@
             "open_issues": 1,
             "owner": "Jinfeng-Xu",
             "repo": "FKAN-GCF",
-            "stars": 42,
+            "stars": 46,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -1255,7 +1255,7 @@
             "open_issues": 266,
             "owner": "KindXiaoming",
             "repo": "pykan",
-            "stars": 16333,
+            "stars": 16332,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -1318,7 +1318,7 @@
             "open_issues": 7,
             "owner": "ZiyaoLi",
             "repo": "fast-kan",
-            "stars": 495,
+            "stars": 496,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -1477,7 +1477,7 @@
             "open_issues": 3,
             "owner": "zavareh1",
             "repo": "Wav-KAN",
-            "stars": 176,
+            "stars": 177,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -1739,7 +1739,7 @@
             "id": 795826428,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-07-09T07:55:51Z",
+            "last_commit": "2026-10-13T08:03:56Z",
             "open_issues": 1,
             "owner": "Mattral",
             "repo": "KANX",
@@ -2034,7 +2034,7 @@
             "open_issues": 1,
             "owner": "SamerMakni",
             "repo": "timekan",
-            "stars": 10,
+            "stars": 11,
             "topics": [
               "deep-neural-networks",
               "kolmogorov-arnold-networks",
@@ -2652,6 +2652,34 @@
                 ]
               },
               "first_seen": "2026-08-28T15:15:01.843Z"
+            },
+            {
+              "node_type": "item",
+              "title": "TorchSONN",
+              "description": "Self-organizing (GMDH) polynomial, orthogonal, and RBF networks in PyTorch; a compositional alternative to KAN that grows its own structure from data.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "GPU-accelerated self-organizing deep neural networks in PyTorch",
+                "homepage": "https://kvoyager.github.io/torchsonn/",
+                "id": 1305380466,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-10-12T03:46:17Z",
+                "open_issues": 0,
+                "owner": "kvoyager",
+                "repo": "torchsonn",
+                "stars": 0,
+                "topics": [
+                  "gmdh",
+                  "group-method-of-data-handling",
+                  "neural-network",
+                  "polynomial-neural-network",
+                  "pytorch",
+                  "self-organizing"
+                ]
+              },
+              "first_seen": "2026-10-13T10:24:38.719Z"
             }
           ],
           "description": null,
@@ -3203,7 +3231,7 @@
             "open_issues": 266,
             "owner": "KindXiaoming",
             "repo": "pykan",
-            "stars": 16333,
+            "stars": 16332,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -3483,7 +3511,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T10:36:47.751Z",
+    "last_updated": "2026-10-13T10:24:38.719Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive collection of KAN(Kolmogorov-Arnold Network)-related resources, including libraries, projects, tutorials, papers, and more, for researchers and developers in the Kolmogorov-Arnold Network field.",
@@ -3491,14 +3519,14 @@
       "id": 797540256,
       "language": null,
       "license": null,
-      "last_commit": "2026-09-11T13:11:44Z",
+      "last_commit": "2026-10-13T02:22:19Z",
       "open_issues": 6,
       "owner": "mintisan",
       "repo": "awesome-kan",
       "stars": 3295,
       "topics": []
     },
-    "original_repository_sha": "f8812b533657cb0bcd635a4d7a0285e9d79685e5",
+    "original_repository_sha": "759e0be4d43cb861313f924a534f88849930c89f",
     "enhanced_repository": "enhansome/enhansome-kan",
     "enhanced_repository_description": null,
     "title": "Awesome KAN(Kolmogorov-Arnold Network) with stars"
