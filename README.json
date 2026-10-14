@@ -19,7 +19,7 @@
             "open_issues": 17,
             "owner": "pnnl",
             "repo": "neuromancer",
-            "stars": 1380,
+            "stars": 1381,
             "topics": [
               "constrained-optimization",
               "control-systems",
@@ -358,6 +358,27 @@
         },
         {
           "node_type": "item",
+          "title": "FourierKAN-GCF: Fourier Kolmogorov-Arnold Network--An Effective and Efficient Feature Transformation for Graph Collaborative Filtering",
+          "description": "｜ code ｜",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "[CIKM'25] Enhancing Graph Collaborative Filtering with FourierKAN Feature Transformation",
+            "homepage": "https://arxiv.org/abs/2406.01034",
+            "id": 808046100,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2025-12-02T06:38:14Z",
+            "open_issues": 1,
+            "owner": "Jinfeng-Xu",
+            "repo": "FKAN-GCF",
+            "stars": 54,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T15:15:01.843Z"
+        },
+        {
+          "node_type": "item",
           "title": "SigKAN: Signature-Weighted Kolmogorov-Arnold Networks for Time Series",
           "description": "｜ code ｜",
           "children": [],
@@ -381,27 +402,6 @@
               "tensorflow2",
               "time-series"
             ]
-          },
-          "first_seen": "2026-08-28T15:15:01.843Z"
-        },
-        {
-          "node_type": "item",
-          "title": "FourierKAN-GCF: Fourier Kolmogorov-Arnold Network--An Effective and Efficient Feature Transformation for Graph Collaborative Filtering",
-          "description": "｜ code ｜",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "[CIKM'25] Enhancing Graph Collaborative Filtering with FourierKAN Feature Transformation",
-            "homepage": "https://arxiv.org/abs/2406.01034",
-            "id": 808046100,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2025-12-02T06:38:14Z",
-            "open_issues": 1,
-            "owner": "Jinfeng-Xu",
-            "repo": "FKAN-GCF",
-            "stars": 46,
-            "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
         },
@@ -1071,6 +1071,27 @@
         },
         {
           "node_type": "item",
+          "title": "HKAN-LogAD: Hierarchical Kolmogorov-Arnold Networks for Log Anomaly Detection",
+          "description": "code | - An extension of HKAN, tailored to large-scale software-intensive systems log anomaly detection, yielding substantial gains in performance and controllability.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "The implementation of HKAN-LogAD: Hierarchical Kolmogorov-Arnold Networks for Log Anomaly Detection",
+            "homepage": null,
+            "id": 1137386733,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-02-16T12:24:01Z",
+            "open_issues": 0,
+            "owner": "aristotelisxs",
+            "repo": "hkan-logad",
+            "stars": 3,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T15:15:01.843Z"
+        },
+        {
+          "node_type": "item",
           "title": "Double-KANs: Enhancing KANs with simplified NURBS for accurate modeling of discontinuous signals",
           "description": "code - This paper introduces NURBS into KANs to enhance their capability in approximating abrupt signals while maintaining full compatibility with existing KAN-based architectures for seamless integration.Experiments across multiple tasks demonstrate that the proposed method consistently outperforms MLPs, vanilla KANs, and their variants.",
           "children": [],
@@ -1086,27 +1107,6 @@
             "owner": "baboonaaaa",
             "repo": "Double-KANs",
             "stars": 3,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T15:15:01.843Z"
-        },
-        {
-          "node_type": "item",
-          "title": "HKAN-LogAD: Hierarchical Kolmogorov-Arnold Networks for Log Anomaly Detection",
-          "description": "code | - An extension of HKAN, tailored to large-scale software-intensive systems log anomaly detection, yielding substantial gains in performance and controllability.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "The implementation of HKAN-LogAD: Hierarchical Kolmogorov-Arnold Networks for Log Anomaly Detection",
-            "homepage": null,
-            "id": 1137386733,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-02-16T12:24:01Z",
-            "open_issues": 0,
-            "owner": "aristotelisxs",
-            "repo": "hkan-logad",
-            "stars": 2,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -1255,7 +1255,7 @@
             "open_issues": 266,
             "owner": "KindXiaoming",
             "repo": "pykan",
-            "stars": 16332,
+            "stars": 16331,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -1276,7 +1276,7 @@
             "open_issues": 38,
             "owner": "Blealtan",
             "repo": "efficient-kan",
-            "stars": 4658,
+            "stars": 4657,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -1739,7 +1739,7 @@
             "id": 795826428,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-13T08:03:56Z",
+            "last_commit": "2026-10-14T07:08:29Z",
             "open_issues": 1,
             "owner": "Mattral",
             "repo": "KANX",
@@ -2708,7 +2708,7 @@
             "open_issues": 17,
             "owner": "pnnl",
             "repo": "neuromancer",
-            "stars": 1380,
+            "stars": 1381,
             "topics": [
               "constrained-optimization",
               "control-systems",
@@ -3231,7 +3231,7 @@
             "open_issues": 266,
             "owner": "KindXiaoming",
             "repo": "pykan",
-            "stars": 16332,
+            "stars": 16331,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -3252,7 +3252,7 @@
             "open_issues": 17,
             "owner": "pnnl",
             "repo": "neuromancer",
-            "stars": 1380,
+            "stars": 1381,
             "topics": [
               "constrained-optimization",
               "control-systems",
@@ -3511,7 +3511,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T10:24:38.719Z",
+    "last_updated": "2026-10-14T08:35:29.394Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive collection of KAN(Kolmogorov-Arnold Network)-related resources, including libraries, projects, tutorials, papers, and more, for researchers and developers in the Kolmogorov-Arnold Network field.",
