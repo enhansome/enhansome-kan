@@ -372,7 +372,7 @@
             "open_issues": 1,
             "owner": "Jinfeng-Xu",
             "repo": "FKAN-GCF",
-            "stars": 54,
+            "stars": 60,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -1191,7 +1191,7 @@
             "id": 1121227866,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-06-24T04:32:35Z",
+            "last_commit": "2026-10-15T00:03:25Z",
             "open_issues": 0,
             "owner": "alibayeh",
             "repo": "trukan",
@@ -1255,7 +1255,7 @@
             "open_issues": 266,
             "owner": "KindXiaoming",
             "repo": "pykan",
-            "stars": 16331,
+            "stars": 16332,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -2124,7 +2124,7 @@
             "id": 1121227866,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-06-24T04:32:35Z",
+            "last_commit": "2026-10-15T00:03:25Z",
             "open_issues": 0,
             "owner": "alibayeh",
             "repo": "trukan",
@@ -3231,7 +3231,7 @@
             "open_issues": 266,
             "owner": "KindXiaoming",
             "repo": "pykan",
-            "stars": 16331,
+            "stars": 16332,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -3347,7 +3347,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-04-22T13:57:25Z",
-            "open_issues": 5,
+            "open_issues": 9,
             "owner": "csinva",
             "repo": "imodelsX",
             "stars": 177,
@@ -3511,7 +3511,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T08:35:29.394Z",
+    "last_updated": "2026-10-15T08:11:08.568Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive collection of KAN(Kolmogorov-Arnold Network)-related resources, including libraries, projects, tutorials, papers, and more, for researchers and developers in the Kolmogorov-Arnold Network field.",
@@ -3523,7 +3523,7 @@
       "open_issues": 6,
       "owner": "mintisan",
       "repo": "awesome-kan",
-      "stars": 3295,
+      "stars": 3296,
       "topics": []
     },
     "original_repository_sha": "759e0be4d43cb861313f924a534f88849930c89f",
