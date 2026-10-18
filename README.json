@@ -351,7 +351,7 @@
             "open_issues": 1,
             "owner": "Jinfeng-Xu",
             "repo": "FKAN-GCF",
-            "stars": 72,
+            "stars": 86,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -1276,7 +1276,7 @@
             "open_issues": 38,
             "owner": "Blealtan",
             "repo": "efficient-kan",
-            "stars": 4658,
+            "stars": 4659,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -1634,7 +1634,7 @@
             "id": 989577719,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-01T17:19:10Z",
+            "last_commit": "2026-10-17T20:45:50Z",
             "open_issues": 0,
             "owner": "alexshtf",
             "repo": "torchcurves",
@@ -3511,7 +3511,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T07:41:27.852Z",
+    "last_updated": "2026-10-18T07:56:34.813Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive collection of KAN(Kolmogorov-Arnold Network)-related resources, including libraries, projects, tutorials, papers, and more, for researchers and developers in the Kolmogorov-Arnold Network field.",
