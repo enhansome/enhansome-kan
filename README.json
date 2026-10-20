@@ -15,11 +15,11 @@
             "id": 304116981,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-07T17:04:01Z",
+            "last_commit": "2026-10-20T00:40:28Z",
             "open_issues": 17,
             "owner": "pnnl",
             "repo": "neuromancer",
-            "stars": 1383,
+            "stars": 1382,
             "topics": [
               "constrained-optimization",
               "control-systems",
@@ -124,7 +124,7 @@
             "open_issues": 9,
             "owner": "IvanDrokin",
             "repo": "torch-conv-kan",
-            "stars": 531,
+            "stars": 532,
             "topics": [
               "computer-vision",
               "convolutional-neural-networks",
@@ -283,6 +283,27 @@
         },
         {
           "node_type": "item",
+          "title": "FourierKAN-GCF: Fourier Kolmogorov-Arnold Network--An Effective and Efficient Feature Transformation for Graph Collaborative Filtering",
+          "description": "｜ code ｜",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "[CIKM'25] Enhancing Graph Collaborative Filtering with FourierKAN Feature Transformation",
+            "homepage": "https://arxiv.org/abs/2406.01034",
+            "id": 808046100,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2025-12-02T06:38:14Z",
+            "open_issues": 1,
+            "owner": "Jinfeng-Xu",
+            "repo": "FKAN-GCF",
+            "stars": 108,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T15:15:01.843Z"
+        },
+        {
+          "node_type": "item",
           "title": "ReLU-KAN: New Kolmogorov-Arnold Networks that Only Need Matrix Addition, Dot Multiplication, and ReLU",
           "description": "｜ code ｜",
           "children": [],
@@ -298,27 +319,6 @@
             "owner": "quiqi",
             "repo": "relu_kan",
             "stars": 103,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T15:15:01.843Z"
-        },
-        {
-          "node_type": "item",
-          "title": "FourierKAN-GCF: Fourier Kolmogorov-Arnold Network--An Effective and Efficient Feature Transformation for Graph Collaborative Filtering",
-          "description": "｜ code ｜",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "[CIKM'25] Enhancing Graph Collaborative Filtering with FourierKAN Feature Transformation",
-            "homepage": "https://arxiv.org/abs/2406.01034",
-            "id": 808046100,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2025-12-02T06:38:14Z",
-            "open_issues": 1,
-            "owner": "Jinfeng-Xu",
-            "repo": "FKAN-GCF",
-            "stars": 98,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -1255,7 +1255,7 @@
             "open_issues": 266,
             "owner": "KindXiaoming",
             "repo": "pykan",
-            "stars": 16334,
+            "stars": 16335,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -2333,7 +2333,7 @@
                 "open_issues": 9,
                 "owner": "IvanDrokin",
                 "repo": "torch-conv-kan",
-                "stars": 531,
+                "stars": 532,
                 "topics": [
                   "computer-vision",
                   "convolutional-neural-networks",
@@ -2704,11 +2704,11 @@
             "id": 304116981,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-07T17:04:01Z",
+            "last_commit": "2026-10-20T00:40:28Z",
             "open_issues": 17,
             "owner": "pnnl",
             "repo": "neuromancer",
-            "stars": 1383,
+            "stars": 1382,
             "topics": [
               "constrained-optimization",
               "control-systems",
@@ -3231,7 +3231,7 @@
             "open_issues": 266,
             "owner": "KindXiaoming",
             "repo": "pykan",
-            "stars": 16334,
+            "stars": 16335,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -3248,11 +3248,11 @@
             "id": 304116981,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-07T17:04:01Z",
+            "last_commit": "2026-10-20T00:40:28Z",
             "open_issues": 17,
             "owner": "pnnl",
             "repo": "neuromancer",
-            "stars": 1383,
+            "stars": 1382,
             "topics": [
               "constrained-optimization",
               "control-systems",
@@ -3511,7 +3511,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T08:44:00.913Z",
+    "last_updated": "2026-10-20T08:24:13.500Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive collection of KAN(Kolmogorov-Arnold Network)-related resources, including libraries, projects, tutorials, papers, and more, for researchers and developers in the Kolmogorov-Arnold Network field.",
