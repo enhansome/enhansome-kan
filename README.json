@@ -15,11 +15,11 @@
             "id": 304116981,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-20T00:40:28Z",
-            "open_issues": 17,
+            "last_commit": "2026-10-21T18:40:42Z",
+            "open_issues": 16,
             "owner": "pnnl",
             "repo": "neuromancer",
-            "stars": 1382,
+            "stars": 1384,
             "topics": [
               "constrained-optimization",
               "control-systems",
@@ -235,6 +235,27 @@
         },
         {
           "node_type": "item",
+          "title": "FourierKAN-GCF: Fourier Kolmogorov-Arnold Network--An Effective and Efficient Feature Transformation for Graph Collaborative Filtering",
+          "description": "｜ code ｜",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "[CIKM'25] Enhancing Graph Collaborative Filtering with FourierKAN Feature Transformation",
+            "homepage": "https://arxiv.org/abs/2406.01034",
+            "id": 808046100,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2025-12-02T06:38:14Z",
+            "open_issues": 1,
+            "owner": "Jinfeng-Xu",
+            "repo": "FKAN-GCF",
+            "stars": 125,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T15:15:01.843Z"
+        },
+        {
+          "node_type": "item",
           "title": "KAN4TSF: Are KAN and KAN-based models Effective for Time Series Forecasting?",
           "description": "code |",
           "children": [],
@@ -250,27 +271,6 @@
             "owner": "smilehanCN",
             "repo": "EasyTSF",
             "stars": 119,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T15:15:01.843Z"
-        },
-        {
-          "node_type": "item",
-          "title": "FourierKAN-GCF: Fourier Kolmogorov-Arnold Network--An Effective and Efficient Feature Transformation for Graph Collaborative Filtering",
-          "description": "｜ code ｜",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "[CIKM'25] Enhancing Graph Collaborative Filtering with FourierKAN Feature Transformation",
-            "homepage": "https://arxiv.org/abs/2406.01034",
-            "id": 808046100,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2025-12-02T06:38:14Z",
-            "open_issues": 1,
-            "owner": "Jinfeng-Xu",
-            "repo": "FKAN-GCF",
-            "stars": 118,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -552,7 +552,7 @@
             "open_issues": 0,
             "owner": "alirezaafzalaghaei",
             "repo": "fKAN",
-            "stars": 32,
+            "stars": 33,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -1276,7 +1276,7 @@
             "open_issues": 38,
             "owner": "Blealtan",
             "repo": "efficient-kan",
-            "stars": 4657,
+            "stars": 4658,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -1638,7 +1638,7 @@
             "open_issues": 0,
             "owner": "alexshtf",
             "repo": "torchcurves",
-            "stars": 68,
+            "stars": 69,
             "topics": [
               "b-splines",
               "curve-fitting",
@@ -1762,6 +1762,27 @@
         },
         {
           "node_type": "item",
+          "title": "fKAN",
+          "description": "fKAN: Fractional Kolmogorov-Arnold Networks with trainable Jacobi basis functions |",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Implementation of Fractional Kolmogorov-Arnold Network (fKAN)",
+            "homepage": null,
+            "id": 813781750,
+            "language": "Python",
+            "license": "BSD-3-Clause",
+            "last_commit": "2025-01-17T19:14:04Z",
+            "open_issues": 0,
+            "owner": "alirezaafzalaghaei",
+            "repo": "fKAN",
+            "stars": 33,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T15:15:01.843Z"
+        },
+        {
+          "node_type": "item",
           "title": "BSRBF_KAN",
           "description": "Combine B-Spline (BS) and Radial Basic Function (RBF) in Kolmogorov-Arnold Networks (KANs) |",
           "children": [],
@@ -1786,27 +1807,6 @@
               "mnist",
               "radial-basis-function"
             ]
-          },
-          "first_seen": "2026-08-28T15:15:01.843Z"
-        },
-        {
-          "node_type": "item",
-          "title": "fKAN",
-          "description": "fKAN: Fractional Kolmogorov-Arnold Networks with trainable Jacobi basis functions |",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Implementation of Fractional Kolmogorov-Arnold Network (fKAN)",
-            "homepage": null,
-            "id": 813781750,
-            "language": "Python",
-            "license": "BSD-3-Clause",
-            "last_commit": "2025-01-17T19:14:04Z",
-            "open_issues": 0,
-            "owner": "alirezaafzalaghaei",
-            "repo": "fKAN",
-            "stars": 32,
-            "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
         },
@@ -2704,11 +2704,11 @@
             "id": 304116981,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-20T00:40:28Z",
-            "open_issues": 17,
+            "last_commit": "2026-10-21T18:40:42Z",
+            "open_issues": 16,
             "owner": "pnnl",
             "repo": "neuromancer",
-            "stars": 1382,
+            "stars": 1384,
             "topics": [
               "constrained-optimization",
               "control-systems",
@@ -3248,11 +3248,11 @@
             "id": 304116981,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-20T00:40:28Z",
-            "open_issues": 17,
+            "last_commit": "2026-10-21T18:40:42Z",
+            "open_issues": 16,
             "owner": "pnnl",
             "repo": "neuromancer",
-            "stars": 1382,
+            "stars": 1384,
             "topics": [
               "constrained-optimization",
               "control-systems",
@@ -3511,7 +3511,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T08:27:48.575Z",
+    "last_updated": "2026-10-22T08:29:53.303Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive collection of KAN(Kolmogorov-Arnold Network)-related resources, including libraries, projects, tutorials, papers, and more, for researchers and developers in the Kolmogorov-Arnold Network field.",
