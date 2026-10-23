@@ -15,11 +15,11 @@
             "id": 304116981,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-21T18:40:42Z",
-            "open_issues": 16,
+            "last_commit": "2026-10-22T16:14:02Z",
+            "open_issues": 18,
             "owner": "pnnl",
             "repo": "neuromancer",
-            "stars": 1384,
+            "stars": 1383,
             "topics": [
               "constrained-optimization",
               "control-systems",
@@ -249,7 +249,7 @@
             "open_issues": 1,
             "owner": "Jinfeng-Xu",
             "repo": "FKAN-GCF",
-            "stars": 125,
+            "stars": 131,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -1255,7 +1255,7 @@
             "open_issues": 266,
             "owner": "KindXiaoming",
             "repo": "pykan",
-            "stars": 16335,
+            "stars": 16336,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -1739,8 +1739,8 @@
             "id": 795826428,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-14T07:08:29Z",
-            "open_issues": 1,
+            "last_commit": "2026-10-23T08:02:22Z",
+            "open_issues": 2,
             "owner": "Mattral",
             "repo": "KANX",
             "stars": 38,
@@ -2704,11 +2704,11 @@
             "id": 304116981,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-21T18:40:42Z",
-            "open_issues": 16,
+            "last_commit": "2026-10-22T16:14:02Z",
+            "open_issues": 18,
             "owner": "pnnl",
             "repo": "neuromancer",
-            "stars": 1384,
+            "stars": 1383,
             "topics": [
               "constrained-optimization",
               "control-systems",
@@ -3231,7 +3231,7 @@
             "open_issues": 266,
             "owner": "KindXiaoming",
             "repo": "pykan",
-            "stars": 16335,
+            "stars": 16336,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -3248,11 +3248,11 @@
             "id": 304116981,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-21T18:40:42Z",
-            "open_issues": 16,
+            "last_commit": "2026-10-22T16:14:02Z",
+            "open_issues": 18,
             "owner": "pnnl",
             "repo": "neuromancer",
-            "stars": 1384,
+            "stars": 1383,
             "topics": [
               "constrained-optimization",
               "control-systems",
@@ -3511,7 +3511,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T08:29:53.303Z",
+    "last_updated": "2026-10-23T08:26:27.234Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive collection of KAN(Kolmogorov-Arnold Network)-related resources, including libraries, projects, tutorials, papers, and more, for researchers and developers in the Kolmogorov-Arnold Network field.",
@@ -3520,10 +3520,10 @@
       "language": null,
       "license": null,
       "last_commit": "2026-10-13T02:22:19Z",
-      "open_issues": 6,
+      "open_issues": 7,
       "owner": "mintisan",
       "repo": "awesome-kan",
-      "stars": 3294,
+      "stars": 3295,
       "topics": []
     },
     "original_repository_sha": "759e0be4d43cb861313f924a534f88849930c89f",
