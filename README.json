@@ -103,7 +103,7 @@
             "open_issues": 41,
             "owner": "CUHK-AIM-Group",
             "repo": "U-KAN",
-            "stars": 561,
+            "stars": 560,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -124,7 +124,7 @@
             "open_issues": 9,
             "owner": "IvanDrokin",
             "repo": "torch-conv-kan",
-            "stars": 532,
+            "stars": 531,
             "topics": [
               "computer-vision",
               "convolutional-neural-networks",
@@ -207,7 +207,7 @@
             "open_issues": 0,
             "owner": "yizheng-wang",
             "repo": "Research-on-Solving-Partial-Differential-Equations-of-Solid-Mechanics-Based-on-PINN",
-            "stars": 224,
+            "stars": 225,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -1255,7 +1255,7 @@
             "open_issues": 266,
             "owner": "KindXiaoming",
             "repo": "pykan",
-            "stars": 16334,
+            "stars": 16335,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -1276,7 +1276,7 @@
             "open_issues": 38,
             "owner": "Blealtan",
             "repo": "efficient-kan",
-            "stars": 4659,
+            "stars": 4660,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -2333,7 +2333,7 @@
                 "open_issues": 9,
                 "owner": "IvanDrokin",
                 "repo": "torch-conv-kan",
-                "stars": 532,
+                "stars": 531,
                 "topics": [
                   "computer-vision",
                   "convolutional-neural-networks",
@@ -3231,7 +3231,7 @@
             "open_issues": 266,
             "owner": "KindXiaoming",
             "repo": "pykan",
-            "stars": 16334,
+            "stars": 16335,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -3484,7 +3484,7 @@
                 "open_issues": 41,
                 "owner": "gongminmin",
                 "repo": "KlayGE",
-                "stars": 2176,
+                "stars": 2177,
                 "topics": [
                   "cross-platform",
                   "d3d11",
@@ -3511,7 +3511,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T08:01:22.975Z",
+    "last_updated": "2026-10-25T08:18:33.487Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive collection of KAN(Kolmogorov-Arnold Network)-related resources, including libraries, projects, tutorials, papers, and more, for researchers and developers in the Kolmogorov-Arnold Network field.",
