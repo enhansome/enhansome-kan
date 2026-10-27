@@ -174,7 +174,7 @@
             "open_issues": 1,
             "owner": "remigenet",
             "repo": "TKAN",
-            "stars": 227,
+            "stars": 228,
             "topics": [
               "jax",
               "keras",
@@ -270,7 +270,7 @@
             "open_issues": 0,
             "owner": "smilehanCN",
             "repo": "EasyTSF",
-            "stars": 119,
+            "stars": 120,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -428,6 +428,31 @@
         },
         {
           "node_type": "item",
+          "title": "CoxKAN: Kolmogorov-Arnold Networks for Interpretable, High-Performance Survival Analysis",
+          "description": "CoxKAN is a novel framework for survival analysis based on Kolmogorov-Arnold Networks, which combines both interpretability and high performance. CoxKAN outperforms traditional models like the Cox proportional hazards model and rivals deep learning-based models, but with the advantage of interpretability, making it more useful in medical settings where understanding the underlying risk factors and relationships is essential. We find that CoxKAN extracts complex interactions between predictor variables and identifies the precise effect of important biomarkers on patient survival. | code ｜",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "CoxKAN: Kolmogorov-Arnold Networks for Interpretable, High-Performance Survival Analysis",
+            "homepage": "https://pubmed.ncbi.nlm.nih.gov/40685627/",
+            "id": 844461570,
+            "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
+            "last_commit": "2025-09-20T16:15:53Z",
+            "open_issues": 0,
+            "owner": "knottwill",
+            "repo": "CoxKAN",
+            "stars": 41,
+            "topics": [
+              "kolmogorov-arnold-networks",
+              "pytorch",
+              "survival-analysis"
+            ]
+          },
+          "first_seen": "2026-08-28T15:15:01.843Z"
+        },
+        {
+          "node_type": "item",
           "title": "FC-KAN: Function Combinations in Kolmogorov-Arnold Networks",
           "description": "code |",
           "children": [],
@@ -451,31 +476,6 @@
               "kolmogorov-arnold-networks",
               "radial-basis-function",
               "wavelets"
-            ]
-          },
-          "first_seen": "2026-08-28T15:15:01.843Z"
-        },
-        {
-          "node_type": "item",
-          "title": "CoxKAN: Kolmogorov-Arnold Networks for Interpretable, High-Performance Survival Analysis",
-          "description": "CoxKAN is a novel framework for survival analysis based on Kolmogorov-Arnold Networks, which combines both interpretability and high performance. CoxKAN outperforms traditional models like the Cox proportional hazards model and rivals deep learning-based models, but with the advantage of interpretability, making it more useful in medical settings where understanding the underlying risk factors and relationships is essential. We find that CoxKAN extracts complex interactions between predictor variables and identifies the precise effect of important biomarkers on patient survival. | code ｜",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "CoxKAN: Kolmogorov-Arnold Networks for Interpretable, High-Performance Survival Analysis",
-            "homepage": "https://pubmed.ncbi.nlm.nih.gov/40685627/",
-            "id": 844461570,
-            "language": "Jupyter Notebook",
-            "license": "Apache-2.0",
-            "last_commit": "2025-09-20T16:15:53Z",
-            "open_issues": 0,
-            "owner": "knottwill",
-            "repo": "CoxKAN",
-            "stars": 40,
-            "topics": [
-              "kolmogorov-arnold-networks",
-              "pytorch",
-              "survival-analysis"
             ]
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -1255,7 +1255,7 @@
             "open_issues": 266,
             "owner": "KindXiaoming",
             "repo": "pykan",
-            "stars": 16335,
+            "stars": 16336,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -1276,7 +1276,7 @@
             "open_issues": 39,
             "owner": "Blealtan",
             "repo": "efficient-kan",
-            "stars": 4660,
+            "stars": 4661,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -1423,7 +1423,7 @@
             "open_issues": 1,
             "owner": "remigenet",
             "repo": "TKAN",
-            "stars": 227,
+            "stars": 228,
             "topics": [
               "jax",
               "keras",
@@ -1739,8 +1739,8 @@
             "id": 795826428,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-23T08:02:22Z",
-            "open_issues": 2,
+            "last_commit": "2026-10-27T06:56:45Z",
+            "open_issues": 3,
             "owner": "Mattral",
             "repo": "KANX",
             "stars": 38,
@@ -3231,7 +3231,7 @@
             "open_issues": 266,
             "owner": "KindXiaoming",
             "repo": "pykan",
-            "stars": 16335,
+            "stars": 16336,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -3511,7 +3511,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T08:46:10.336Z",
+    "last_updated": "2026-10-27T08:51:50.506Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive collection of KAN(Kolmogorov-Arnold Network)-related resources, including libraries, projects, tutorials, papers, and more, for researchers and developers in the Kolmogorov-Arnold Network field.",
@@ -3523,7 +3523,7 @@
       "open_issues": 7,
       "owner": "mintisan",
       "repo": "awesome-kan",
-      "stars": 3295,
+      "stars": 3294,
       "topics": []
     },
     "original_repository_sha": "759e0be4d43cb861313f924a534f88849930c89f",
