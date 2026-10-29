@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-10-22T16:14:02Z",
-            "open_issues": 18,
+            "open_issues": 19,
             "owner": "pnnl",
             "repo": "neuromancer",
-            "stars": 1391,
+            "stars": 1396,
             "topics": [
               "constrained-optimization",
               "control-systems",
@@ -103,7 +103,7 @@
             "open_issues": 41,
             "owner": "CUHK-AIM-Group",
             "repo": "U-KAN",
-            "stars": 561,
+            "stars": 562,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -2705,10 +2705,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-10-22T16:14:02Z",
-            "open_issues": 18,
+            "open_issues": 19,
             "owner": "pnnl",
             "repo": "neuromancer",
-            "stars": 1391,
+            "stars": 1396,
             "topics": [
               "constrained-optimization",
               "control-systems",
@@ -3249,10 +3249,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-10-22T16:14:02Z",
-            "open_issues": 18,
+            "open_issues": 19,
             "owner": "pnnl",
             "repo": "neuromancer",
-            "stars": 1391,
+            "stars": 1396,
             "topics": [
               "constrained-optimization",
               "control-systems",
@@ -3484,7 +3484,7 @@
                 "open_issues": 41,
                 "owner": "gongminmin",
                 "repo": "KlayGE",
-                "stars": 2177,
+                "stars": 2176,
                 "topics": [
                   "cross-platform",
                   "d3d11",
@@ -3511,7 +3511,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T09:31:41.523Z",
+    "last_updated": "2026-10-29T09:46:21.863Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive collection of KAN(Kolmogorov-Arnold Network)-related resources, including libraries, projects, tutorials, papers, and more, for researchers and developers in the Kolmogorov-Arnold Network field.",
