@@ -124,7 +124,7 @@
             "open_issues": 9,
             "owner": "IvanDrokin",
             "repo": "torch-conv-kan",
-            "stars": 531,
+            "stars": 532,
             "topics": [
               "computer-vision",
               "convolutional-neural-networks",
@@ -207,7 +207,7 @@
             "open_issues": 0,
             "owner": "yizheng-wang",
             "repo": "Research-on-Solving-Partial-Differential-Equations-of-Solid-Mechanics-Based-on-PINN",
-            "stars": 225,
+            "stars": 226,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -228,7 +228,7 @@
             "open_issues": 6,
             "owner": "yu-rp",
             "repo": "KANbeFair",
-            "stars": 187,
+            "stars": 188,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -499,10 +499,15 @@
             "stars": 34,
             "topics": [
               "b-splines",
+              "bsrbf-kan",
+              "efficientkan",
+              "fasterkan",
+              "fastkan",
               "function-fitting",
               "image-classification",
               "kolmogorov-arnold-networks",
               "radial-basis-function",
+              "sechkan",
               "wavelets"
             ]
           },
@@ -527,10 +532,15 @@
             "stars": 34,
             "topics": [
               "b-splines",
+              "bsrbf-kan",
+              "efficientkan",
+              "fasterkan",
+              "fastkan",
               "function-fitting",
               "image-classification",
               "kolmogorov-arnold-networks",
               "radial-basis-function",
+              "sechkan",
               "wavelets"
             ]
           },
@@ -609,34 +619,6 @@
         },
         {
           "node_type": "item",
-          "title": "Kolmogorov-Arnold Fourier Networks",
-          "description": "This paper introduces Kolmogorov-Arnold Fourier Networks (KAF), a novel type of neural network that combines the Kolmogorov-Arnold representation theorem with Fourier series. KAF can be regarded as an extension of KAN, where the activation function is substituted with a combination of Fourier series and traditional activation functions. This paper evaluated the performance of simple CV, NLP, audio, and ML tasks on Kanbefair, and conducted experiments on various tasks such as ViT, GPT2, and PDE solving.Achieve good performance on most tasks.| code",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "KAF : Kolmogorov-Arnold Fourier Networks",
-            "homepage": "https://arxiv.org/abs/2502.06018",
-            "id": 925171741,
-            "language": "Jupyter Notebook",
-            "license": null,
-            "last_commit": "2025-02-19T13:20:05Z",
-            "open_issues": 2,
-            "owner": "kolmogorovArnoldFourierNetwork",
-            "repo": "KAF",
-            "stars": 24,
-            "topics": [
-              "computer-vision",
-              "deep-learning",
-              "kolmogorov-arnold-networks",
-              "machine-learning",
-              "natural-language-processing",
-              "pytorch"
-            ]
-          },
-          "first_seen": "2026-08-28T15:15:01.843Z"
-        },
-        {
-          "node_type": "item",
           "title": "TC-KANRecon: High-Quality and Accelerated MRI Reconstruction via Adaptive KAN Mechanisms and Intelligent Feature Scaling",
           "description": "code |",
           "children": [],
@@ -653,6 +635,34 @@
             "repo": "TC-KANRecon",
             "stars": 24,
             "topics": []
+          },
+          "first_seen": "2026-08-28T15:15:01.843Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Kolmogorov-Arnold Fourier Networks",
+          "description": "This paper introduces Kolmogorov-Arnold Fourier Networks (KAF), a novel type of neural network that combines the Kolmogorov-Arnold representation theorem with Fourier series. KAF can be regarded as an extension of KAN, where the activation function is substituted with a combination of Fourier series and traditional activation functions. This paper evaluated the performance of simple CV, NLP, audio, and ML tasks on Kanbefair, and conducted experiments on various tasks such as ViT, GPT2, and PDE solving.Achieve good performance on most tasks.| code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "KAF : Kolmogorov-Arnold Fourier Networks",
+            "homepage": "https://arxiv.org/abs/2502.06018",
+            "id": 925171741,
+            "language": "Jupyter Notebook",
+            "license": null,
+            "last_commit": "2025-02-19T13:20:05Z",
+            "open_issues": 2,
+            "owner": "kolmogorovArnoldFourierNetwork",
+            "repo": "KAF",
+            "stars": 23,
+            "topics": [
+              "computer-vision",
+              "deep-learning",
+              "kolmogorov-arnold-networks",
+              "machine-learning",
+              "natural-language-processing",
+              "pytorch"
+            ]
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
         },
@@ -896,7 +906,7 @@
             "open_issues": 1,
             "owner": "OSU-STARLAB",
             "repo": "FlashKAT",
-            "stars": 15,
+            "stars": 14,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -1255,7 +1265,7 @@
             "open_issues": 266,
             "owner": "KindXiaoming",
             "repo": "pykan",
-            "stars": 16337,
+            "stars": 16341,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -1276,7 +1286,7 @@
             "open_issues": 39,
             "owner": "Blealtan",
             "repo": "efficient-kan",
-            "stars": 4660,
+            "stars": 4661,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -2333,7 +2343,7 @@
                 "open_issues": 9,
                 "owner": "IvanDrokin",
                 "repo": "torch-conv-kan",
-                "stars": 531,
+                "stars": 532,
                 "topics": [
                   "computer-vision",
                   "convolutional-neural-networks",
@@ -3231,7 +3241,7 @@
             "open_issues": 266,
             "owner": "KindXiaoming",
             "repo": "pykan",
-            "stars": 16337,
+            "stars": 16341,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -3484,7 +3494,7 @@
                 "open_issues": 41,
                 "owner": "gongminmin",
                 "repo": "KlayGE",
-                "stars": 2176,
+                "stars": 2175,
                 "topics": [
                   "cross-platform",
                   "d3d11",
@@ -3511,7 +3521,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T09:46:21.863Z",
+    "last_updated": "2026-10-30T09:51:38.896Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive collection of KAN(Kolmogorov-Arnold Network)-related resources, including libraries, projects, tutorials, papers, and more, for researchers and developers in the Kolmogorov-Arnold Network field.",
