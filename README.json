@@ -496,7 +496,7 @@
             "open_issues": 0,
             "owner": "hoangthangta",
             "repo": "All-KAN",
-            "stars": 35,
+            "stars": 36,
             "topics": [
               "b-splines",
               "bsrbf-kan",
@@ -529,7 +529,7 @@
             "open_issues": 0,
             "owner": "hoangthangta",
             "repo": "All-KAN",
-            "stars": 35,
+            "stars": 36,
             "topics": [
               "b-splines",
               "bsrbf-kan",
@@ -1265,7 +1265,7 @@
             "open_issues": 266,
             "owner": "KindXiaoming",
             "repo": "pykan",
-            "stars": 16340,
+            "stars": 16339,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -3241,7 +3241,7 @@
             "open_issues": 266,
             "owner": "KindXiaoming",
             "repo": "pykan",
-            "stars": 16340,
+            "stars": 16339,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -3521,7 +3521,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T09:29:53.208Z",
+    "last_updated": "2026-11-01T10:20:09.202Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive collection of KAN(Kolmogorov-Arnold Network)-related resources, including libraries, projects, tutorials, papers, and more, for researchers and developers in the Kolmogorov-Arnold Network field.",
