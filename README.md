@@ -119,7 +119,7 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 ## Library
 
 * [pykan](https://github.com/KindXiaoming/pykan) ⭐ 16,339 | 🐛 266 | 🌐 Jupyter Notebook | 📅 2025-01-19 : Offical implementation for Kolmogorov Arnold Networks ｜ ![Github stars](https://img.shields.io/github/stars/KindXiaoming/pykan.svg)
-* [efficient-kan](https://github.com/Blealtan/efficient-kan) ⭐ 4,661 | 🐛 39 | 🌐 Python | 📅 2024-08-01 : An efficient pure-PyTorch implementation of Kolmogorov-Arnold Network (KAN). ｜ ![Github stars](https://img.shields.io/github/stars/Blealtan/efficient-kan.svg)
+* [efficient-kan](https://github.com/Blealtan/efficient-kan) ⭐ 4,662 | 🐛 39 | 🌐 Python | 📅 2024-08-01 : An efficient pure-PyTorch implementation of Kolmogorov-Arnold Network (KAN). ｜ ![Github stars](https://img.shields.io/github/stars/Blealtan/efficient-kan.svg)
 * [FourierKAN](https://github.com/GistNoesis/FourierKAN/) ⭐ 753 | 🐛 3 | 🌐 Python | 📅 2024-05-24 : Pytorch Layer for FourierKAN. It is a layer intended to be a substitution for Linear + non-linear activation |  ![Github stars](https://img.shields.io/github/stars/GistNoesis/FourierKAN.svg)
 * [FastKAN](https://github.com/ZiyaoLi/fast-kan) ⭐ 498 | 🐛 7 | 🌐 Jupyter Notebook | 📅 2024-06-20 : Very Fast Calculation of Kolmogorov-Arnold Networks (KAN)  ｜ ![Github stars](https://img.shields.io/github/stars/ZiyaoLi/fast-kan.svg)
 * [ChebyKAN](https://github.com/SynodicMonth/ChebyKAN) ⭐ 417 | 🐛 11 | 🌐 Jupyter Notebook | 📅 2024-05-13 : Kolmogorov-Arnold Networks (KAN) using Chebyshev polynomials instead of B-splines. ｜ ![Github stars](https://img.shields.io/github/stars/SynodicMonth/ChebyKAN.svg)
@@ -176,7 +176,7 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 * [convkan](https://github.com/StarostinV/convkan) ⭐ 121 | 🐛 4 | 🌐 Python | 📅 2025-03-25 : Implementation of convolutional layer version of KAN (drop-in replacement of Conv2d) ｜ ![Github stars](https://img.shields.io/github/stars/StarostinV/convkan.svg)
 * [CNN-KAN](https://github.com/jakariaemon/CNN-KAN) ⭐ 82 | 🐛 3 | 🌐 Python | 📅 2024-05-23 : A modified CNN architecture using Kolmogorov-Arnold Networks | ![Github stars](https://img.shields.io/github/stars/jakariaemon/CNN-KAN.svg)
 * [KA-Conv](https://github.com/XiangboGaoBarry/KA-Conv) ⭐ 67 | 🐛 2 | 🌐 Python | 📅 2024-05-15 : Kolmogorov-Arnold Convolutional Networks with Various Basis Functions (Optimization for Efficiency and GPU memory usage) | ![Github stars](https://img.shields.io/github/stars/XiangboGaoBarry/KA-Conv.svg)
-* [KAN-Conv2D](https://github.com/omarrayyann/KAN-Conv2D) ⭐ 21 | 🐛 0 | 🌐 Python | 📅 2024-05-23 : Drop-in Convolutional KAN built on multiple implementations ([Original pykan](https://github.com/KindXiaoming/pykan) ⭐ 16,339 | 🐛 266 | 🌐 Jupyter Notebook | 📅 2025-01-19 / [efficient-kan](https://github.com/Blealtan/efficient-kan) ⭐ 4,661 | 🐛 39 | 🌐 Python | 📅 2024-08-01 / [FastKAN](https://github.com/ZiyaoLi/fast-kan) ⭐ 498 | 🐛 7 | 🌐 Jupyter Notebook | 📅 2024-06-20) to support the original paper hyperparameters. | ![Github stars](https://img.shields.io/github/stars/omarrayyann/KAN-Conv2D.svg)
+* [KAN-Conv2D](https://github.com/omarrayyann/KAN-Conv2D) ⭐ 21 | 🐛 0 | 🌐 Python | 📅 2024-05-23 : Drop-in Convolutional KAN built on multiple implementations ([Original pykan](https://github.com/KindXiaoming/pykan) ⭐ 16,339 | 🐛 266 | 🌐 Jupyter Notebook | 📅 2025-01-19 / [efficient-kan](https://github.com/Blealtan/efficient-kan) ⭐ 4,662 | 🐛 39 | 🌐 Python | 📅 2024-08-01 / [FastKAN](https://github.com/ZiyaoLi/fast-kan) ⭐ 498 | 🐛 7 | 🌐 Jupyter Notebook | 📅 2024-06-20) to support the original paper hyperparameters. | ![Github stars](https://img.shields.io/github/stars/omarrayyann/KAN-Conv2D.svg)
 * [ConvKAN3D](https://github.com/FirasBDarwish/ConvKAN3D) ⭐ 14 | 🐛 1 | 🌐 Python | 📅 2024-05-25 : 3D Convolutional Layer built on top of the efficient-kan implementation (importable Python package from PyPi), drop-in replacement of Conv3d.
 
 ### Benchmark
@@ -300,4 +300,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
