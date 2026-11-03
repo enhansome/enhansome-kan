@@ -1,6 +1,6 @@
 # Awesome KAN(Kolmogorov-Arnold Network) with stars
 
-![Awesome](https://awesome.re/badge.svg) [![Contributions](https://img.shields.io/github/issues-pr-closed-raw/mintisan/awesome-kan.svg?label=contributions)](https://github.com/mintisan/awesome-kan/pulls) [![Commits](https://img.shields.io/github/last-commit/mintisan/awesome-kan.svg?label=last%20contribution)](https://github.com/gigwegbe/tinyml-papers-and-projects/commits/main) ⭐ 1,036 | 🐛 3 | 📅 2025-12-08 ![GitHub stars](https://img.shields.io/github/stars/mintisan/awesome-kan.svg?style=social)
+![Awesome](https://awesome.re/badge.svg) [![Contributions](https://img.shields.io/github/issues-pr-closed-raw/mintisan/awesome-kan.svg?label=contributions)](https://github.com/mintisan/awesome-kan/pulls) [![Commits](https://img.shields.io/github/last-commit/mintisan/awesome-kan.svg?label=last%20contribution)](https://github.com/gigwegbe/tinyml-papers-and-projects/commits/main) ⭐ 1,035 | 🐛 3 | 📅 2025-12-08 ![GitHub stars](https://img.shields.io/github/stars/mintisan/awesome-kan.svg?style=social)
 
 A curated list of awesome libraries, projects, tutorials, papers, and other resources related to Kolmogorov-Arnold Network (KAN). This repository aims to be a comprehensive and organized collection that will help researchers and developers in the world of KAN!
 
@@ -29,7 +29,7 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 ## Papers
 
 * [Finite basis Kolmogorov-Arnold networks: domain decomposition for data-driven and physics-informed problems](https://arxiv.org/abs/2406.19662) | [code](https://github.com/pnnl/neuromancer/tree/feature/fbkans/examples/KANs) ⭐ 1,397 | 🐛 19 | 🌐 Python | 📅 2026-10-22 | ![Github stars](https://img.shields.io/github/stars/pnnl/neuromancer.svg)
-* [Convolutional Kolmogorov-Arnold Networks](https://arxiv.org/abs/2406.13155) | [code](https://github.com/AntonioTepsich/Convolutional-KANs) ⭐ 920 | 🐛 13 | 🌐 Jupyter Notebook | 📅 2025-04-08 ｜ ![Github stars](https://img.shields.io/github/stars/AntonioTepsich/Convolutional-KANs.svg)
+* [Convolutional Kolmogorov-Arnold Networks](https://arxiv.org/abs/2406.13155) | [code](https://github.com/AntonioTepsich/Convolutional-KANs) ⭐ 919 | 🐛 13 | 🌐 Jupyter Notebook | 📅 2025-04-08 ｜ ![Github stars](https://img.shields.io/github/stars/AntonioTepsich/Convolutional-KANs.svg)
 * [Kolmogorov-Arnold Transformer](https://arxiv.org/abs/2409.10594) KAN was strong but faced scalability issues. KAT tackle this with 3 simple tricks. By combining KAN with Transformers, we've built a much stronger and more scalable model. | [code](https://github.com/Adamdad/kat) ⭐ 849 | 🐛 16 | 🌐 Python | 📅 2025-03-23 ![Github starts](https://img.shields.io/github/stars/adamdad/kat.svg)
 * [U-KAN Makes Strong Backbone for Medical Image Segmentation and Generation](https://arxiv.org/abs/2406.02918)｜ [code](https://github.com/CUHK-AIM-Group/U-KAN) ⭐ 562 | 🐛 41 | 🌐 Python | 📅 2025-06-23 ｜ ![Github stars](https://img.shields.io/github/stars/CUHK-AIM-Group/U-KAN.svg)
 * [Kolmogorov-Arnold Convolutions: Design Principles and Empirical Studies](https://arxiv.org/abs/2407.01092) | [code](https://github.com/IvanDrokin/torch-conv-kan) ⭐ 532 | 🐛 9 | 🌐 Python | 📅 2026-08-20 ｜ ![Github stars](https://img.shields.io/github/stars/IvanDrokin/torch-conv-kan.svg)
@@ -171,7 +171,7 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 
 ### ConvKANs
 
-* [Convolutional-KANs](https://github.com/AntonioTepsich/Convolutional-KANs) ⭐ 920 | 🐛 13 | 🌐 Jupyter Notebook | 📅 2025-04-08 : This project extends the idea of the innovative architecture of Kolmogorov-Arnold Networks (KAN) to the Convolutional Layers, changing the classic linear transformation of the convolution to non linear activations in each pixel. ｜ ![Github stars](https://img.shields.io/github/stars/AntonioTepsich/Convolutional-KANs.svg)
+* [Convolutional-KANs](https://github.com/AntonioTepsich/Convolutional-KANs) ⭐ 919 | 🐛 13 | 🌐 Jupyter Notebook | 📅 2025-04-08 : This project extends the idea of the innovative architecture of Kolmogorov-Arnold Networks (KAN) to the Convolutional Layers, changing the classic linear transformation of the convolution to non linear activations in each pixel. ｜ ![Github stars](https://img.shields.io/github/stars/AntonioTepsich/Convolutional-KANs.svg)
 * [Torch Conv KAN](https://github.com/IvanDrokin/torch-conv-kan) ⭐ 532 | 🐛 9 | 🌐 Python | 📅 2026-08-20 : This repository implements Convolutional Kolmogorov-Arnold Layers with various basis functions. The repository includes implementations of 1D, 2D, and 3D convolutions with different kernels, ResNet-like, Unet-like, and DenseNet-like models, training code based on accelerate/PyTorch, and scripts for experiments with CIFAR-10/100, Tiny ImageNet and ImageNet1k. Pretrained weights on ImageNet1k are also available ｜ ![Github stars](https://img.shields.io/github/stars/IvanDrokin/torch-conv-kan.svg)
 * [convkan](https://github.com/StarostinV/convkan) ⭐ 121 | 🐛 4 | 🌐 Python | 📅 2025-03-25 : Implementation of convolutional layer version of KAN (drop-in replacement of Conv2d) ｜ ![Github stars](https://img.shields.io/github/stars/StarostinV/convkan.svg)
 * [CNN-KAN](https://github.com/jakariaemon/CNN-KAN) ⭐ 82 | 🐛 3 | 🌐 Python | 📅 2024-05-23 : A modified CNN architecture using Kolmogorov-Arnold Networks | ![Github stars](https://img.shields.io/github/stars/jakariaemon/CNN-KAN.svg)
@@ -300,4 +300,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._

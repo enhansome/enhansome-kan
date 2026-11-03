@@ -52,7 +52,7 @@
             "open_issues": 13,
             "owner": "AntonioTepsich",
             "repo": "Convolutional-KANs",
-            "stars": 920,
+            "stars": 919,
             "topics": [
               "cnn",
               "computer-vision",
@@ -2318,7 +2318,7 @@
                 "open_issues": 13,
                 "owner": "AntonioTepsich",
                 "repo": "Convolutional-KANs",
-                "stars": 920,
+                "stars": 919,
                 "topics": [
                   "cnn",
                   "computer-vision",
@@ -3521,7 +3521,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T10:52:15.199Z",
+    "last_updated": "2026-11-03T10:42:45.273Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive collection of KAN(Kolmogorov-Arnold Network)-related resources, including libraries, projects, tutorials, papers, and more, for researchers and developers in the Kolmogorov-Arnold Network field.",
@@ -3533,7 +3533,7 @@
       "open_issues": 7,
       "owner": "mintisan",
       "repo": "awesome-kan",
-      "stars": 3294,
+      "stars": 3295,
       "topics": []
     },
     "original_repository_sha": "759e0be4d43cb861313f924a534f88849930c89f",
