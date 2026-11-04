@@ -77,7 +77,7 @@
             "open_issues": 16,
             "owner": "Adamdad",
             "repo": "kat",
-            "stars": 849,
+            "stars": 847,
             "topics": [
               "computer-vision",
               "kan",
@@ -1265,7 +1265,7 @@
             "open_issues": 266,
             "owner": "KindXiaoming",
             "repo": "pykan",
-            "stars": 16339,
+            "stars": 16340,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -3241,7 +3241,7 @@
             "open_issues": 266,
             "owner": "KindXiaoming",
             "repo": "pykan",
-            "stars": 16339,
+            "stars": 16340,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -3494,7 +3494,7 @@
                 "open_issues": 41,
                 "owner": "gongminmin",
                 "repo": "KlayGE",
-                "stars": 2175,
+                "stars": 2173,
                 "topics": [
                   "cross-platform",
                   "d3d11",
@@ -3521,7 +3521,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T10:42:45.273Z",
+    "last_updated": "2026-11-04T10:44:59.082Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive collection of KAN(Kolmogorov-Arnold Network)-related resources, including libraries, projects, tutorials, papers, and more, for researchers and developers in the Kolmogorov-Arnold Network field.",
