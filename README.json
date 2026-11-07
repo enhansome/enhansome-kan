@@ -19,7 +19,7 @@
             "open_issues": 19,
             "owner": "pnnl",
             "repo": "neuromancer",
-            "stars": 1398,
+            "stars": 1399,
             "topics": [
               "constrained-optimization",
               "control-systems",
@@ -52,7 +52,7 @@
             "open_issues": 13,
             "owner": "AntonioTepsich",
             "repo": "Convolutional-KANs",
-            "stars": 919,
+            "stars": 920,
             "topics": [
               "cnn",
               "computer-vision",
@@ -1265,7 +1265,7 @@
             "open_issues": 266,
             "owner": "KindXiaoming",
             "repo": "pykan",
-            "stars": 16341,
+            "stars": 16340,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -1286,7 +1286,7 @@
             "open_issues": 39,
             "owner": "Blealtan",
             "repo": "efficient-kan",
-            "stars": 4663,
+            "stars": 4662,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -2318,7 +2318,7 @@
                 "open_issues": 13,
                 "owner": "AntonioTepsich",
                 "repo": "Convolutional-KANs",
-                "stars": 919,
+                "stars": 920,
                 "topics": [
                   "cnn",
                   "computer-vision",
@@ -2718,7 +2718,7 @@
             "open_issues": 19,
             "owner": "pnnl",
             "repo": "neuromancer",
-            "stars": 1398,
+            "stars": 1399,
             "topics": [
               "constrained-optimization",
               "control-systems",
@@ -3241,7 +3241,7 @@
             "open_issues": 266,
             "owner": "KindXiaoming",
             "repo": "pykan",
-            "stars": 16341,
+            "stars": 16340,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -3262,7 +3262,7 @@
             "open_issues": 19,
             "owner": "pnnl",
             "repo": "neuromancer",
-            "stars": 1398,
+            "stars": 1399,
             "topics": [
               "constrained-optimization",
               "control-systems",
@@ -3521,7 +3521,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T10:41:43.923Z",
+    "last_updated": "2026-11-07T09:53:33.859Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive collection of KAN(Kolmogorov-Arnold Network)-related resources, including libraries, projects, tutorials, papers, and more, for researchers and developers in the Kolmogorov-Arnold Network field.",
