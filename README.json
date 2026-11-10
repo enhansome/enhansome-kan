@@ -52,7 +52,7 @@
             "open_issues": 13,
             "owner": "AntonioTepsich",
             "repo": "Convolutional-KANs",
-            "stars": 920,
+            "stars": 921,
             "topics": [
               "cnn",
               "computer-vision",
@@ -77,7 +77,7 @@
             "open_issues": 16,
             "owner": "Adamdad",
             "repo": "kat",
-            "stars": 847,
+            "stars": 849,
             "topics": [
               "computer-vision",
               "kan",
@@ -103,7 +103,7 @@
             "open_issues": 41,
             "owner": "CUHK-AIM-Group",
             "repo": "U-KAN",
-            "stars": 563,
+            "stars": 564,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -1265,7 +1265,7 @@
             "open_issues": 266,
             "owner": "KindXiaoming",
             "repo": "pykan",
-            "stars": 16341,
+            "stars": 16342,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -1644,7 +1644,7 @@
             "id": 989577719,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-09T05:23:20Z",
+            "last_commit": "2026-11-09T20:49:10Z",
             "open_issues": 0,
             "owner": "alexshtf",
             "repo": "torchcurves",
@@ -2318,7 +2318,7 @@
                 "open_issues": 13,
                 "owner": "AntonioTepsich",
                 "repo": "Convolutional-KANs",
-                "stars": 920,
+                "stars": 921,
                 "topics": [
                   "cnn",
                   "computer-vision",
@@ -2954,7 +2954,7 @@
             "open_issues": 1,
             "owner": "JaouadT",
             "repo": "KANU_Net",
-            "stars": 45,
+            "stars": 44,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -3241,7 +3241,7 @@
             "open_issues": 266,
             "owner": "KindXiaoming",
             "repo": "pykan",
-            "stars": 16341,
+            "stars": 16342,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -3521,7 +3521,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T11:17:05.027Z",
+    "last_updated": "2026-11-10T10:58:08.585Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive collection of KAN(Kolmogorov-Arnold Network)-related resources, including libraries, projects, tutorials, papers, and more, for researchers and developers in the Kolmogorov-Arnold Network field.",
