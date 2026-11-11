@@ -52,7 +52,7 @@
             "open_issues": 13,
             "owner": "AntonioTepsich",
             "repo": "Convolutional-KANs",
-            "stars": 921,
+            "stars": 920,
             "topics": [
               "cnn",
               "computer-vision",
@@ -124,7 +124,7 @@
             "open_issues": 9,
             "owner": "IvanDrokin",
             "repo": "torch-conv-kan",
-            "stars": 532,
+            "stars": 533,
             "topics": [
               "computer-vision",
               "convolutional-neural-networks",
@@ -1265,7 +1265,7 @@
             "open_issues": 266,
             "owner": "KindXiaoming",
             "repo": "pykan",
-            "stars": 16342,
+            "stars": 16343,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -1286,7 +1286,7 @@
             "open_issues": 39,
             "owner": "Blealtan",
             "repo": "efficient-kan",
-            "stars": 4662,
+            "stars": 4661,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -1466,7 +1466,7 @@
             "open_issues": 0,
             "owner": "lif314",
             "repo": "X-KANeRF",
-            "stars": 178,
+            "stars": 179,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -1644,11 +1644,11 @@
             "id": 989577719,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-09T20:49:10Z",
+            "last_commit": "2026-11-11T09:19:00Z",
             "open_issues": 0,
             "owner": "alexshtf",
             "repo": "torchcurves",
-            "stars": 69,
+            "stars": 70,
             "topics": [
               "b-splines",
               "curve-fitting",
@@ -2318,7 +2318,7 @@
                 "open_issues": 13,
                 "owner": "AntonioTepsich",
                 "repo": "Convolutional-KANs",
-                "stars": 921,
+                "stars": 920,
                 "topics": [
                   "cnn",
                   "computer-vision",
@@ -2343,7 +2343,7 @@
                 "open_issues": 9,
                 "owner": "IvanDrokin",
                 "repo": "torch-conv-kan",
-                "stars": 532,
+                "stars": 533,
                 "topics": [
                   "computer-vision",
                   "convolutional-neural-networks",
@@ -2822,7 +2822,7 @@
             "open_issues": 0,
             "owner": "lif314",
             "repo": "X-KANeRF",
-            "stars": 178,
+            "stars": 179,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -3241,7 +3241,7 @@
             "open_issues": 266,
             "owner": "KindXiaoming",
             "repo": "pykan",
-            "stars": 16342,
+            "stars": 16343,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -3521,7 +3521,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T10:58:08.585Z",
+    "last_updated": "2026-11-11T10:40:33.877Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive collection of KAN(Kolmogorov-Arnold Network)-related resources, including libraries, projects, tutorials, papers, and more, for researchers and developers in the Kolmogorov-Arnold Network field.",
@@ -3533,7 +3533,7 @@
       "open_issues": 6,
       "owner": "mintisan",
       "repo": "awesome-kan",
-      "stars": 3296,
+      "stars": 3295,
       "topics": []
     },
     "original_repository_sha": "759e0be4d43cb861313f924a534f88849930c89f",
