@@ -77,7 +77,7 @@
             "open_issues": 16,
             "owner": "Adamdad",
             "repo": "kat",
-            "stars": 849,
+            "stars": 848,
             "topics": [
               "computer-vision",
               "kan",
@@ -1265,7 +1265,7 @@
             "open_issues": 266,
             "owner": "KindXiaoming",
             "repo": "pykan",
-            "stars": 16343,
+            "stars": 16344,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -1648,7 +1648,7 @@
             "open_issues": 0,
             "owner": "alexshtf",
             "repo": "torchcurves",
-            "stars": 70,
+            "stars": 71,
             "topics": [
               "b-splines",
               "curve-fitting",
@@ -2780,7 +2780,7 @@
             "open_issues": 8,
             "owner": "riiswa",
             "repo": "kanrl",
-            "stars": 298,
+            "stars": 299,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -3241,7 +3241,7 @@
             "open_issues": 266,
             "owner": "KindXiaoming",
             "repo": "pykan",
-            "stars": 16343,
+            "stars": 16344,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -3521,7 +3521,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T10:40:33.877Z",
+    "last_updated": "2026-11-12T10:52:36.573Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive collection of KAN(Kolmogorov-Arnold Network)-related resources, including libraries, projects, tutorials, papers, and more, for researchers and developers in the Kolmogorov-Arnold Network field.",
@@ -3533,7 +3533,7 @@
       "open_issues": 6,
       "owner": "mintisan",
       "repo": "awesome-kan",
-      "stars": 3295,
+      "stars": 3296,
       "topics": []
     },
     "original_repository_sha": "759e0be4d43cb861313f924a534f88849930c89f",
