@@ -19,7 +19,7 @@
             "open_issues": 19,
             "owner": "pnnl",
             "repo": "neuromancer",
-            "stars": 1400,
+            "stars": 1401,
             "topics": [
               "constrained-optimization",
               "control-systems",
@@ -1286,7 +1286,7 @@
             "open_issues": 39,
             "owner": "Blealtan",
             "repo": "efficient-kan",
-            "stars": 4661,
+            "stars": 4660,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -1648,7 +1648,7 @@
             "open_issues": 0,
             "owner": "alexshtf",
             "repo": "torchcurves",
-            "stars": 73,
+            "stars": 75,
             "topics": [
               "b-splines",
               "curve-fitting",
@@ -2718,7 +2718,7 @@
             "open_issues": 19,
             "owner": "pnnl",
             "repo": "neuromancer",
-            "stars": 1400,
+            "stars": 1401,
             "topics": [
               "constrained-optimization",
               "control-systems",
@@ -2751,7 +2751,7 @@
             "open_issues": 6,
             "owner": "AdityaNG",
             "repo": "kan-gpt",
-            "stars": 723,
+            "stars": 724,
             "topics": [
               "gpt",
               "kanformers",
@@ -3262,7 +3262,7 @@
             "open_issues": 19,
             "owner": "pnnl",
             "repo": "neuromancer",
-            "stars": 1400,
+            "stars": 1401,
             "topics": [
               "constrained-optimization",
               "control-systems",
@@ -3318,7 +3318,7 @@
             "open_issues": 3,
             "owner": "pg2455",
             "repo": "KAN-Tutorial",
-            "stars": 210,
+            "stars": 209,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -3339,7 +3339,7 @@
             "open_issues": 3,
             "owner": "pg2455",
             "repo": "KAN-Tutorial",
-            "stars": 210,
+            "stars": 209,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -3494,7 +3494,7 @@
                 "open_issues": 41,
                 "owner": "gongminmin",
                 "repo": "KlayGE",
-                "stars": 2173,
+                "stars": 2174,
                 "topics": [
                   "cross-platform",
                   "d3d11",
@@ -3521,7 +3521,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T10:48:50.930Z",
+    "last_updated": "2026-11-14T10:04:07.541Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive collection of KAN(Kolmogorov-Arnold Network)-related resources, including libraries, projects, tutorials, papers, and more, for researchers and developers in the Kolmogorov-Arnold Network field.",
