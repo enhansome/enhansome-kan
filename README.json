@@ -1137,7 +1137,7 @@
             "open_issues": 0,
             "owner": "baboonaaaa",
             "repo": "MexiKAN",
-            "stars": 2,
+            "stars": 3,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -1265,7 +1265,7 @@
             "open_issues": 266,
             "owner": "KindXiaoming",
             "repo": "pykan",
-            "stars": 16346,
+            "stars": 16345,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -1487,7 +1487,7 @@
             "open_issues": 3,
             "owner": "zavareh1",
             "repo": "Wav-KAN",
-            "stars": 177,
+            "stars": 178,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -1648,7 +1648,7 @@
             "open_issues": 0,
             "owner": "alexshtf",
             "repo": "torchcurves",
-            "stars": 75,
+            "stars": 76,
             "topics": [
               "b-splines",
               "curve-fitting",
@@ -2248,7 +2248,7 @@
                 "open_issues": 0,
                 "owner": "Da1sypetals",
                 "repo": "cuda-Wavelet-KAN",
-                "stars": 17,
+                "stars": 18,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:15:01.843Z"
@@ -3241,7 +3241,7 @@
             "open_issues": 266,
             "owner": "KindXiaoming",
             "repo": "pykan",
-            "stars": 16346,
+            "stars": 16345,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -3494,7 +3494,7 @@
                 "open_issues": 41,
                 "owner": "gongminmin",
                 "repo": "KlayGE",
-                "stars": 2174,
+                "stars": 2175,
                 "topics": [
                   "cross-platform",
                   "d3d11",
@@ -3521,7 +3521,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T10:04:07.541Z",
+    "last_updated": "2026-11-15T10:39:32.044Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive collection of KAN(Kolmogorov-Arnold Network)-related resources, including libraries, projects, tutorials, papers, and more, for researchers and developers in the Kolmogorov-Arnold Network field.",
@@ -3533,7 +3533,7 @@
       "open_issues": 6,
       "owner": "mintisan",
       "repo": "awesome-kan",
-      "stars": 3296,
+      "stars": 3295,
       "topics": []
     },
     "original_repository_sha": "759e0be4d43cb861313f924a534f88849930c89f",
