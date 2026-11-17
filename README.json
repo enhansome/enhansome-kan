@@ -19,7 +19,7 @@
             "open_issues": 19,
             "owner": "pnnl",
             "repo": "neuromancer",
-            "stars": 1402,
+            "stars": 1401,
             "topics": [
               "constrained-optimization",
               "control-systems",
@@ -52,7 +52,7 @@
             "open_issues": 13,
             "owner": "AntonioTepsich",
             "repo": "Convolutional-KANs",
-            "stars": 920,
+            "stars": 919,
             "topics": [
               "cnn",
               "computer-vision",
@@ -124,7 +124,7 @@
             "open_issues": 9,
             "owner": "IvanDrokin",
             "repo": "torch-conv-kan",
-            "stars": 533,
+            "stars": 532,
             "topics": [
               "computer-vision",
               "convolutional-neural-networks",
@@ -174,7 +174,7 @@
             "open_issues": 1,
             "owner": "remigenet",
             "repo": "TKAN",
-            "stars": 228,
+            "stars": 227,
             "topics": [
               "jax",
               "keras",
@@ -1265,7 +1265,7 @@
             "open_issues": 266,
             "owner": "KindXiaoming",
             "repo": "pykan",
-            "stars": 16345,
+            "stars": 16343,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -1286,7 +1286,7 @@
             "open_issues": 39,
             "owner": "Blealtan",
             "repo": "efficient-kan",
-            "stars": 4660,
+            "stars": 4659,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -1412,7 +1412,7 @@
             "open_issues": 11,
             "owner": "chenziwenhaoshuai",
             "repo": "Vision-KAN",
-            "stars": 256,
+            "stars": 255,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -1433,7 +1433,7 @@
             "open_issues": 1,
             "owner": "remigenet",
             "repo": "TKAN",
-            "stars": 228,
+            "stars": 227,
             "topics": [
               "jax",
               "keras",
@@ -1508,7 +1508,7 @@
             "open_issues": 3,
             "owner": "akaashdash",
             "repo": "kansformers",
-            "stars": 138,
+            "stars": 137,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -2318,7 +2318,7 @@
                 "open_issues": 13,
                 "owner": "AntonioTepsich",
                 "repo": "Convolutional-KANs",
-                "stars": 920,
+                "stars": 919,
                 "topics": [
                   "cnn",
                   "computer-vision",
@@ -2343,7 +2343,7 @@
                 "open_issues": 9,
                 "owner": "IvanDrokin",
                 "repo": "torch-conv-kan",
-                "stars": 533,
+                "stars": 532,
                 "topics": [
                   "computer-vision",
                   "convolutional-neural-networks",
@@ -2718,7 +2718,7 @@
             "open_issues": 19,
             "owner": "pnnl",
             "repo": "neuromancer",
-            "stars": 1402,
+            "stars": 1401,
             "topics": [
               "constrained-optimization",
               "control-systems",
@@ -2751,7 +2751,7 @@
             "open_issues": 6,
             "owner": "AdityaNG",
             "repo": "kan-gpt",
-            "stars": 724,
+            "stars": 723,
             "topics": [
               "gpt",
               "kanformers",
@@ -2801,7 +2801,7 @@
             "open_issues": 11,
             "owner": "chenziwenhaoshuai",
             "repo": "Vision-KAN",
-            "stars": 256,
+            "stars": 255,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -3241,7 +3241,7 @@
             "open_issues": 266,
             "owner": "KindXiaoming",
             "repo": "pykan",
-            "stars": 16345,
+            "stars": 16343,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -3262,7 +3262,7 @@
             "open_issues": 19,
             "owner": "pnnl",
             "repo": "neuromancer",
-            "stars": 1402,
+            "stars": 1401,
             "topics": [
               "constrained-optimization",
               "control-systems",
@@ -3521,7 +3521,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T10:56:32.530Z",
+    "last_updated": "2026-11-17T11:40:29.319Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive collection of KAN(Kolmogorov-Arnold Network)-related resources, including libraries, projects, tutorials, papers, and more, for researchers and developers in the Kolmogorov-Arnold Network field.",
@@ -3533,7 +3533,7 @@
       "open_issues": 6,
       "owner": "mintisan",
       "repo": "awesome-kan",
-      "stars": 3295,
+      "stars": 3294,
       "topics": []
     },
     "original_repository_sha": "759e0be4d43cb861313f924a534f88849930c89f",
