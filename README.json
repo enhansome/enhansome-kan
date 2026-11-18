@@ -103,7 +103,7 @@
             "open_issues": 41,
             "owner": "CUHK-AIM-Group",
             "repo": "U-KAN",
-            "stars": 564,
+            "stars": 563,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -1265,7 +1265,7 @@
             "open_issues": 266,
             "owner": "KindXiaoming",
             "repo": "pykan",
-            "stars": 16343,
+            "stars": 16346,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -2480,7 +2480,7 @@
                 "open_issues": 3,
                 "owner": "Jerry-Master",
                 "repo": "KAN-benchmarking",
-                "stars": 141,
+                "stars": 142,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:15:01.843Z"
@@ -3241,7 +3241,7 @@
             "open_issues": 266,
             "owner": "KindXiaoming",
             "repo": "pykan",
-            "stars": 16343,
+            "stars": 16346,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -3521,7 +3521,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T11:40:29.319Z",
+    "last_updated": "2026-11-18T11:27:51.069Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive collection of KAN(Kolmogorov-Arnold Network)-related resources, including libraries, projects, tutorials, papers, and more, for researchers and developers in the Kolmogorov-Arnold Network field.",
