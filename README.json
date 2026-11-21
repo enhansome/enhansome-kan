@@ -1265,7 +1265,7 @@
             "open_issues": 266,
             "owner": "KindXiaoming",
             "repo": "pykan",
-            "stars": 16342,
+            "stars": 16341,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -1645,7 +1645,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-11-11T09:19:00Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "alexshtf",
             "repo": "torchcurves",
             "stars": 76,
@@ -1744,12 +1744,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "One library, four surfaces. Production-grade Kolmogorov-Arnold Networks || TensorFlow + PyTorch + ONNX. || A small KAN beats a 10× larger MLP on smooth, separable target. One library. Two backends. Real ONNX export. Docker + Kubernetes ready.",
+            "description": "Kolmogorov-Arnold Networks for TensorFlow and PyTorch, with ONNX export, a FastAPI service, a CLI, and Docker and Kubernetes configs.",
             "homepage": null,
             "id": 795826428,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-27T06:56:45Z",
+            "last_commit": "2026-11-21T07:02:53Z",
             "open_issues": 3,
             "owner": "Mattral",
             "repo": "KANX",
@@ -3241,7 +3241,7 @@
             "open_issues": 266,
             "owner": "KindXiaoming",
             "repo": "pykan",
-            "stars": 16342,
+            "stars": 16341,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -3521,7 +3521,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T11:17:06.071Z",
+    "last_updated": "2026-11-21T10:52:19.093Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive collection of KAN(Kolmogorov-Arnold Network)-related resources, including libraries, projects, tutorials, papers, and more, for researchers and developers in the Kolmogorov-Arnold Network field.",
@@ -3533,7 +3533,7 @@
       "open_issues": 6,
       "owner": "mintisan",
       "repo": "awesome-kan",
-      "stars": 3293,
+      "stars": 3294,
       "topics": []
     },
     "original_repository_sha": "759e0be4d43cb861313f924a534f88849930c89f",
