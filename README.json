@@ -19,7 +19,7 @@
             "open_issues": 19,
             "owner": "pnnl",
             "repo": "neuromancer",
-            "stars": 1399,
+            "stars": 1400,
             "topics": [
               "constrained-optimization",
               "control-systems",
@@ -1262,10 +1262,10 @@
             "language": "Jupyter Notebook",
             "license": "MIT",
             "last_commit": "2025-01-19T18:49:39Z",
-            "open_issues": 266,
+            "open_issues": 265,
             "owner": "KindXiaoming",
             "repo": "pykan",
-            "stars": 16341,
+            "stars": 16342,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -2718,7 +2718,7 @@
             "open_issues": 19,
             "owner": "pnnl",
             "repo": "neuromancer",
-            "stars": 1399,
+            "stars": 1400,
             "topics": [
               "constrained-optimization",
               "control-systems",
@@ -3238,10 +3238,10 @@
             "language": "Jupyter Notebook",
             "license": "MIT",
             "last_commit": "2025-01-19T18:49:39Z",
-            "open_issues": 266,
+            "open_issues": 265,
             "owner": "KindXiaoming",
             "repo": "pykan",
-            "stars": 16341,
+            "stars": 16342,
             "topics": []
           },
           "first_seen": "2026-08-28T15:15:01.843Z"
@@ -3262,7 +3262,7 @@
             "open_issues": 19,
             "owner": "pnnl",
             "repo": "neuromancer",
-            "stars": 1399,
+            "stars": 1400,
             "topics": [
               "constrained-optimization",
               "control-systems",
@@ -3521,7 +3521,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T11:01:13.968Z",
+    "last_updated": "2026-11-23T12:11:41.792Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive collection of KAN(Kolmogorov-Arnold Network)-related resources, including libraries, projects, tutorials, papers, and more, for researchers and developers in the Kolmogorov-Arnold Network field.",
@@ -3533,7 +3533,7 @@
       "open_issues": 6,
       "owner": "mintisan",
       "repo": "awesome-kan",
-      "stars": 3294,
+      "stars": 3295,
       "topics": []
     },
     "original_repository_sha": "759e0be4d43cb861313f924a534f88849930c89f",
