@@ -266,7 +266,7 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 
 ### YouTube
 
-* [用KAN拟合环境光渲染的查找表](https://www.youtube.com/watch?v=xZ2TyGAYefQ\&ab_channel=MinminGong) | [code](https://github.com/gongminmin/KlayGE/tree/develop/KlayGE/Samples/src/EnvLighting) ⭐ 2,175 | 🐛 41 | 🌐 C++ | 📅 2026-07-17
+* [用KAN拟合环境光渲染的查找表](https://www.youtube.com/watch?v=xZ2TyGAYefQ\&ab_channel=MinminGong) | [code](https://github.com/gongminmin/KlayGE/tree/develop/KlayGE/Samples/src/EnvLighting) ⭐ 2,176 | 🐛 41 | 🌐 C++ | 📅 2026-07-17
 * [**KAN: Kolmogorov-Arnold Networks | Ziming Liu(KAN Author)**](https://www.youtube.com/watch?v=AUDHb-tnlB0\&ab_channel=ValenceLabs)
 * [**Deep Dive on Kolmogorov–Arnold Neural Networks | Ziming Liu(KAN Author)**](https://youtu.be/95pVYknTAv0?si=BRc5P5FRCw1Y4Q1i\&t=1)
 * [Why the world NEEDS Kolmogorov Arnold Networks](https://www.youtube.com/watch?v=vzUkThsQa9E\&ab_channel=ThatMathThing)
@@ -300,4 +300,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
